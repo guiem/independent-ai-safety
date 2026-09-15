@@ -27,7 +27,7 @@ This validates schemas and references, runs tests, regenerates deterministic JSO
 npm run discover
 ```
 
-The human-in-the-loop collector checks the configured ecosystem directories, a consolidated news query, the international network of public AI evaluation institutes, and the official evidence pages behind organizations already tracked. It currently maintains a high-recall registry of 281 deduplicated candidate domains. Candidates are not shown as verified graph organizations until a reviewer confirms primary sources.
+The human-in-the-loop collector checks the configured ecosystem directories, a consolidated news query, the international network of public AI evaluation institutes, and the official evidence pages behind organizations already tracked. It currently maintains a high-recall registry of 281 deduplicated candidate domains. Candidate leads appear by default as hollow graph nodes with a filterable 1–5 discovery-confidence score, while remaining explicitly separate from verified organizations until a reviewer confirms primary sources.
 
 The daily GitHub workflow maintains one rolling review pull request rather than publishing candidates automatically. See [`docs/discovery.md`](docs/discovery.md) for source configuration, outputs, safety controls, and promotion steps.
 

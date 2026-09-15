@@ -1,7 +1,8 @@
 import test from "node:test";
 import assert from "node:assert/strict";
+import { readFile } from "node:fs/promises";
 import { stableJson, toCsv, xmlEscape } from "../scripts/lib.mjs";
-import { canonicalDomain, extractDirectoryCandidates, extractFeedItems, extractGdeltItems, normalizeUrl, robotsAllows, semanticPageHash } from "../scripts/discovery-lib.mjs";
+import { candidateConfidence, canonicalDomain, extractDirectoryCandidates, extractFeedItems, extractGdeltItems, normalizeUrl, robotsAllows, semanticPageHash } from "../scripts/discovery-lib.mjs";
 
 test("stableJson recursively sorts object keys", () => {
   assert.equal(stableJson({ z:1, a:{ d:2, b:1 } }), '{\n  "a": {\n    "b": 1,\n    "d": 2\n  },\n  "z": 1\n}\n');
@@ -47,4 +48,19 @@ test("semantic page fingerprints ignore scripts but detect visible changes", () 
   const changed = semanticPageHash(`<main><h1>About</h1><p>Changed text</p></main>`, "https://example.org/about");
   assert.equal(first, same);
   assert.notEqual(first, changed);
+});
+
+test("candidate confidence distinguishes primary confirmation and corroboration", () => {
+  assert.equal(candidateConfidence({ primary_source_confirmed:true, discovery_sources:["a"] }).level, 5);
+  assert.equal(candidateConfidence({ discovery_sources:["a", "b", "c"] }).level, 4);
+  assert.equal(candidateConfidence({ discovery_sources:["a"] }, new Map([["a", "borderline"]])).level, 2);
+  assert.equal(candidateConfidence({ discovery_sources:["a"] }, new Map([["a", "unknown"]])).level, 1);
+});
+
+test("generated graph exposes scored candidate leads separately", async () => {
+  const graph = JSON.parse(await readFile(new URL("../public/data/graph.json", import.meta.url), "utf8"));
+  const candidateNodes = graph.nodes.filter(node => node.data.scope === "candidate");
+  assert.ok(candidateNodes.length > 0);
+  assert.ok(candidateNodes.every(node => Number.isInteger(node.data.confidence_level) && node.data.confidence_level >= 1 && node.data.confidence_level <= 5));
+  assert.ok(candidateNodes.every(node => node.data.evidence_level === "discovery-only"));
 });

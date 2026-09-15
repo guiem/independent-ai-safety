@@ -4,7 +4,7 @@
   "title": "Discovery candidate",
   "type": "object",
   "additionalProperties": false,
-  "required": ["id", "name", "website", "canonical_domain", "status", "discovery_sources", "listing_urls", "source_contexts", "first_seen", "last_seen", "evidence_level", "inclusion_hint", "notes"],
+  "required": ["id", "name", "website", "canonical_domain", "status", "discovery_sources", "listing_urls", "source_contexts", "first_seen", "last_seen", "evidence_level", "inclusion_hint", "confidence_level", "confidence_basis", "notes"],
   "properties": {
     "id": { "type": "string", "pattern": "^cand-[a-z0-9]+(?:-[a-z0-9]+)*$" },
     "name": { "type": "string", "minLength": 2, "maxLength": 160 },
@@ -18,6 +18,9 @@
     "last_seen": { "type": "string", "format": "date" },
     "evidence_level": { "const": "discovery-only" },
     "inclusion_hint": { "enum": ["likely-core", "likely-context", "borderline", "unknown"] },
+    "primary_source_confirmed": { "type": "boolean" },
+    "confidence_level": { "type": "integer", "minimum": 1, "maximum": 5 },
+    "confidence_basis": { "type": "string", "minLength": 1, "maxLength": 300 },
     "notes": { "type": ["string", "null"] }
   }
 }

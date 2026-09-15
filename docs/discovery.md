@@ -29,6 +29,16 @@ The collector writes:
 - `data/discovery/state.json`: content fingerprints and already-seen feed-item IDs;
 - `reports/discovery/latest.md`: a compact human-review queue.
 
+Candidate records and exports include a deterministic `confidence_level` from 1 to 5. This is discovery confidence—the strength of the signal that the named website represents a real, plausibly in-scope organization or stable program—not confidence in any country, legal, independence, funding, activity, or relationship claim.
+
+- **5:** an official primary source confirms the organization or program is operating;
+- **4:** the lead appears independently in at least three configured discovery sources;
+- **3:** it appears in two sources, or one focused higher-precision source;
+- **2:** it appears in one broad ecosystem directory;
+- **1:** it has only a weak or unclassified signal.
+
+The public graph shows all candidate leads by default as small hollow nodes. Users can hide them, select only candidate scope, or set a minimum discovery-confidence threshold. Candidate detail panels preserve the warning and source links; they do not expose unreviewed classifications as facts.
+
 Set `DISCOVERY_DATE=YYYY-MM-DD` for a reproducible dated fixture or historical test. Use `npm run discover -- --dry-run` to print a report without writing files.
 
 ## Daily automation

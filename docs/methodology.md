@@ -13,7 +13,7 @@ The primary unit is an institution or stable fiscally sponsored project. Univers
 5. Record unknowns and contradictions explicitly.
 6. Validate schemas and cross-record references.
 7. Require human review before moving a candidate into canonical data.
-8. Build deterministic public JSON and exports from canonical records.
+8. Build deterministic public JSON and exports, keeping canonical records and unverified discovery candidates explicitly separated.
 
 ## Stable IDs
 
@@ -31,6 +31,10 @@ IDs are lowercase ASCII slugs with a type prefix: `org-`, `src-`, `rel-`, `obs-`
 - Node sizing uses square-root scaling and a neutral default for unknown values.
 - Derived similarity uses shared taxonomy tags and is never stored as a factual institutional relationship.
 - Export timestamps are derived from the latest `last_verified` date rather than wall-clock build time, so identical YAML produces byte-identical output.
+
+## Candidate discovery confidence
+
+Candidate leads use a separate integer score from 1 to 5 based only on primary confirmation, source count, and configured source precision. It supports review prioritization and graph filtering. It is not an independence score, a probability, or evidence that any substantive field is correct. Promotion to a canonical organization still requires human review of primary sources.
 
 ## Limitations
 

@@ -50,6 +50,17 @@ export function cleanLabel(value, domain) {
   return domain.split(".")[0].replaceAll("-", " ").replace(/\b\w/g, letter => letter.toUpperCase());
 }
 
+export function candidateConfidence(candidate, sourceHints = new Map()) {
+  if (candidate.primary_source_confirmed) return { level: 5, basis: "An official primary source confirms the organization or program is operating." };
+  const sourceCount = candidate.discovery_sources?.length || 0;
+  if (sourceCount >= 3) return { level: 4, basis: `Found independently in ${sourceCount} configured discovery sources.` };
+  if (sourceCount === 2) return { level: 3, basis: "Found independently in two configured discovery sources." };
+  const hint = sourceHints.get(candidate.discovery_sources?.[0]) || candidate.inclusion_hint;
+  if (["likely-core", "likely-context"].includes(hint)) return { level: 3, basis: "Found in one focused, higher-precision discovery source." };
+  if (hint === "borderline") return { level: 2, basis: "Found in one broad ecosystem directory; scope and identity need review." };
+  return { level: 1, basis: "Single weak or unclassified discovery signal; substantial review is needed." };
+}
+
 export function extractDirectoryCandidates(html, sourceUrl, knownDomains = new Set()) {
   const $ = cheerio.load(html);
   const sourceDomain = canonicalDomain(sourceUrl);

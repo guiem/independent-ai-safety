@@ -2,6 +2,8 @@
   "candidates": [
     {
       "canonical_domain": "acsresearch.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -23,6 +25,8 @@
     },
     {
       "canonical_domain": "adalovelaceinstitute.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-failure-first"
       ],
@@ -42,6 +46,8 @@
     },
     {
       "canonical_domain": "ae.studio",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -63,6 +69,8 @@
     },
     {
       "canonical_domain": "aether-ai-research.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -84,6 +92,8 @@
     },
     {
       "canonical_domain": "affi.ne",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -105,6 +115,8 @@
     },
     {
       "canonical_domain": "ai-evaluation.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-failure-first"
       ],
@@ -124,6 +136,8 @@
     },
     {
       "canonical_domain": "ai.objectives.institute",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -145,6 +159,8 @@
     },
     {
       "canonical_domain": "ai-plans.com",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -166,6 +182,8 @@
     },
     {
       "canonical_domain": "ai2050.schmidtsciences.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -187,6 +205,8 @@
     },
     {
       "canonical_domain": "aialignment.mit.edu",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-failure-first"
       ],
@@ -206,6 +226,8 @@
     },
     {
       "canonical_domain": "aialignmentfoundation.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -227,6 +249,8 @@
     },
     {
       "canonical_domain": "aifutures.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -248,6 +272,8 @@
     },
     {
       "canonical_domain": "aifuturesproject.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-failure-first"
       ],
@@ -267,6 +293,8 @@
     },
     {
       "canonical_domain": "aigi.ox.ac.uk",
+      "confidence_basis": "Found independently in two configured discovery sources.",
+      "confidence_level": 3,
       "discovery_sources": [
         "discovery-ai-safety-guide",
         "discovery-aisafety-map"
@@ -290,6 +318,8 @@
     },
     {
       "canonical_domain": "aigs.ca",
+      "confidence_basis": "Found independently in two configured discovery sources.",
+      "confidence_level": 3,
       "discovery_sources": [
         "discovery-aisafety-map",
         "discovery-failure-first"
@@ -313,6 +343,8 @@
     },
     {
       "canonical_domain": "aigsi.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -334,6 +366,8 @@
     },
     {
       "canonical_domain": "aiimpacts.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -355,6 +389,8 @@
     },
     {
       "canonical_domain": "aipolicyinstitute.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-failure-first"
       ],
@@ -374,6 +410,8 @@
     },
     {
       "canonical_domain": "airiskdeployer.org",
+      "confidence_basis": "Found in one focused, higher-precision discovery source.",
+      "confidence_level": 3,
       "discovery_sources": [
         "discovery-mindxo-atlas"
       ],
@@ -393,6 +431,8 @@
     },
     {
       "canonical_domain": "airiskfund.com",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -414,6 +454,8 @@
     },
     {
       "canonical_domain": "aisafety.camp",
+      "confidence_basis": "Found independently in two configured discovery sources.",
+      "confidence_level": 3,
       "discovery_sources": [
         "discovery-aisafety-map",
         "discovery-failure-first"
@@ -437,6 +479,8 @@
     },
     {
       "canonical_domain": "aisafety.com",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-failure-first"
       ],
@@ -456,6 +500,8 @@
     },
     {
       "canonical_domain": "aisafety.sg",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -477,6 +523,8 @@
     },
     {
       "canonical_domain": "aisafety.training",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-failure-first"
       ],
@@ -496,6 +544,8 @@
     },
     {
       "canonical_domain": "aisafetyawarenessproject.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -517,6 +567,8 @@
     },
     {
       "canonical_domain": "aisb.dev",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -538,6 +590,8 @@
     },
     {
       "canonical_domain": "aisfoundation.ai",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -559,6 +613,8 @@
     },
     {
       "canonical_domain": "aisi.go.jp",
+      "confidence_basis": "An official primary source confirms the organization or program is operating.",
+      "confidence_level": 5,
       "discovery_sources": [
         "discovery-naaimes-members"
       ],
@@ -573,6 +629,7 @@
       ],
       "name": "Japan AI Safety Institute (J-AISI)",
       "notes": "Confirmed as an active institute on its official website; legal parentage and all graph claims still require canonical review.",
+      "primary_source_confirmed": true,
       "source_contexts": [
         "Government evaluation and measurement institute"
       ],
@@ -581,6 +638,8 @@
     },
     {
       "canonical_domain": "aisi.gov.uk",
+      "confidence_basis": "An official primary source confirms the organization or program is operating.",
+      "confidence_level": 5,
       "discovery_sources": [
         "discovery-ai-safety-guide",
         "discovery-aisafety-map",
@@ -601,7 +660,8 @@
         "https://www.aisi.gov.uk/blog/international-ai-network-consensus-and-open-questions"
       ],
       "name": "UK AI Security Institute (UK AISI)",
-      "notes": "Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.",
+      "notes": "Confirmed on the institute's official government website; legal identity, classifications, and all relationship claims still require canonical review.",
+      "primary_source_confirmed": true,
       "source_contexts": [
         "Governance"
       ],
@@ -610,6 +670,8 @@
     },
     {
       "canonical_domain": "aisi.re.kr",
+      "confidence_basis": "An official primary source confirms the organization or program is operating.",
+      "confidence_level": 5,
       "discovery_sources": [
         "discovery-naaimes-members"
       ],
@@ -624,6 +686,7 @@
       ],
       "name": "Korea AI Safety Institute",
       "notes": "Confirmed by the Korean Ministry of Science and ICT launch record; its own website and all graph claims still require canonical review.",
+      "primary_source_confirmed": true,
       "source_contexts": [
         "Government evaluation and measurement institute"
       ],
@@ -632,6 +695,8 @@
     },
     {
       "canonical_domain": "aistandardslab.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -653,6 +718,8 @@
     },
     {
       "canonical_domain": "aiwi.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -674,6 +741,8 @@
     },
     {
       "canonical_domain": "aixi.uk",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -695,6 +764,8 @@
     },
     {
       "canonical_domain": "ajl.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-failure-first"
       ],
@@ -714,6 +785,8 @@
     },
     {
       "canonical_domain": "algorithmicalignment.csail.mit.edu",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -735,6 +808,8 @@
     },
     {
       "canonical_domain": "algoverseairesearch.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -756,6 +831,8 @@
     },
     {
       "canonical_domain": "alignment.dev",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -777,6 +854,8 @@
     },
     {
       "canonical_domain": "alignment.org",
+      "confidence_basis": "Found independently in two configured discovery sources.",
+      "confidence_level": 3,
       "discovery_sources": [
         "discovery-aisafety-map",
         "discovery-maisi"
@@ -800,6 +879,8 @@
     },
     {
       "canonical_domain": "alltechishuman.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-failure-first"
       ],
@@ -819,6 +900,8 @@
     },
     {
       "canonical_domain": "alter.org.il",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -840,6 +923,8 @@
     },
     {
       "canonical_domain": "amnesty.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-failure-first"
       ],
@@ -859,6 +944,8 @@
     },
     {
       "canonical_domain": "apartresearch.com",
+      "confidence_basis": "Found independently in two configured discovery sources.",
+      "confidence_level": 3,
       "discovery_sources": [
         "discovery-ai-safety-guide",
         "discovery-aisafety-map"
@@ -882,6 +969,8 @@
     },
     {
       "canonical_domain": "arbital.greaterwrong.com",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -903,6 +992,8 @@
     },
     {
       "canonical_domain": "arcadiaimpact.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -924,6 +1015,8 @@
     },
     {
       "canonical_domain": "arena.education",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -945,6 +1038,8 @@
     },
     {
       "canonical_domain": "ari.us",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -966,6 +1061,8 @@
     },
     {
       "canonical_domain": "aria.org.uk",
+      "confidence_basis": "Found independently in two configured discovery sources.",
+      "confidence_level": 3,
       "discovery_sources": [
         "discovery-ai-safety-guide",
         "discovery-aisafety-map"
@@ -989,6 +1086,8 @@
     },
     {
       "canonical_domain": "arva.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-failure-first"
       ],
@@ -1008,6 +1107,8 @@
     },
     {
       "canonical_domain": "ashgro.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -1029,6 +1130,8 @@
     },
     {
       "canonical_domain": "astera.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -1050,6 +1153,8 @@
     },
     {
       "canonical_domain": "astralisfoundation.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -1071,6 +1176,8 @@
     },
     {
       "canonical_domain": "atlas.mitre.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-ai-safety-guide"
       ],
@@ -1090,6 +1197,8 @@
     },
     {
       "canonical_domain": "atlascomputing.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -1111,6 +1220,8 @@
     },
     {
       "canonical_domain": "averi.org",
+      "confidence_basis": "Found independently in two configured discovery sources.",
+      "confidence_level": 3,
       "discovery_sources": [
         "discovery-aef-members",
         "discovery-aisafety-map"
@@ -1134,6 +1245,8 @@
     },
     {
       "canonical_domain": "baseresearch.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -1155,6 +1268,8 @@
     },
     {
       "canonical_domain": "beijing.ai-safety-and-governance.institute",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -1176,6 +1291,8 @@
     },
     {
       "canonical_domain": "beneficialaifoundation.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -1197,6 +1314,8 @@
     },
     {
       "canonical_domain": "bluedot.org",
+      "confidence_basis": "Found independently in 3 configured discovery sources.",
+      "confidence_level": 4,
       "discovery_sources": [
         "discovery-ai-safety-guide",
         "discovery-aisafety-map",
@@ -1222,6 +1341,8 @@
     },
     {
       "canonical_domain": "brookings.edu",
+      "confidence_basis": "Found independently in two configured discovery sources.",
+      "confidence_level": 3,
       "discovery_sources": [
         "discovery-ai-safety-guide",
         "discovery-failure-first"
@@ -1243,6 +1364,8 @@
     },
     {
       "canonical_domain": "buildaligned.ai",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -1264,6 +1387,8 @@
     },
     {
       "canonical_domain": "cadenzalabs.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -1285,6 +1410,8 @@
     },
     {
       "canonical_domain": "caish.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -1306,6 +1433,8 @@
     },
     {
       "canonical_domain": "camlin.co",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -1327,6 +1456,8 @@
     },
     {
       "canonical_domain": "carma.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -1348,6 +1479,8 @@
     },
     {
       "canonical_domain": "carnegieendowment.org",
+      "confidence_basis": "Found independently in two configured discovery sources.",
+      "confidence_level": 3,
       "discovery_sources": [
         "discovery-ai-safety-guide",
         "discovery-failure-first"
@@ -1369,6 +1502,8 @@
     },
     {
       "canonical_domain": "casp.ac",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -1390,6 +1525,8 @@
     },
     {
       "canonical_domain": "catalyze-impact.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -1411,6 +1548,8 @@
     },
     {
       "canonical_domain": "cavendishlabs.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -1432,6 +1571,8 @@
     },
     {
       "canonical_domain": "cbai.ai",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -1453,6 +1594,8 @@
     },
     {
       "canonical_domain": "cbl.eng.cam.ac.uk",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -1474,6 +1617,8 @@
     },
     {
       "canonical_domain": "cdt.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-failure-first"
       ],
@@ -1493,6 +1638,8 @@
     },
     {
       "canonical_domain": "ceealar.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -1514,6 +1661,8 @@
     },
     {
       "canonical_domain": "centerforhealthsecurity.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-failure-first"
       ],
@@ -1533,6 +1682,8 @@
     },
     {
       "canonical_domain": "cesia.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -1554,6 +1705,8 @@
     },
     {
       "canonical_domain": "cfg.eu",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -1575,6 +1728,8 @@
     },
     {
       "canonical_domain": "cifar.ca",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-failure-first"
       ],
@@ -1594,6 +1749,8 @@
     },
     {
       "canonical_domain": "cigionline.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-failure-first"
       ],
@@ -1613,6 +1770,8 @@
     },
     {
       "canonical_domain": "cip.org",
+      "confidence_basis": "Found in one focused, higher-precision discovery source.",
+      "confidence_level": 3,
       "discovery_sources": [
         "discovery-aef-members"
       ],
@@ -1632,6 +1791,8 @@
     },
     {
       "canonical_domain": "ciss.tsinghua.edu.cn",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-ai-safety-guide"
       ],
@@ -1651,6 +1812,8 @@
     },
     {
       "canonical_domain": "clair-ai.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -1672,6 +1835,8 @@
     },
     {
       "canonical_domain": "cloudsecurityalliance.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-ai-safety-guide"
       ],
@@ -1691,6 +1856,8 @@
     },
     {
       "canonical_domain": "cltc.berkeley.edu",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -1712,6 +1879,8 @@
     },
     {
       "canonical_domain": "cnaisi.cn",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -1733,6 +1902,8 @@
     },
     {
       "canonical_domain": "coalitionforsecureai.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-ai-safety-guide"
       ],
@@ -1752,6 +1923,8 @@
     },
     {
       "canonical_domain": "compassionml.com",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -1773,6 +1946,8 @@
     },
     {
       "canonical_domain": "concordia-ai.com",
+      "confidence_basis": "Found independently in two configured discovery sources.",
+      "confidence_level": 3,
       "discovery_sources": [
         "discovery-ai-safety-guide",
         "discovery-aisafety-map"
@@ -1796,6 +1971,8 @@
     },
     {
       "canonical_domain": "conjecture.dev",
+      "confidence_basis": "Found independently in two configured discovery sources.",
+      "confidence_level": 3,
       "discovery_sources": [
         "discovery-aisafety-map",
         "discovery-failure-first"
@@ -1819,6 +1996,8 @@
     },
     {
       "canonical_domain": "constellation.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -1840,6 +2019,8 @@
     },
     {
       "canonical_domain": "contramont.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -1861,6 +2042,8 @@
     },
     {
       "canonical_domain": "controlai.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -1882,6 +2065,8 @@
     },
     {
       "canonical_domain": "convergenceanalysis.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -1903,6 +2088,8 @@
     },
     {
       "canonical_domain": "cooperativeai.com",
+      "confidence_basis": "Found independently in two configured discovery sources.",
+      "confidence_level": 3,
       "discovery_sources": [
         "discovery-ai-safety-guide",
         "discovery-aisafety-map"
@@ -1926,6 +2113,8 @@
     },
     {
       "canonical_domain": "coral-research.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -1947,6 +2136,8 @@
     },
     {
       "canonical_domain": "csa.gov.sg",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-ai-safety-guide"
       ],
@@ -1966,6 +2157,8 @@
     },
     {
       "canonical_domain": "cser.ac.uk",
+      "confidence_basis": "Found independently in two configured discovery sources.",
+      "confidence_level": 3,
       "discovery_sources": [
         "discovery-aisafety-map",
         "discovery-failure-first"
@@ -1989,6 +2182,8 @@
     },
     {
       "canonical_domain": "cset.georgetown.edu",
+      "confidence_basis": "Found independently in 3 configured discovery sources.",
+      "confidence_level": 4,
       "discovery_sources": [
         "discovery-ai-safety-guide",
         "discovery-aisafety-map",
@@ -2014,6 +2209,8 @@
     },
     {
       "canonical_domain": "cyber.fsi.stanford.edu",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-failure-first"
       ],
@@ -2033,6 +2230,8 @@
     },
     {
       "canonical_domain": "cyber.harvard.edu",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-failure-first"
       ],
@@ -2052,6 +2251,8 @@
     },
     {
       "canonical_domain": "darpa.mil",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-ai-safety-guide"
       ],
@@ -2071,6 +2272,8 @@
     },
     {
       "canonical_domain": "datasociety.net",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-failure-first"
       ],
@@ -2090,6 +2293,8 @@
     },
     {
       "canonical_domain": "deepseek.com",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -2111,6 +2316,8 @@
     },
     {
       "canonical_domain": "digital-strategy.ec.europa.eu",
+      "confidence_basis": "An official primary source confirms the organization or program is operating.",
+      "confidence_level": 5,
       "discovery_sources": [
         "discovery-ai-safety-guide",
         "discovery-aisafety-map",
@@ -2129,7 +2336,8 @@
         "https://www.aisi.gov.uk/blog/international-ai-network-consensus-and-open-questions"
       ],
       "name": "European AI Office",
-      "notes": "Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.",
+      "notes": "Confirmed on the European Commission's official AI Office page; classifications and all relationship claims still require canonical review.",
+      "primary_source_confirmed": true,
       "source_contexts": [
         "Governance"
       ],
@@ -2138,6 +2346,8 @@
     },
     {
       "canonical_domain": "dovetailresearch.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -2159,6 +2369,8 @@
     },
     {
       "canonical_domain": "effectiveinstitutionsproject.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -2180,6 +2392,8 @@
     },
     {
       "canonical_domain": "effectivethesis.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -2201,6 +2415,8 @@
     },
     {
       "canonical_domain": "eleuther.ai",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -2222,6 +2438,8 @@
     },
     {
       "canonical_domain": "enais.co",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -2243,6 +2461,8 @@
     },
     {
       "canonical_domain": "encodeai.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -2264,6 +2484,8 @@
     },
     {
       "canonical_domain": "engagedbuddhists.ai",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -2285,6 +2507,8 @@
     },
     {
       "canonical_domain": "enisa.europa.eu",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-ai-safety-guide"
       ],
@@ -2304,6 +2528,8 @@
     },
     {
       "canonical_domain": "epoch.ai",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -2325,6 +2551,8 @@
     },
     {
       "canonical_domain": "epochai.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-failure-first"
       ],
@@ -2344,6 +2572,8 @@
     },
     {
       "canonical_domain": "eq-network.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -2365,6 +2595,8 @@
     },
     {
       "canonical_domain": "equistamp.com",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -2386,6 +2618,8 @@
     },
     {
       "canonical_domain": "erafellowship.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -2407,6 +2641,8 @@
     },
     {
       "canonical_domain": "ergoimpact.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -2428,6 +2664,8 @@
     },
     {
       "canonical_domain": "evitable.com",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -2449,6 +2687,8 @@
     },
     {
       "canonical_domain": "existence.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -2470,6 +2710,8 @@
     },
     {
       "canonical_domain": "existentialriskobservatory.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -2491,6 +2733,8 @@
     },
     {
       "canonical_domain": "existentialsafety.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -2512,6 +2756,8 @@
     },
     {
       "canonical_domain": "explainable.media",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -2533,6 +2779,8 @@
     },
     {
       "canonical_domain": "fair-uba.com",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -2554,6 +2802,8 @@
     },
     {
       "canonical_domain": "far.ai",
+      "confidence_basis": "Found independently in 3 configured discovery sources.",
+      "confidence_level": 4,
       "discovery_sources": [
         "discovery-ai-safety-guide",
         "discovery-aisafety-map",
@@ -2579,6 +2829,8 @@
     },
     {
       "canonical_domain": "fathom.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -2600,6 +2852,8 @@
     },
     {
       "canonical_domain": "fhi.ox.ac.uk",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-failure-first"
       ],
@@ -2619,6 +2873,8 @@
     },
     {
       "canonical_domain": "fiftyyears.com",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -2640,6 +2896,8 @@
     },
     {
       "canonical_domain": "flf.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -2661,6 +2919,8 @@
     },
     {
       "canonical_domain": "forecastingresearch.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -2682,6 +2942,8 @@
     },
     {
       "canonical_domain": "foresight.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -2703,6 +2965,8 @@
     },
     {
       "canonical_domain": "forethought.org",
+      "confidence_basis": "Found independently in two configured discovery sources.",
+      "confidence_level": 3,
       "discovery_sources": [
         "discovery-ai-safety-guide",
         "discovery-aisafety-map"
@@ -2726,6 +2990,8 @@
     },
     {
       "canonical_domain": "formationresearch.com",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -2747,6 +3013,8 @@
     },
     {
       "canonical_domain": "founderspledge.com",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -2768,6 +3036,8 @@
     },
     {
       "canonical_domain": "framefellowship.com",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -2789,6 +3059,8 @@
     },
     {
       "canonical_domain": "frontiermodelforum.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-failure-first"
       ],
@@ -2808,6 +3080,8 @@
     },
     {
       "canonical_domain": "funds.effectivealtruism.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -2829,6 +3103,8 @@
     },
     {
       "canonical_domain": "future-matters.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -2850,6 +3126,8 @@
     },
     {
       "canonical_domain": "futureimpact.group",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -2871,6 +3149,8 @@
     },
     {
       "canonical_domain": "futureoflife.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-failure-first"
       ],
@@ -2890,6 +3170,8 @@
     },
     {
       "canonical_domain": "futuretech.mit.edu",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -2911,6 +3193,8 @@
     },
     {
       "canonical_domain": "gcri.org",
+      "confidence_basis": "Found independently in two configured discovery sources.",
+      "confidence_level": 3,
       "discovery_sources": [
         "discovery-aisafety-map",
         "discovery-failure-first"
@@ -2934,6 +3218,8 @@
     },
     {
       "canonical_domain": "genai.owasp.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-ai-safety-guide"
       ],
@@ -2953,6 +3239,8 @@
     },
     {
       "canonical_domain": "geodesicresearch.ai",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -2974,6 +3262,8 @@
     },
     {
       "canonical_domain": "givingwhatwecan.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -2995,6 +3285,8 @@
     },
     {
       "canonical_domain": "globalchallengesproject.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -3016,6 +3308,8 @@
     },
     {
       "canonical_domain": "goodancestors.org.au",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -3037,6 +3331,8 @@
     },
     {
       "canonical_domain": "goodfire.com",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -3058,6 +3354,8 @@
     },
     {
       "canonical_domain": "goodimpressionsmedia.com",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -3079,6 +3377,8 @@
     },
     {
       "canonical_domain": "gpai.ai",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-failure-first"
       ],
@@ -3098,6 +3398,8 @@
     },
     {
       "canonical_domain": "grantmaking.ai",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -3119,6 +3421,8 @@
     },
     {
       "canonical_domain": "grayswan.ai",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -3140,6 +3444,8 @@
     },
     {
       "canonical_domain": "hai.stanford.edu",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-failure-first"
       ],
@@ -3159,6 +3465,8 @@
     },
     {
       "canonical_domain": "hal.cs.princeton.edu",
+      "confidence_basis": "Found in one focused, higher-precision discovery source.",
+      "confidence_level": 3,
       "discovery_sources": [
         "discovery-aef-members"
       ],
@@ -3178,6 +3486,8 @@
     },
     {
       "canonical_domain": "halcyonfutures.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -3199,6 +3509,8 @@
     },
     {
       "canonical_domain": "harmonyintelligence.com",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -3220,6 +3532,8 @@
     },
     {
       "canonical_domain": "highimpactprofessionals.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -3241,6 +3555,8 @@
     },
     {
       "canonical_domain": "humanaligned.ai",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -3262,6 +3578,8 @@
     },
     {
       "canonical_domain": "humancompatible.ai",
+      "confidence_basis": "Found independently in 3 configured discovery sources.",
+      "confidence_level": 4,
       "discovery_sources": [
         "discovery-ai-safety-guide",
         "discovery-aisafety-map",
@@ -3287,6 +3605,8 @@
     },
     {
       "canonical_domain": "humansincontrol.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -3308,6 +3628,8 @@
     },
     {
       "canonical_domain": "iaiga.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -3329,6 +3651,8 @@
     },
     {
       "canonical_domain": "iaps.ai",
+      "confidence_basis": "Found independently in 3 configured discovery sources.",
+      "confidence_level": 4,
       "discovery_sources": [
         "discovery-ai-safety-guide",
         "discovery-aisafety-map",
@@ -3354,6 +3678,8 @@
     },
     {
       "canonical_domain": "iaseai.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -3375,6 +3701,8 @@
     },
     {
       "canonical_domain": "iliad.ac",
+      "confidence_basis": "Found independently in two configured discovery sources.",
+      "confidence_level": 3,
       "discovery_sources": [
         "discovery-aisafety-map",
         "discovery-maisi"
@@ -3398,6 +3726,8 @@
     },
     {
       "canonical_domain": "ilinaprogram.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -3419,6 +3749,8 @@
     },
     {
       "canonical_domain": "imda.gov.sg",
+      "confidence_basis": "An official primary source confirms the organization or program is operating.",
+      "confidence_level": 5,
       "discovery_sources": [
         "discovery-naaimes-members"
       ],
@@ -3433,6 +3765,7 @@
       ],
       "name": "Digital Trust Centre / Singapore AI Safety Institute",
       "notes": "Confirmed by IMDA's designation of the Digital Trust Centre as Singapore's AISI; legal structure and all graph claims still require canonical review.",
+      "primary_source_confirmed": true,
       "source_contexts": [
         "Government evaluation and measurement institute"
       ],
@@ -3441,6 +3774,8 @@
     },
     {
       "canonical_domain": "impact-ops.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -3462,6 +3797,8 @@
     },
     {
       "canonical_domain": "incidentdatabase.ai",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-failure-first"
       ],
@@ -3481,6 +3818,8 @@
     },
     {
       "canonical_domain": "industry.gov.au",
+      "confidence_basis": "An official primary source confirms the organization or program is operating.",
+      "confidence_level": 5,
       "discovery_sources": [
         "discovery-naaimes-members"
       ],
@@ -3495,6 +3834,7 @@
       ],
       "name": "Australia's AI Safety Institute",
       "notes": "Confirmed as an active institute on its official Australian Government page; all graph claims still require canonical review.",
+      "primary_source_confirmed": true,
       "source_contexts": [
         "Government evaluation and measurement institute"
       ],
@@ -3503,6 +3843,8 @@
     },
     {
       "canonical_domain": "intelligencerising.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -3524,6 +3866,8 @@
     },
     {
       "canonical_domain": "internationalaisafetyreport.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-failure-first"
       ],
@@ -3543,6 +3887,8 @@
     },
     {
       "canonical_domain": "ised-isde.canada.ca",
+      "confidence_basis": "An official primary source confirms the organization or program is operating.",
+      "confidence_level": 5,
       "discovery_sources": [
         "discovery-failure-first",
         "discovery-naaimes-members"
@@ -3559,12 +3905,15 @@
       ],
       "name": "Canadian Artificial Intelligence Safety Institute (CAISI)",
       "notes": "Confirmed as an active institute on its official Government of Canada page; legal identity, parentage, classifications, and all graph claims still require canonical review.",
+      "primary_source_confirmed": true,
       "source_contexts": [],
       "status": "new",
       "website": "https://ised-isde.canada.ca/site/ised/en/canadian-artificial-intelligence-safety-institute"
     },
     {
       "canonical_domain": "iso.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-failure-first"
       ],
@@ -3584,6 +3933,8 @@
     },
     {
       "canonical_domain": "joint-research-centre.ec.europa.eu",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-failure-first"
       ],
@@ -3603,6 +3954,8 @@
     },
     {
       "canonical_domain": "juniper.xyz",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -3624,6 +3977,8 @@
     },
     {
       "canonical_domain": "kairos-project.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -3645,6 +4000,8 @@
     },
     {
       "canonical_domain": "lasrlabs.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -3666,6 +4023,8 @@
     },
     {
       "canonical_domain": "lasst.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -3687,6 +4046,8 @@
     },
     {
       "canonical_domain": "law-ai.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -3708,6 +4069,8 @@
     },
     {
       "canonical_domain": "lcfi.ac.uk",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-failure-first"
       ],
@@ -3727,6 +4090,8 @@
     },
     {
       "canonical_domain": "leaf.courses",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -3748,6 +4113,8 @@
     },
     {
       "canonical_domain": "legalsafetylab.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -3769,6 +4136,8 @@
     },
     {
       "canonical_domain": "lensacademy.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -3790,6 +4159,8 @@
     },
     {
       "canonical_domain": "leomckeereid.com",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-failure-first"
       ],
@@ -3809,6 +4180,8 @@
     },
     {
       "canonical_domain": "lightconecommons.com",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -3830,6 +4203,8 @@
     },
     {
       "canonical_domain": "lightconeinfrastructure.com",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -3851,6 +4226,8 @@
     },
     {
       "canonical_domain": "linuxfoundation.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-ai-safety-guide"
       ],
@@ -3870,6 +4247,8 @@
     },
     {
       "canonical_domain": "lionheart.vc",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -3891,6 +4270,8 @@
     },
     {
       "canonical_domain": "longtermresilience.org",
+      "confidence_basis": "Found independently in two configured discovery sources.",
+      "confidence_level": 3,
       "discovery_sources": [
         "discovery-aisafety-map",
         "discovery-failure-first"
@@ -3914,6 +4295,8 @@
     },
     {
       "canonical_domain": "longtermrisk.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -3935,6 +4318,8 @@
     },
     {
       "canonical_domain": "longview.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -3956,6 +4341,8 @@
     },
     {
       "canonical_domain": "luthienresearch.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -3977,6 +4364,8 @@
     },
     {
       "canonical_domain": "macroscopic.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -3998,6 +4387,8 @@
     },
     {
       "canonical_domain": "manifold.markets",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -4019,6 +4410,8 @@
     },
     {
       "canonical_domain": "manifund.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -4040,6 +4433,8 @@
     },
     {
       "canonical_domain": "matsprogram.org",
+      "confidence_basis": "Found independently in two configured discovery sources.",
+      "confidence_level": 3,
       "discovery_sources": [
         "discovery-aisafety-map",
         "discovery-failure-first"
@@ -4063,6 +4458,8 @@
     },
     {
       "canonical_domain": "meaningalignment.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -4084,6 +4481,8 @@
     },
     {
       "canonical_domain": "mediangroup.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -4105,6 +4504,8 @@
     },
     {
       "canonical_domain": "meridiancambridge.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -4126,6 +4527,8 @@
     },
     {
       "canonical_domain": "meridianlabs.ai",
+      "confidence_basis": "Found in one focused, higher-precision discovery source.",
+      "confidence_level": 3,
       "discovery_sources": [
         "discovery-aef-members"
       ],
@@ -4145,6 +4548,8 @@
     },
     {
       "canonical_domain": "metacharityfunders.com",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -4166,6 +4571,8 @@
     },
     {
       "canonical_domain": "metaculus.com",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -4187,6 +4594,8 @@
     },
     {
       "canonical_domain": "microsoft.com",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-ai-safety-guide"
       ],
@@ -4206,6 +4615,8 @@
     },
     {
       "canonical_domain": "mila.quebec",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-failure-first"
       ],
@@ -4225,6 +4636,8 @@
     },
     {
       "canonical_domain": "ml4good.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -4246,6 +4659,8 @@
     },
     {
       "canonical_domain": "modelingcooperation.com",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -4267,6 +4682,8 @@
     },
     {
       "canonical_domain": "moratorium.ai",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -4288,6 +4705,8 @@
     },
     {
       "canonical_domain": "mythos.vc",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -4309,6 +4728,8 @@
     },
     {
       "canonical_domain": "narrowpath.co",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -4330,6 +4751,8 @@
     },
     {
       "canonical_domain": "navigation.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -4351,6 +4774,8 @@
     },
     {
       "canonical_domain": "ncuscr.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-ai-safety-guide"
       ],
@@ -4370,6 +4795,8 @@
     },
     {
       "canonical_domain": "neoresearch.ai",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -4391,6 +4818,8 @@
     },
     {
       "canonical_domain": "neuronpedia.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -4412,6 +4841,8 @@
     },
     {
       "canonical_domain": "newamerica.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-failure-first"
       ],
@@ -4431,6 +4862,8 @@
     },
     {
       "canonical_domain": "nist.gov",
+      "confidence_basis": "An official primary source confirms the organization or program is operating.",
+      "confidence_level": 5,
       "discovery_sources": [
         "discovery-ai-safety-guide",
         "discovery-aisafety-map",
@@ -4449,7 +4882,8 @@
         "https://www.aisi.gov.uk/blog/international-ai-network-consensus-and-open-questions"
       ],
       "name": "Center for AI Standards and Innovation (CAISI)",
-      "notes": "Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.",
+      "notes": "Confirmed on NIST's official CAISI page; classifications and all relationship claims still require canonical review.",
+      "primary_source_confirmed": true,
       "source_contexts": [
         "Governance"
       ],
@@ -4458,6 +4892,8 @@
     },
     {
       "canonical_domain": "non-trivial.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -4479,6 +4915,8 @@
     },
     {
       "canonical_domain": "nonlinear.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -4500,6 +4938,8 @@
     },
     {
       "canonical_domain": "nti.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-failure-first"
       ],
@@ -4519,6 +4959,8 @@
     },
     {
       "canonical_domain": "oaisi.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -4540,6 +4982,8 @@
     },
     {
       "canonical_domain": "odysseaninstitute.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -4561,6 +5005,8 @@
     },
     {
       "canonical_domain": "oecd.ai",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-failure-first"
       ],
@@ -4580,6 +5026,8 @@
     },
     {
       "canonical_domain": "oecd.org",
+      "confidence_basis": "Found independently in two configured discovery sources.",
+      "confidence_level": 3,
       "discovery_sources": [
         "discovery-aisafety-map",
         "discovery-failure-first"
@@ -4603,6 +5051,8 @@
     },
     {
       "canonical_domain": "openphilanthropy.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-failure-first"
       ],
@@ -4622,6 +5072,8 @@
     },
     {
       "canonical_domain": "orionaigov.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -4643,6 +5095,8 @@
     },
     {
       "canonical_domain": "orxl.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -4664,6 +5118,8 @@
     },
     {
       "canonical_domain": "ought.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -4685,6 +5141,8 @@
     },
     {
       "canonical_domain": "oxfordmartin.ox.ac.uk",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-failure-first"
       ],
@@ -4704,6 +5162,8 @@
     },
     {
       "canonical_domain": "palisaderesearch.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -4725,6 +5185,8 @@
     },
     {
       "canonical_domain": "paradigm3.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -4746,6 +5208,8 @@
     },
     {
       "canonical_domain": "paragonfellowship.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -4767,6 +5231,8 @@
     },
     {
       "canonical_domain": "partnershiponai.org",
+      "confidence_basis": "Found independently in two configured discovery sources.",
+      "confidence_level": 3,
       "discovery_sources": [
         "discovery-aisafety-map",
         "discovery-failure-first"
@@ -4790,6 +5256,8 @@
     },
     {
       "canonical_domain": "pathfinder.kairos-project.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -4811,6 +5279,8 @@
     },
     {
       "canonical_domain": "pauseai.info",
+      "confidence_basis": "Found independently in two configured discovery sources.",
+      "confidence_level": 3,
       "discovery_sources": [
         "discovery-aisafety-map",
         "discovery-failure-first"
@@ -4834,6 +5304,8 @@
     },
     {
       "canonical_domain": "people.csail.mit.edu",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -4855,6 +5327,8 @@
     },
     {
       "canonical_domain": "pivotal-research.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -4876,6 +5350,8 @@
     },
     {
       "canonical_domain": "princint.ai",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -4897,6 +5373,8 @@
     },
     {
       "canonical_domain": "quantifieduncertainty.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -4918,6 +5396,8 @@
     },
     {
       "canonical_domain": "raiseimpact.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -4939,6 +5419,8 @@
     },
     {
       "canonical_domain": "rand.org",
+      "confidence_basis": "Found independently in 4 configured discovery sources.",
+      "confidence_level": 4,
       "discovery_sources": [
         "discovery-aef-members",
         "discovery-ai-safety-guide",
@@ -4966,6 +5448,8 @@
     },
     {
       "canonical_domain": "researchathena.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -4987,6 +5471,8 @@
     },
     {
       "canonical_domain": "resolution.org",
+      "confidence_basis": "Found independently in two configured discovery sources.",
+      "confidence_level": 3,
       "discovery_sources": [
         "discovery-aisafety-map",
         "discovery-maisi"
@@ -5010,6 +5496,8 @@
     },
     {
       "canonical_domain": "rethinkwellbeing.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -5031,6 +5519,8 @@
     },
     {
       "canonical_domain": "romanyampolskiy.com",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -5052,6 +5542,8 @@
     },
     {
       "canonical_domain": "safe.eu",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -5073,6 +5565,8 @@
     },
     {
       "canonical_domain": "safeai.org.uk",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -5094,6 +5588,8 @@
     },
     {
       "canonical_domain": "saif.org",
+      "confidence_basis": "Found independently in two configured discovery sources.",
+      "confidence_level": 3,
       "discovery_sources": [
         "discovery-ai-safety-guide",
         "discovery-aisafety-map"
@@ -5117,6 +5613,8 @@
     },
     {
       "canonical_domain": "schmidtsciences.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -5138,6 +5636,8 @@
     },
     {
       "canonical_domain": "secureaifutureslab.com",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -5159,6 +5659,8 @@
     },
     {
       "canonical_domain": "secureainow.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -5180,6 +5682,8 @@
     },
     {
       "canonical_domain": "secureaiproject.org",
+      "confidence_basis": "Found independently in two configured discovery sources.",
+      "confidence_level": 3,
       "discovery_sources": [
         "discovery-aisafety-map",
         "discovery-failure-first"
@@ -5203,6 +5707,8 @@
     },
     {
       "canonical_domain": "securebio.org",
+      "confidence_basis": "Found in one focused, higher-precision discovery source.",
+      "confidence_level": 3,
       "discovery_sources": [
         "discovery-aef-members"
       ],
@@ -5222,6 +5728,8 @@
     },
     {
       "canonical_domain": "securityandtechnology.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -5243,6 +5751,8 @@
     },
     {
       "canonical_domain": "sgdsn.gouv.fr",
+      "confidence_basis": "An official primary source confirms the organization or program is operating.",
+      "confidence_level": 5,
       "discovery_sources": [
         "discovery-naaimes-members"
       ],
@@ -5257,6 +5767,7 @@
       ],
       "name": "Institut national pour l’évaluation et la sécurité de l’intelligence artificielle (INESIA)",
       "notes": "Confirmed by the official French government 2026–2027 roadmap; legal structure and all graph claims still require canonical review.",
+      "primary_source_confirmed": true,
       "source_contexts": [
         "Government evaluation and measurement institute"
       ],
@@ -5265,6 +5776,8 @@
     },
     {
       "canonical_domain": "shfhs.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -5286,6 +5799,8 @@
     },
     {
       "canonical_domain": "simoninstitute.ch",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -5307,6 +5822,8 @@
     },
     {
       "canonical_domain": "simplexaisafety.com",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -5328,6 +5845,8 @@
     },
     {
       "canonical_domain": "softmax.com",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -5349,6 +5868,8 @@
     },
     {
       "canonical_domain": "sparai.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -5370,6 +5891,8 @@
     },
     {
       "canonical_domain": "ssi.inc",
+      "confidence_basis": "Found independently in two configured discovery sources.",
+      "confidence_level": 3,
       "discovery_sources": [
         "discovery-aisafety-map",
         "discovery-failure-first"
@@ -5393,6 +5916,8 @@
     },
     {
       "canonical_domain": "standards.ieee.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-failure-first"
       ],
@@ -5412,6 +5937,8 @@
     },
     {
       "canonical_domain": "stopai.info",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -5433,6 +5960,8 @@
     },
     {
       "canonical_domain": "survivalandflourishing.fund",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -5454,6 +5983,8 @@
     },
     {
       "canonical_domain": "talosnetwork.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -5475,6 +6006,8 @@
     },
     {
       "canonical_domain": "taraprogram.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -5496,6 +6029,8 @@
     },
     {
       "canonical_domain": "tarbellcenter.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -5517,6 +6052,8 @@
     },
     {
       "canonical_domain": "theaipi.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -5538,6 +6075,8 @@
     },
     {
       "canonical_domain": "theaipn.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -5559,6 +6098,8 @@
     },
     {
       "canonical_domain": "thecompendium.ai",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -5580,6 +6121,8 @@
     },
     {
       "canonical_domain": "thefuturesociety.org",
+      "confidence_basis": "Found independently in two configured discovery sources.",
+      "confidence_level": 3,
       "discovery_sources": [
         "discovery-aisafety-map",
         "discovery-failure-first"
@@ -5603,6 +6146,8 @@
     },
     {
       "canonical_domain": "themidasproject.com",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -5624,6 +6169,8 @@
     },
     {
       "canonical_domain": "timaeus.co",
+      "confidence_basis": "Found in one focused, higher-precision discovery source.",
+      "confidence_level": 3,
       "discovery_sources": [
         "discovery-maisi"
       ],
@@ -5643,6 +6190,8 @@
     },
     {
       "canonical_domain": "torchbearer.community",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -5664,6 +6213,8 @@
     },
     {
       "canonical_domain": "transformative.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -5685,6 +6236,8 @@
     },
     {
       "canonical_domain": "transluce.org",
+      "confidence_basis": "Found independently in two configured discovery sources.",
+      "confidence_level": 3,
       "discovery_sources": [
         "discovery-aef-members",
         "discovery-aisafety-map"
@@ -5708,6 +6261,8 @@
     },
     {
       "canonical_domain": "truthful.ai",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -5729,6 +6284,8 @@
     },
     {
       "canonical_domain": "turing.ac.uk",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-failure-first"
       ],
@@ -5748,6 +6305,8 @@
     },
     {
       "canonical_domain": "un.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-failure-first"
       ],
@@ -5767,6 +6326,8 @@
     },
     {
       "canonical_domain": "understanding-ai-safety.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-failure-first"
       ],
@@ -5786,6 +6347,8 @@
     },
     {
       "canonical_domain": "vistainstituteai.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -5807,6 +6370,8 @@
     },
     {
       "canonical_domain": "weforum.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-failure-first"
       ],
@@ -5826,6 +6391,8 @@
     },
     {
       "canonical_domain": "wp.nyu.edu",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -5847,6 +6414,8 @@
     },
     {
       "canonical_domain": "x.ai",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],
@@ -5868,6 +6437,8 @@
     },
     {
       "canonical_domain": "xrisk.uchicago.edu",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
       "discovery_sources": [
         "discovery-aisafety-map"
       ],

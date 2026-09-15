@@ -3,7 +3,7 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 import YAML from "yaml";
 import { loadYamlDirectory, loadYamlFile } from "./lib.mjs";
-import { cleanLabel, contentHash, extractDirectoryCandidates, extractFeedItems, extractGdeltItems, robotsAllows, semanticPageHash, slug } from "./discovery-lib.mjs";
+import { candidateConfidence, cleanLabel, contentHash, extractDirectoryCandidates, extractFeedItems, extractGdeltItems, robotsAllows, semanticPageHash, slug } from "./discovery-lib.mjs";
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const today = process.env.DISCOVERY_DATE || new Date().toISOString().slice(0, 10);
@@ -67,6 +67,11 @@ for (const source of sources) {
   await delay(350);
 }
 
+const sourceHints = new Map(configuredSources.map(source => [source.id, source.inclusion_hint]));
+for (const candidate of byDomain.values()) {
+  const confidence = candidateConfidence(candidate, sourceHints);
+  Object.assign(candidate, { confidence_level:confidence.level, confidence_basis:confidence.basis });
+}
 const sortedRegistry = [...byDomain.values()].sort((a, b) => a.canonical_domain.localeCompare(b.canonical_domain));
 const markdown = renderReport(report, sortedRegistry.length);
 if (dryRun) {
@@ -100,6 +105,8 @@ function mergeCandidate(found, source) {
       last_seen: today,
       evidence_level: "discovery-only",
       inclusion_hint: source.inclusion_hint,
+      confidence_level: 1,
+      confidence_basis: "New lead awaiting deterministic scoring.",
       notes: "Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion."
     };
     byDomain.set(found.canonical_domain, candidate);

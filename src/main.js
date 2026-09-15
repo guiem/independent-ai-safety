@@ -16,6 +16,7 @@ const [graph, dataset] = await Promise.all([
 ]);
 
 const organizations = new Map(dataset.organizations.map(item => [item.id, item]));
+const candidates = new Map(dataset.candidates.map(item => [item.id, item]));
 const sources = new Map(dataset.sources.map(item => [item.id, item]));
 const nodes = graph.nodes.map(node => ({ data: { ...node.data, label: node.data.name } }));
 const elements = [...nodes, ...graph.edges];
@@ -23,11 +24,11 @@ const elements = [...nodes, ...graph.edges];
 const colors = {
   type: {
     organization: "#147d68", funder: "#d48a31", "frontier-developer": "#ad5c52",
-    "fiscal-sponsor-incubator": "#6474a8", risk_domains: "#7459a6", lifecycle_stages: "#397d9c", activities: "#687770"
+    "fiscal-sponsor-incubator": "#6474a8", candidate: "#9a958b", risk_domains: "#7459a6", lifecycle_stages: "#397d9c", activities: "#687770"
   },
   independence: {
     "separate-legal-entity": "#147d68", "fiscally-sponsored-project": "#6474a8",
-    "commercial-company": "#ad5c52", "academic-unit": "#7459a6", "government-body": "#397d9c", unknown: "#89918d"
+    "commercial-company": "#ad5c52", "academic-unit": "#7459a6", "government-body": "#397d9c", candidate: "#9a958b", unknown: "#89918d"
   }
 };
 
@@ -40,6 +41,7 @@ const cy = cytoscape({
   style: [
     { selector: "node", style: { label: "data(label)", width: 34, height: 34, "background-color": "#147d68", color: "#17211d", "font-family": "Inter, system-ui, sans-serif", "font-size": 10, "font-weight": 600, "text-wrap": "wrap", "text-max-width": 105, "text-valign": "bottom", "text-margin-y": 8, "border-width": 2, "border-color": "#fffdf8" } },
     { selector: "node[scope = 'taxonomy']", style: { shape: "round-tag", width: 28, height: 28, "font-size": 9 } },
+    { selector: "node[scope = 'candidate']", style: { shape: "ellipse", width: 16, height: 16, "background-color": "#fffdf8", "background-opacity": 0.35, "border-width": 1.5, "border-style": "dashed", "border-color": "#77746d", "font-size": 8, "font-weight": 500, "text-max-width": 90, "min-zoomed-font-size": 8 } },
     { selector: "node[primary_display_type = 'funder']", style: { shape: "diamond" } },
     { selector: "node[primary_display_type = 'frontier-developer']", style: { shape: "round-rectangle" } },
     { selector: "node[primary_display_type = 'fiscal-sponsor-incubator']", style: { shape: "hexagon" } },
@@ -55,7 +57,7 @@ const cy = cytoscape({
 });
 
 document.querySelector("#loading").hidden = true;
-const controlIds = ["search", "scope", "country", "relationship", "colorBy", "sizeBy"];
+const controlIds = ["search", "scope", "candidates", "candidateConfidence", "country", "relationship", "colorBy", "sizeBy"];
 const controls = Object.fromEntries(controlIds.map(id => [id, document.querySelector(`#${id}`)]));
 const countries = [...new Set(dataset.organizations.map(org => org.geography.country).filter(Boolean))]
   .sort((a, b) => displayCountry(a).localeCompare(displayCountry(b)));
@@ -71,6 +73,8 @@ for (const [key, control] of Object.entries(controls)) if (initial.has(key)) con
 function update() {
   const query = controls.search.value.trim().toLowerCase();
   const scope = controls.scope.value;
+  const showCandidates = controls.candidates.value === "show";
+  const minimumCandidateConfidence = Number(controls.candidateConfidence.value);
   const country = controls.country.value;
   const relationship = controls.relationship.value;
   const palette = colors[controls.colorBy.value];
@@ -80,14 +84,17 @@ function update() {
     cy.nodes().forEach(node => {
       const data = node.data();
       const org = organizations.get(data.id);
-      const haystack = [data.name, data.description, org?.risk_domains?.primary, org?.activities?.primary].filter(Boolean).join(" ").toLowerCase();
+      const candidate = candidates.get(data.id);
+      const haystack = [data.name, data.description, org?.risk_domains?.primary, org?.activities?.primary, ...(candidate?.source_contexts || [])].filter(Boolean).join(" ").toLowerCase();
       const scopeMatch = scope === "all" || data.scope === scope;
       const countryMatch = country === "all" || org?.geography?.country === country;
+      const candidateVisible = !candidate || (showCandidates && candidate.confidence_level >= minimumCandidateConfidence);
+      node.style("display", candidateVisible && scopeMatch ? "element" : "none");
       if (!scopeMatch || !countryMatch || (query && !haystack.includes(query))) node.addClass("dim");
       const independence = org?.independence?.legal_independence || "unknown";
-      const key = controls.colorBy.value === "type" ? data.primary_display_type : independence;
+      const key = candidate ? "candidate" : controls.colorBy.value === "type" ? data.primary_display_type : independence;
       const taxonomyColor = colors.type[data.primary_display_type];
-      node.style("background-color", org ? (palette[key] || "#89918d") : (taxonomyColor || "#89918d"));
+      if (!candidate) node.style("background-color", org ? (palette[key] || "#89918d") : (taxonomyColor || "#89918d"));
       if (org && independence === "unknown") node.addClass("unknown-independence");
       const size = nodeSize(node, controls.sizeBy.value);
       node.style({ width: size, height: size });
@@ -98,14 +105,17 @@ function update() {
     });
   });
 
-  const visibleNodes = cy.nodes().filter(node => !node.hasClass("dim")).length;
+  const visibleNodeCollection = cy.nodes().filter(node => node.style("display") !== "none" && !node.hasClass("dim"));
+  const visibleCandidates = visibleNodeCollection.filter(node => candidates.has(node.id())).length;
+  const visibleVerified = visibleNodeCollection.length - visibleCandidates;
   const visibleEdges = cy.edges().filter(edge => !edge.hasClass("dim")).length;
-  document.querySelector("#count").textContent = `${visibleNodes} nodes · ${visibleEdges} relationships`;
+  document.querySelector("#count").textContent = `${visibleVerified} verified/taxonomy · ${visibleCandidates} leads · ${visibleEdges} relationships`;
   renderLegend(palette);
   persistState();
 }
 
 function nodeSize(node, mode) {
+  if (node.data("scope") === "candidate") return 12 + Number(node.data("confidence_level") || 1) * 2;
   if (mode === "equal" || node.data("scope") === "taxonomy") return node.data("scope") === "taxonomy" ? 28 : 34;
   if (mode === "connections") return 25 + Math.sqrt(node.connectedEdges().length) * 8;
   const total = node.data("metrics")?.funding_disclosed_usd;
@@ -123,7 +133,7 @@ function renderLegend(palette) {
 }
 
 function persistState() {
-  const defaults = { search: "", scope: "all", country: "all", relationship: "all", colorBy: "type", sizeBy: "equal" };
+  const defaults = { search: "", scope: "all", candidates: "show", candidateConfidence: "1", country: "all", relationship: "all", colorBy: "type", sizeBy: "equal" };
   const params = new URLSearchParams();
   for (const [key, control] of Object.entries(controls)) if (control.value !== defaults[key]) params.set(key, control.value);
   history.replaceState(null, "", params.size ? `?${params}` : location.pathname);
@@ -132,6 +142,8 @@ function persistState() {
 function showNode(node) {
   const data = node.data();
   const org = organizations.get(data.id);
+  const candidate = candidates.get(data.id);
+  if (candidate) return showCandidate(candidate);
   if (!org) return showTaxonomy(data, node);
   const connected = node.connectedEdges().filter(edge => !edge.hasClass("dim"));
   const funding = connected.filter(edge => edge.data("type") === "FUNDED_BY");
@@ -160,6 +172,29 @@ function showNode(node) {
     <ul class="source-list">${[...sourceIds].map(sourceLink).join("")}</ul>
     <p class="verified">Verified ${escapeHtml(org.last_verified)} · Review due ${escapeHtml(org.next_review_due)}</p>
     <a class="primary-link" href="${escapeAttribute(org.website)}" target="_blank" rel="noreferrer">Visit organization ↗</a>
+  `);
+}
+
+function showCandidate(candidate) {
+  const contexts = candidate.source_contexts || [];
+  setDetails(`
+    <p class="eyebrow">Unverified candidate · discovery confidence ${candidate.confidence_level}/5</p>
+    <h2>${escapeHtml(candidate.name)}</h2>
+    <p class="limitation"><strong>Candidate lead:</strong> This node has not been promoted into the verified graph. Its country, legal identity, activities, independence, and relationships may still be unknown or incorrect.</p>
+    <h3>Why this score</h3>
+    <p>${escapeHtml(candidate.confidence_basis)}</p>
+    ${contexts.length ? `<div class="chips">${contexts.map(context => `<span>${escapeHtml(context)}</span>`).join("")}</div>` : ""}
+    <dl>
+      ${fact("Lead status", humanize(candidate.status))}
+      ${fact("First seen", candidate.first_seen)}
+      ${fact("Last seen", candidate.last_seen)}
+      ${fact("Signals", candidate.discovery_sources.length)}
+      ${fact("Primary source", candidate.primary_source_confirmed ? "Confirmed" : "Not yet confirmed")}
+    </dl>
+    <h3>Discovery evidence</h3>
+    <ul class="source-list">${candidate.listing_urls.map((url, index) => `<li><a href="${escapeAttribute(url)}" target="_blank" rel="noreferrer">Discovery source ${index + 1}</a></li>`).join("")}</ul>
+    <p class="evidence-note">${escapeHtml(candidate.notes)}</p>
+    <a class="primary-link" href="${escapeAttribute(candidate.website)}" target="_blank" rel="noreferrer">Visit candidate website ↗</a>
   `);
 }
 
@@ -218,8 +253,9 @@ function requireOk(response) { if (!response.ok) throw new Error(`Could not load
 cy.on("tap", "node", event => showNode(event.target));
 cy.on("tap", "edge", event => showEdge(event.target));
 for (const control of Object.values(controls)) control.addEventListener("input", update);
+for (const id of ["scope", "candidates", "candidateConfidence"]) controls[id].addEventListener("change", () => requestAnimationFrame(() => cy.fit(cy.elements().filter(element => element.visible()), 50)));
 document.querySelector("#reset").addEventListener("click", () => {
-  controls.search.value = ""; controls.scope.value = "all"; controls.country.value = "all"; controls.relationship.value = "all"; controls.colorBy.value = "type"; controls.sizeBy.value = "equal";
+  controls.search.value = ""; controls.scope.value = "all"; controls.candidates.value = "show"; controls.candidateConfidence.value = "1"; controls.country.value = "all"; controls.relationship.value = "all"; controls.colorBy.value = "type"; controls.sizeBy.value = "equal";
   update(); cy.fit(undefined, 50);
 });
 update();

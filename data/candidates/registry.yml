@@ -14,6 +14,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-adalovelaceinstitute-org
   name: Adalovelaceinstitute
   website: https://www.adalovelaceinstitute.org/
@@ -29,6 +31,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-ae-studio
   name: AE Studio
   website: https://www.ae.studio/
@@ -45,6 +49,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-aether-ai-research-org
   name: Aether
   website: https://aether-ai-research.org/
@@ -61,6 +67,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-affi-ne
   name: AFFINE Network
   website: https://www.affi.ne/
@@ -77,6 +85,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-ai-evaluation-org
   name: Ai Evaluation
   website: https://ai-evaluation.org/
@@ -92,6 +102,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-ai-plans-com
   name: AI Plans
   website: https://ai-plans.com/
@@ -108,6 +120,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-ai-objectives-institute
   name: AI Objectives Institute (AOI)
   website: https://ai.objectives.institute/
@@ -124,6 +138,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-ai2050-schmidtsciences-org
   name: AI2050
   website: https://ai2050.schmidtsciences.org/
@@ -140,6 +156,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-aialignment-mit-edu
   name: Aialignment
   website: https://aialignment.mit.edu/
@@ -155,6 +173,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-aialignmentfoundation-org
   name: AI Alignment Foundation (AIAF)
   website: https://www.aialignmentfoundation.org/
@@ -171,6 +191,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-aifutures-org
   name: AI Futures Project (AIFP)
   website: https://www.aifutures.org/
@@ -187,6 +209,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-aifuturesproject-org
   name: Aifuturesproject
   website: https://aifuturesproject.org/
@@ -202,6 +226,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-aigi-ox-ac-uk
   name: Oxford Martin AI Governance Initiative (AIGI)
   website: https://aigi.ox.ac.uk/
@@ -220,6 +246,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 3
+  confidence_basis: Found independently in two configured discovery sources.
 - id: cand-aigs-ca
   name: AI Governance & Safety Canada (AIGS Canada)
   website: https://aigs.ca/
@@ -238,6 +266,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 3
+  confidence_basis: Found independently in two configured discovery sources.
 - id: cand-aigsi-org
   name: AI Governance and Safety Institute (AIGSI)
   website: https://aigsi.org/
@@ -254,6 +284,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-aiimpacts-org
   name: AI Impacts
   website: https://aiimpacts.org/
@@ -270,6 +302,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-aipolicyinstitute-org
   name: Aipolicyinstitute
   website: https://aipolicyinstitute.org/
@@ -285,6 +319,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-airiskdeployer-org
   name: Deployer AI Risk Register
   website: https://www.airiskdeployer.org/
@@ -300,6 +336,8 @@
   evidence_level: discovery-only
   inclusion_hint: likely-core
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 3
+  confidence_basis: Found in one focused, higher-precision discovery source.
 - id: cand-airiskfund-com
   name: AI Risk Mitigation (ARM) Fund
   website: https://www.airiskfund.com/
@@ -316,6 +354,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-aisafety-camp
   name: AI Safety Camp (AISC)
   website: https://aisafety.camp/
@@ -334,6 +374,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 3
+  confidence_basis: Found independently in two configured discovery sources.
 - id: cand-aisafety-com
   name: Aisafety
   website: https://www.aisafety.com/
@@ -349,6 +391,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-aisafety-sg
   name: Singapore AI Safety Hub (SASH)
   website: https://www.aisafety.sg/
@@ -365,6 +409,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-aisafety-training
   name: Aisafety
   website: https://aisafety.training/
@@ -380,6 +426,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-aisafetyawarenessproject-org
   name: AI Safety Awareness Project (AISAP)
   website: https://aisafetyawarenessproject.org/
@@ -396,6 +444,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-aisb-dev
   name: AI Security Bootcamp (AISB)
   website: https://aisb.dev/
@@ -412,6 +462,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-aisfoundation-ai
   name: AI Safety Foundation
   website: https://www.aisfoundation.ai/
@@ -428,6 +480,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-aisi-go-jp
   name: Japan AI Safety Institute (J-AISI)
   website: https://aisi.go.jp/index.html
@@ -444,7 +498,10 @@
   last_seen: 2026-09-15
   evidence_level: discovery-only
   inclusion_hint: likely-context
+  primary_source_confirmed: true
   notes: Confirmed as an active institute on its official website; legal parentage and all graph claims still require canonical review.
+  confidence_level: 5
+  confidence_basis: An official primary source confirms the organization or program is operating.
 - id: cand-aisi-gov-uk
   name: UK AI Security Institute (UK AISI)
   website: https://www.aisi.gov.uk/
@@ -468,7 +525,10 @@
   last_seen: 2026-09-15
   evidence_level: discovery-only
   inclusion_hint: borderline
-  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  primary_source_confirmed: true
+  notes: Confirmed on the institute's official government website; legal identity, classifications, and all relationship claims still require canonical review.
+  confidence_level: 5
+  confidence_basis: An official primary source confirms the organization or program is operating.
 - id: cand-aisi-re-kr
   name: Korea AI Safety Institute
   website: https://www.aisi.re.kr/
@@ -485,7 +545,10 @@
   last_seen: 2026-09-15
   evidence_level: discovery-only
   inclusion_hint: likely-context
+  primary_source_confirmed: true
   notes: Confirmed by the Korean Ministry of Science and ICT launch record; its own website and all graph claims still require canonical review.
+  confidence_level: 5
+  confidence_basis: An official primary source confirms the organization or program is operating.
 - id: cand-aistandardslab-org
   name: AI Standards Lab
   website: https://www.aistandardslab.org/
@@ -502,6 +565,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-aiwi-org
   name: The AI Whistleblower Initiative (AIWI)
   website: https://aiwi.org/
@@ -518,6 +583,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-aixi-uk
   name: AIXI Labs
   website: https://www.aixi.uk/
@@ -534,6 +601,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-ajl-org
   name: Ajl
   website: https://www.ajl.org/
@@ -549,6 +618,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-algorithmicalignment-csail-mit-edu
   name: MIT Algorithmic Alignment Group
   website: https://algorithmicalignment.csail.mit.edu/
@@ -565,6 +636,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-algoverseairesearch-org
   name: Algoverse AI Safety
   website: https://algoverseairesearch.org/
@@ -581,6 +654,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-alignment-dev
   name: Alignment Ecosystem Development (AED)
   website: https://alignment.dev/
@@ -597,6 +672,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-alignment-org
   name: Alignment Research Center (ARC)
   website: https://www.alignment.org/
@@ -615,6 +692,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 3
+  confidence_basis: Found independently in two configured discovery sources.
 - id: cand-alltechishuman-org
   name: Alltechishuman
   website: https://alltechishuman.org/
@@ -630,6 +709,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-alter-org-il
   name: Association for Long Term Existence and Resilience (ALTER)
   website: https://alter.org.il/
@@ -646,6 +727,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-amnesty-org
   name: Amnesty
   website: https://www.amnesty.org/
@@ -661,6 +744,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-apartresearch-com
   name: Apart Fellowship
   website: https://apartresearch.com/
@@ -679,6 +764,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 3
+  confidence_basis: Found independently in two configured discovery sources.
 - id: cand-arbital-greaterwrong-com
   name: Arbital
   website: https://arbital.greaterwrong.com/
@@ -695,6 +782,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-arcadiaimpact-org
   name: AI Governance Taskforce
   website: https://www.arcadiaimpact.org/
@@ -711,6 +800,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-arena-education
   name: Alignment Research Engineer Accelerator (ARENA)
   website: https://www.arena.education/
@@ -727,6 +818,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-ari-us
   name: Americans for Responsible Innovation (ARI)
   website: https://ari.us/
@@ -743,6 +836,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-aria-org-uk
   name: Advanced Research + Invention Agency (ARIA)
   website: https://www.aria.org.uk/
@@ -761,6 +856,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 3
+  confidence_basis: Found independently in two configured discovery sources.
 - id: cand-arva-org
   name: Arva
   website: https://arva.org/
@@ -776,6 +873,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-ashgro-org
   name: Ashgro
   website: https://www.ashgro.org/
@@ -792,6 +891,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-astera-org
   name: Astera Neuro-AI
   website: https://astera.org/
@@ -808,6 +909,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-astralisfoundation-org
   name: Astralis Foundation
   website: https://astralisfoundation.org/
@@ -824,6 +927,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-atlas-mitre-org
   name: MITRE ATLAS
   website: https://atlas.mitre.org/
@@ -839,6 +944,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-atlascomputing-org
   name: Atlas Computing
   website: https://atlascomputing.org/
@@ -855,6 +962,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-averi-org
   name: AI Verification and Evaluation Research Institute
   website: https://www.averi.org/
@@ -873,6 +982,8 @@
   evidence_level: discovery-only
   inclusion_hint: likely-core
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 3
+  confidence_basis: Found independently in two configured discovery sources.
 - id: cand-baseresearch-org
   name: BASE Fellowship
   website: https://www.baseresearch.org/
@@ -889,6 +1000,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-beijing-ai-safety-and-governance-institute
   name: Beijing Institute of AI Safety and Governance (Beijing-AISI)
   website: https://beijing.ai-safety-and-governance.institute/
@@ -905,6 +1018,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-beneficialaifoundation-org
   name: Beneficial AI Foundation (BAIF)
   website: https://www.beneficialaifoundation.org/
@@ -921,6 +1036,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-bluedot-org
   name: BlueDot Impact
   website: https://bluedot.org/
@@ -941,6 +1058,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 4
+  confidence_basis: Found independently in 3 configured discovery sources.
 - id: cand-brookings-edu
   name: Brookings
   website: https://www.brookings.edu/
@@ -958,6 +1077,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 3
+  confidence_basis: Found independently in two configured discovery sources.
 - id: cand-buildaligned-ai
   name: Aligned AI
   website: https://buildaligned.ai/
@@ -974,6 +1095,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-cadenzalabs-org
   name: Cadenza Labs
   website: https://cadenzalabs.org/
@@ -990,6 +1113,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-caish-org
   name: Mentorship for Alignment Research Students (MARS)
   website: https://caish.org/
@@ -1006,6 +1131,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-camlin-co
   name: Camlin
   website: https://camlin.co/
@@ -1022,6 +1149,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-carma-org
   name: Center for AI Risk Management & Alignment (CARMA)
   website: https://carma.org/
@@ -1038,6 +1167,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-carnegieendowment-org
   name: Carnegieendowment
   website: https://carnegieendowment.org/
@@ -1055,6 +1186,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 3
+  confidence_basis: Found independently in two configured discovery sources.
 - id: cand-casp-ac
   name: Cambridge Programme on AI Science & Policy (CASP)
   website: https://casp.ac/
@@ -1071,6 +1204,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-catalyze-impact-org
   name: Catalyze Impact
   website: https://catalyze-impact.org/
@@ -1087,6 +1222,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-cavendishlabs-org
   name: Cavendish Labs
   website: https://cavendishlabs.org/
@@ -1103,6 +1240,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-cbai-ai
   name: Cambridge Boston Alignment Initiative (CBAI)
   website: https://www.cbai.ai/
@@ -1119,6 +1258,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-cbl-eng-cam-ac-uk
   name: Computational and Biological Learning Lab (CBL)
   website: https://cbl.eng.cam.ac.uk/
@@ -1135,6 +1276,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-cdt-org
   name: Cdt
   website: https://cdt.org/
@@ -1150,6 +1293,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-ceealar-org
   name: Centre for Enabling EA Learning & Research (CEEALAR aka EA Hotel)
   website: https://www.ceealar.org/
@@ -1166,6 +1311,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-centerforhealthsecurity-org
   name: Centerforhealthsecurity
   website: https://www.centerforhealthsecurity.org/
@@ -1181,6 +1328,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-cesia-org
   name: Centre pour la Sécurité de l'IA (CeSIA)
   website: https://www.cesia.org/
@@ -1197,6 +1346,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-cfg-eu
   name: Centre for Future Generations (CFG)
   website: https://cfg.eu/
@@ -1213,6 +1364,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-cifar-ca
   name: Cifar
   website: https://cifar.ca/
@@ -1228,6 +1381,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-cigionline-org
   name: Cigionline
   website: https://www.cigionline.org/research
@@ -1243,6 +1398,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-cip-org
   name: Collective Intelligence Project
   website: https://www.cip.org/
@@ -1258,6 +1415,8 @@
   evidence_level: discovery-only
   inclusion_hint: likely-core
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 3
+  confidence_basis: Found in one focused, higher-precision discovery source.
 - id: cand-ciss-tsinghua-edu-cn
   name: Tsinghua Center for International Security and Strategy
   website: https://ciss.tsinghua.edu.cn/
@@ -1273,6 +1432,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-clair-ai-org
   name: Center for Law & AI Risk (CLAIR)
   website: https://clair-ai.org/
@@ -1289,6 +1450,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-cloudsecurityalliance-org
   name: Cloud Security Alliance
   website: https://cloudsecurityalliance.org/
@@ -1304,6 +1467,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-cltc-berkeley-edu
   name: Center for Long-Term Cybersecurity (CLTC)
   website: https://cltc.berkeley.edu/
@@ -1320,6 +1485,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-cnaisi-cn
   name: China Al Safety & Development Association (CnAISDA)
   website: https://cnaisi.cn/
@@ -1336,6 +1503,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-coalitionforsecureai-org
   name: Coalition for Secure AI
   website: https://www.coalitionforsecureai.org/
@@ -1351,6 +1520,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-compassionml-com
   name: Compassion Aligned Machine Learning (CaML)
   website: https://www.compassionml.com/
@@ -1367,6 +1538,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-concordia-ai-com
   name: Concordia AI
   website: https://concordia-ai.com/
@@ -1385,6 +1558,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 3
+  confidence_basis: Found independently in two configured discovery sources.
 - id: cand-conjecture-dev
   name: Conjecture
   website: https://www.conjecture.dev/
@@ -1403,6 +1578,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 3
+  confidence_basis: Found independently in two configured discovery sources.
 - id: cand-constellation-org
   name: Constellation Visiting Fellows
   website: https://constellation.org/
@@ -1419,6 +1596,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-contramont-org
   name: Contramont Research
   website: https://contramont.org/
@@ -1435,6 +1614,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-controlai-org
   name: ControlAI
   website: https://controlai.org/
@@ -1451,6 +1632,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-convergenceanalysis-org
   name: Convergence Analysis
   website: https://www.convergenceanalysis.org/
@@ -1467,6 +1650,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-cooperativeai-com
   name: Cooperative AI Foundation (CAIF)
   website: https://www.cooperativeai.com/
@@ -1485,6 +1670,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 3
+  confidence_basis: Found independently in two configured discovery sources.
 - id: cand-coral-research-org
   name: Computational Rational Agents Laboratory (CORAL)
   website: https://coral-research.org/
@@ -1501,6 +1688,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-csa-gov-sg
   name: Cyber Security Agency of Singapore
   website: https://www.csa.gov.sg/
@@ -1516,6 +1705,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-cser-ac-uk
   name: Centre for the Study of Existential Risk (CSER)
   website: https://www.cser.ac.uk/
@@ -1534,6 +1725,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 3
+  confidence_basis: Found independently in two configured discovery sources.
 - id: cand-cset-georgetown-edu
   name: Center for Security and Emerging Technology (CSET)
   website: https://cset.georgetown.edu/
@@ -1554,6 +1747,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 4
+  confidence_basis: Found independently in 3 configured discovery sources.
 - id: cand-cyber-fsi-stanford-edu
   name: Cyber
   website: https://cyber.fsi.stanford.edu/
@@ -1569,6 +1764,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-cyber-harvard-edu
   name: Cyber
   website: https://cyber.harvard.edu/
@@ -1584,6 +1781,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-darpa-mil
   name: Defense Advanced Research Projects Agency
   website: https://www.darpa.mil/
@@ -1599,6 +1798,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-datasociety-net
   name: Datasociety
   website: https://datasociety.net/
@@ -1614,6 +1815,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-deepseek-com
   name: DeepSeek
   website: https://www.deepseek.com/
@@ -1630,6 +1833,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-digital-strategy-ec-europa-eu
   name: European AI Office
   website: https://digital-strategy.ec.europa.eu/en/policies/ai-office
@@ -1651,7 +1856,10 @@
   last_seen: 2026-09-15
   evidence_level: discovery-only
   inclusion_hint: borderline
-  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  primary_source_confirmed: true
+  notes: Confirmed on the European Commission's official AI Office page; classifications and all relationship claims still require canonical review.
+  confidence_level: 5
+  confidence_basis: An official primary source confirms the organization or program is operating.
 - id: cand-dovetailresearch-org
   name: Dovetail Research Fellowship
   website: https://dovetailresearch.org/
@@ -1668,6 +1876,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-effectiveinstitutionsproject-org
   name: Effective Institutions Project (EIP)
   website: https://effectiveinstitutionsproject.org/
@@ -1684,6 +1894,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-effectivethesis-org
   name: Effective Thesis Fellowship
   website: https://www.effectivethesis.org/
@@ -1700,6 +1912,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-eleuther-ai
   name: EleutherAI
   website: https://www.eleuther.ai/
@@ -1716,6 +1930,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-enais-co
   name: European Network for AI Safety (ENAIS)
   website: https://enais.co/
@@ -1732,6 +1948,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-encodeai-org
   name: Encode
   website: https://encodeai.org/
@@ -1748,6 +1966,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-engagedbuddhists-ai
   name: Buddhism & AI Initiative
   website: https://www.engagedbuddhists.ai/
@@ -1764,6 +1984,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-enisa-europa-eu
   name: European Union Agency for Cybersecurity
   website: https://www.enisa.europa.eu/
@@ -1779,6 +2001,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-epoch-ai
   name: Epoch AI
   website: https://epoch.ai/
@@ -1795,6 +2019,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-epochai-org
   name: Epochai
   website: https://epochai.org/
@@ -1810,6 +2036,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-eq-network-org
   name: Equilibria Network
   website: https://eq-network.org/
@@ -1826,6 +2054,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-equistamp-com
   name: EquiStamp
   website: https://www.equistamp.com/
@@ -1842,6 +2072,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-erafellowship-org
   name: Cambridge ERA:AI Fellowship
   website: https://erafellowship.org/
@@ -1858,6 +2090,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-ergoimpact-org
   name: Ergo Impact
   website: https://ergoimpact.org/
@@ -1874,6 +2108,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-evitable-com
   name: Evitable
   website: https://evitable.com/
@@ -1890,6 +2126,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-existence-org
   name: Berkeley Existential Risk Initiative (BERI)
   website: https://existence.org/
@@ -1906,6 +2144,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-existentialriskobservatory-org
   name: Existential Risk Observatory (ERO)
   website: https://www.existentialriskobservatory.org/
@@ -1922,6 +2162,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-existentialsafety-org
   name: Collective Action for Existential Safety (CAES)
   website: https://existentialsafety.org/
@@ -1938,6 +2180,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-explainable-media
   name: Explainable
   website: https://explainable.media/
@@ -1954,6 +2198,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-fair-uba-com
   name: Frontier AI Safety Research (FAIR)
   website: https://fair-uba.com/
@@ -1970,6 +2216,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-far-ai
   name: FAR.AI
   website: https://far.ai/
@@ -1990,6 +2238,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 4
+  confidence_basis: Found independently in 3 configured discovery sources.
 - id: cand-fathom-org
   name: Fathom
   website: https://fathom.org/
@@ -2006,6 +2256,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-fhi-ox-ac-uk
   name: Fhi
   website: https://www.fhi.ox.ac.uk/
@@ -2021,6 +2273,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-fiftyyears-com
   name: "5050"
   website: https://www.fiftyyears.com/
@@ -2037,6 +2291,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-flf-org
   name: Future of Life Foundation (FLF)
   website: https://www.flf.org/
@@ -2053,6 +2309,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-forecastingresearch-org
   name: Forecasting Research Institute (FRI)
   website: https://forecastingresearch.org/
@@ -2069,6 +2327,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-foresight-org
   name: "Foresight Institute: Funding"
   website: https://foresight.org/
@@ -2085,6 +2345,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-forethought-org
   name: Forethought
   website: https://www.forethought.org/
@@ -2103,6 +2365,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 3
+  confidence_basis: Found independently in two configured discovery sources.
 - id: cand-formationresearch-com
   name: Formation Research
   website: https://formationresearch.com/
@@ -2119,6 +2383,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-founderspledge-com
   name: Founders Pledge
   website: https://www.founderspledge.com/
@@ -2135,6 +2401,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-framefellowship-com
   name: Frame Fellowship
   website: https://framefellowship.com/
@@ -2151,6 +2419,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-frontiermodelforum-org
   name: Frontiermodelforum
   website: https://www.frontiermodelforum.org/
@@ -2166,6 +2436,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-funds-effectivealtruism-org
   name: Transformative AI Fund (TAIF)
   website: https://funds.effectivealtruism.org/
@@ -2182,6 +2454,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-future-matters-org
   name: Future Matters
   website: https://future-matters.org/
@@ -2198,6 +2472,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-futureimpact-group
   name: Future Impact Group (FIG) Fellowship
   website: https://futureimpact.group/
@@ -2214,6 +2490,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-futureoflife-org
   name: Futureoflife
   website: https://futureoflife.org/
@@ -2229,6 +2507,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-futuretech-mit-edu
   name: MIT FutureTech
   website: https://futuretech.mit.edu/
@@ -2245,6 +2525,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-gcri-org
   name: Global Catastrophic Risk Institute (GCRI)
   website: https://gcri.org/
@@ -2263,6 +2545,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 3
+  confidence_basis: Found independently in two configured discovery sources.
 - id: cand-genai-owasp-org
   name: OWASP GenAI Security Project
   website: https://genai.owasp.org/
@@ -2278,6 +2562,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-geodesicresearch-ai
   name: Geodesic Research
   website: https://geodesicresearch.ai/
@@ -2294,6 +2580,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-givingwhatwecan-org
   name: Giving What We Can (GWWC)
   website: https://www.givingwhatwecan.org/
@@ -2310,6 +2598,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-globalchallengesproject-org
   name: Global Challenges Project (GCP)
   website: https://www.globalchallengesproject.org/
@@ -2326,6 +2616,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-goodancestors-org-au
   name: Good Ancestors
   website: https://www.goodancestors.org.au/
@@ -2342,6 +2634,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-goodfire-com
   name: Goodfire
   website: https://www.goodfire.com/
@@ -2358,6 +2652,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-goodimpressionsmedia-com
   name: Good Impressions
   website: https://www.goodimpressionsmedia.com/
@@ -2374,6 +2670,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-gpai-ai
   name: Gpai
   website: https://gpai.ai/
@@ -2389,6 +2687,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-grantmaking-ai
   name: grantmaking.ai
   website: https://www.grantmaking.ai/
@@ -2405,6 +2705,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-grayswan-ai
   name: Gray Swan
   website: https://www.grayswan.ai/
@@ -2421,6 +2723,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-hai-stanford-edu
   name: Hai
   website: https://hai.stanford.edu/
@@ -2436,6 +2740,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-hal-cs-princeton-edu
   name: Princeton Holistic Agent Leaderboard
   website: https://hal.cs.princeton.edu/
@@ -2451,6 +2757,8 @@
   evidence_level: discovery-only
   inclusion_hint: likely-core
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 3
+  confidence_basis: Found in one focused, higher-precision discovery source.
 - id: cand-halcyonfutures-org
   name: Halcyon Futures
   website: https://halcyonfutures.org/
@@ -2467,6 +2775,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-harmonyintelligence-com
   name: Harmony Intelligence
   website: https://www.harmonyintelligence.com/
@@ -2483,6 +2793,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-highimpactprofessionals-org
   name: HIP Impact Accelerator Program (IAP)
   website: https://www.highimpactprofessionals.org/
@@ -2499,6 +2811,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-humanaligned-ai
   name: Human-aligned AI Summer School
   website: https://humanaligned.ai/
@@ -2515,6 +2829,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-humancompatible-ai
   name: "Center for Human-Compatible AI (CHAI): Internship"
   website: https://humancompatible.ai/
@@ -2535,6 +2851,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 4
+  confidence_basis: Found independently in 3 configured discovery sources.
 - id: cand-humansincontrol-org
   name: Humans in Control
   website: https://humansincontrol.org/
@@ -2551,6 +2869,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-iaiga-org
   name: International AI Governance Alliance (IAIGA)
   website: https://www.iaiga.org/
@@ -2567,6 +2887,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-iaps-ai
   name: Institute for AI Policy and Strategy (IAPS)
   website: https://www.iaps.ai/
@@ -2587,6 +2909,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 4
+  confidence_basis: Found independently in 3 configured discovery sources.
 - id: cand-iaseai-org
   name: International Association for Safe & Ethical AI (IASEAI)
   website: https://www.iaseai.org/
@@ -2603,6 +2927,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-iliad-ac
   name: Iliad Fellowship
   website: https://www.iliad.ac/
@@ -2621,6 +2947,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 3
+  confidence_basis: Found independently in two configured discovery sources.
 - id: cand-ilinaprogram-org
   name: ILINA Program
   website: https://www.ilinaprogram.org/
@@ -2637,6 +2965,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-imda-gov-sg
   name: Digital Trust Centre / Singapore AI Safety Institute
   website: https://www.imda.gov.sg/about-imda/emerging-technologies-and-research/trust-tech
@@ -2653,7 +2983,10 @@
   last_seen: 2026-09-15
   evidence_level: discovery-only
   inclusion_hint: likely-context
+  primary_source_confirmed: true
   notes: Confirmed by IMDA's designation of the Digital Trust Centre as Singapore's AISI; legal structure and all graph claims still require canonical review.
+  confidence_level: 5
+  confidence_basis: An official primary source confirms the organization or program is operating.
 - id: cand-impact-ops-org
   name: Impact Ops
   website: https://impact-ops.org/
@@ -2670,6 +3003,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-incidentdatabase-ai
   name: Incidentdatabase
   website: https://incidentdatabase.ai/
@@ -2685,6 +3020,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-industry-gov-au
   name: Australia's AI Safety Institute
   website: https://www.industry.gov.au/science-technology-and-innovation/technology/artificial-intelligence/ai-safety-institute
@@ -2701,7 +3038,10 @@
   last_seen: 2026-09-15
   evidence_level: discovery-only
   inclusion_hint: likely-context
+  primary_source_confirmed: true
   notes: Confirmed as an active institute on its official Australian Government page; all graph claims still require canonical review.
+  confidence_level: 5
+  confidence_basis: An official primary source confirms the organization or program is operating.
 - id: cand-intelligencerising-org
   name: Intelligence Rising
   website: https://www.intelligencerising.org/
@@ -2718,6 +3058,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-internationalaisafetyreport-org
   name: Internationalaisafetyreport
   website: https://internationalaisafetyreport.org/
@@ -2733,6 +3075,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-ised-isde-canada-ca
   name: Canadian Artificial Intelligence Safety Institute (CAISI)
   website: https://ised-isde.canada.ca/site/ised/en/canadian-artificial-intelligence-safety-institute
@@ -2750,7 +3094,10 @@
   last_seen: 2026-09-15
   evidence_level: discovery-only
   inclusion_hint: borderline
+  primary_source_confirmed: true
   notes: Confirmed as an active institute on its official Government of Canada page; legal identity, parentage, classifications, and all graph claims still require canonical review.
+  confidence_level: 5
+  confidence_basis: An official primary source confirms the organization or program is operating.
 - id: cand-iso-org
   name: Iso
   website: https://www.iso.org/
@@ -2766,6 +3113,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-joint-research-centre-ec-europa-eu
   name: Joint Research Centre
   website: https://joint-research-centre.ec.europa.eu/
@@ -2781,6 +3130,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-juniper-xyz
   name: Juniper Ventures
   website: https://juniper.xyz/
@@ -2797,6 +3148,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-kairos-project-org
   name: Kairos
   website: https://kairos-project.org/
@@ -2813,6 +3166,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-lasrlabs-org
   name: London AI Safety Research (LASR) Labs
   website: https://www.lasrlabs.org/
@@ -2829,6 +3184,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-lasst-org
   name: Legal Advocates for Safe Science and Technology (LASST)
   website: https://lasst.org/
@@ -2845,6 +3202,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-law-ai-org
   name: "Institute for Law & AI (LawAI): Research Fellowships"
   website: https://law-ai.org/
@@ -2861,6 +3220,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-lcfi-ac-uk
   name: Lcfi
   website: https://www.lcfi.ac.uk/
@@ -2876,6 +3237,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-leaf-courses
   name: "Leaf: Dilemmas and Dangers in AI"
   website: https://leaf.courses/
@@ -2892,6 +3255,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-legalsafetylab-org
   name: Legal Safety Lab
   website: https://legalsafetylab.org/
@@ -2908,6 +3273,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-lensacademy-org
   name: Lens Academy
   website: https://lensacademy.org/
@@ -2924,6 +3291,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-leomckeereid-com
   name: Leomckeereid
   website: https://leomckeereid.com/
@@ -2939,6 +3308,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-lightconecommons-com
   name: Lightcone Commons
   website: https://www.lightconecommons.com/
@@ -2955,6 +3326,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-lightconeinfrastructure-com
   name: Lightcone Infrastructure
   website: https://www.lightconeinfrastructure.com/
@@ -2971,6 +3344,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-linuxfoundation-org
   name: Agentic AI Foundation
   website: https://www.linuxfoundation.org/
@@ -2986,6 +3361,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-lionheart-vc
   name: Lionheart Ventures
   website: https://www.lionheart.vc/
@@ -3002,6 +3379,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-longtermresilience-org
   name: Centre for Long-Term Resilience (CLTR)
   website: https://www.longtermresilience.org/
@@ -3020,6 +3399,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 3
+  confidence_basis: Found independently in two configured discovery sources.
 - id: cand-longtermrisk-org
   name: "Center on Long-Term Risk (CLR): Fellowship"
   website: https://longtermrisk.org/
@@ -3036,6 +3417,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-longview-org
   name: Longview Philanthropy
   website: https://www.longview.org/
@@ -3052,6 +3435,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-luthienresearch-org
   name: Luthien
   website: https://luthienresearch.org/
@@ -3068,6 +3453,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-macroscopic-org
   name: Macroscopic Ventures
   website: https://macroscopic.org/
@@ -3084,6 +3471,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-manifold-markets
   name: Manifold Markets
   website: https://manifold.markets/
@@ -3100,6 +3489,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-manifund-org
   name: AI Safety Tactical Opportunities Fund (AISTOF)
   website: https://manifund.org/
@@ -3116,6 +3507,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-matsprogram-org
   name: Machine Alignment, Transparency, and Security (MATS)
   website: https://www.matsprogram.org/
@@ -3134,6 +3527,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 3
+  confidence_basis: Found independently in two configured discovery sources.
 - id: cand-meaningalignment-org
   name: Meaning Alignment Institute (MAI)
   website: https://meaningalignment.org/
@@ -3150,6 +3545,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-mediangroup-org
   name: Median Group
   website: https://mediangroup.org/
@@ -3166,6 +3563,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-meridiancambridge-org
   name: Meridian Visiting Researcher Programme
   website: https://www.meridiancambridge.org/
@@ -3182,6 +3581,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-meridianlabs-ai
   name: Meridian Labs
   website: https://meridianlabs.ai/
@@ -3197,6 +3598,8 @@
   evidence_level: discovery-only
   inclusion_hint: likely-core
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 3
+  confidence_basis: Found in one focused, higher-precision discovery source.
 - id: cand-metacharityfunders-com
   name: Meta Charity Funders
   website: https://www.metacharityfunders.com/
@@ -3213,6 +3616,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-metaculus-com
   name: Metaculus
   website: https://www.metaculus.com/
@@ -3229,6 +3634,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-microsoft-com
   name: Microsoft Research
   website: https://www.microsoft.com/
@@ -3244,6 +3651,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-mila-quebec
   name: Mila
   website: https://mila.quebec/
@@ -3259,6 +3668,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-ml4good-org
   name: ML4Good
   website: https://www.ml4good.org/
@@ -3275,6 +3686,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-modelingcooperation-com
   name: Modeling Cooperation
   website: https://www.modelingcooperation.com/
@@ -3291,6 +3704,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-moratorium-ai
   name: Global AI Moratorium (GAIM)
   website: https://moratorium.ai/
@@ -3307,6 +3722,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-mythos-vc
   name: Mythos Ventures
   website: https://www.mythos.vc/
@@ -3323,6 +3740,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-narrowpath-co
   name: Narrow Path
   website: https://www.narrowpath.co/
@@ -3339,6 +3758,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-navigation-org
   name: The Navigation Fund
   website: https://www.navigation.org/
@@ -3355,6 +3776,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-ncuscr-org
   name: National Committee on US–China Relations
   website: https://www.ncuscr.org/
@@ -3370,6 +3793,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-neoresearch-ai
   name: Neo Research
   website: https://neoresearch.ai/
@@ -3386,6 +3811,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-neuronpedia-org
   name: Neuronpedia
   website: https://neuronpedia.org/
@@ -3402,6 +3829,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-newamerica-org
   name: Newamerica
   website: https://www.newamerica.org/
@@ -3417,6 +3846,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-nist-gov
   name: Center for AI Standards and Innovation (CAISI)
   website: https://www.nist.gov/caisi
@@ -3438,7 +3869,10 @@
   last_seen: 2026-09-15
   evidence_level: discovery-only
   inclusion_hint: borderline
-  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  primary_source_confirmed: true
+  notes: Confirmed on NIST's official CAISI page; classifications and all relationship claims still require canonical review.
+  confidence_level: 5
+  confidence_basis: An official primary source confirms the organization or program is operating.
 - id: cand-non-trivial-org
   name: Non-Trivial
   website: https://www.non-trivial.org/
@@ -3455,6 +3889,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-nonlinear-org
   name: Nonlinear AI Safety Advocacy Funding
   website: https://www.nonlinear.org/
@@ -3471,6 +3907,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-nti-org
   name: Nti
   website: https://www.nti.org/
@@ -3486,6 +3924,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-oaisi-org
   name: Alignment Research Bootcamp Oxford (ARBOx)
   website: https://oaisi.org/
@@ -3502,6 +3942,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-odysseaninstitute-org
   name: Odyssean Institute
   website: https://www.odysseaninstitute.org/
@@ -3518,6 +3960,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-oecd-ai
   name: Oecd
   website: https://oecd.ai/
@@ -3533,6 +3977,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-oecd-org
   name: Global Partnership on AI (GPAI)
   website: https://www.oecd.org/
@@ -3551,6 +3997,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 3
+  confidence_basis: Found independently in two configured discovery sources.
 - id: cand-openphilanthropy-org
   name: Openphilanthropy
   website: https://www.openphilanthropy.org/
@@ -3566,6 +4014,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-orionaigov-org
   name: Orion AI Governance Initiative
   website: https://www.orionaigov.org/
@@ -3582,6 +4032,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-orxl-org
   name: Orthogonal
   website: https://orxl.org/
@@ -3598,6 +4050,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-ought-org
   name: Ought
   website: https://ought.org/
@@ -3614,6 +4068,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-oxfordmartin-ox-ac-uk
   name: Oxfordmartin
   website: https://www.oxfordmartin.ox.ac.uk/
@@ -3629,6 +4085,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-palisaderesearch-org
   name: Palisade Research
   website: https://palisaderesearch.org/
@@ -3645,6 +4103,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-paradigm3-org
   name: Paradigm 3
   website: https://www.paradigm3.org/
@@ -3661,6 +4121,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-paragonfellowship-org
   name: Paragon Policy Fellowship
   website: https://www.paragonfellowship.org/
@@ -3677,6 +4139,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-partnershiponai-org
   name: Partnership on AI (PAI)
   website: https://partnershiponai.org/
@@ -3695,6 +4159,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 3
+  confidence_basis: Found independently in two configured discovery sources.
 - id: cand-pathfinder-kairos-project-org
   name: Pathfinder Fellowship
   website: https://pathfinder.kairos-project.org/
@@ -3711,6 +4177,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-pauseai-info
   name: PauseAI
   website: https://pauseai.info/
@@ -3729,6 +4197,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 3
+  confidence_basis: Found independently in two configured discovery sources.
 - id: cand-people-csail-mit-edu
   name: Dylan Hadfield-Menell
   website: https://people.csail.mit.edu/
@@ -3745,6 +4215,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-pivotal-research-org
   name: Pivotal Research Fellowship
   website: https://www.pivotal-research.org/
@@ -3761,6 +4233,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-princint-ai
   name: Principles of Intelligence (Princint)
   website: https://princint.ai/
@@ -3777,6 +4251,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-quantifieduncertainty-org
   name: Quantified Uncertainty Research Institute (QURI)
   website: https://quantifieduncertainty.org/
@@ -3793,6 +4269,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-raiseimpact-org
   name: RAISEimpact
   website: https://www.raiseimpact.org/
@@ -3809,6 +4287,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-rand-org
   name: RAND
   website: https://www.rand.org/
@@ -3831,6 +4311,8 @@
   evidence_level: discovery-only
   inclusion_hint: likely-core
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 4
+  confidence_basis: Found independently in 4 configured discovery sources.
 - id: cand-researchathena-org
   name: Athena Mentorship Program for Women
   website: https://researchathena.org/
@@ -3847,6 +4329,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-resolution-org
   name: Resolution
   website: https://resolution.org/
@@ -3865,6 +4349,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 3
+  confidence_basis: Found independently in two configured discovery sources.
 - id: cand-rethinkwellbeing-org
   name: Rethink Wellbeing
   website: https://www.rethinkwellbeing.org/
@@ -3881,6 +4367,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-romanyampolskiy-com
   name: Dr. Roman Yampolskiy
   website: https://www.romanyampolskiy.com/
@@ -3897,6 +4385,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-safe-eu
   name: EuroSafeAI
   website: https://safe.eu/
@@ -3913,6 +4403,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-safeai-org-uk
   name: London Initiative for Safe AI (LISA)
   website: https://www.safeai.org.uk/
@@ -3929,6 +4421,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-saif-org
   name: Safe AI Forum (SAIF)
   website: https://saif.org/
@@ -3947,6 +4441,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 3
+  confidence_basis: Found independently in two configured discovery sources.
 - id: cand-schmidtsciences-org
   name: Science of Trustworthy AI
   website: https://www.schmidtsciences.org/
@@ -3963,6 +4459,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-secureaifutureslab-com
   name: Secure AI Futures Lab (SAFL)
   website: https://secureaifutureslab.com/
@@ -3979,6 +4477,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-secureainow-org
   name: The Alliance for Secure AI Action
   website: https://secureainow.org/
@@ -3995,6 +4495,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-secureaiproject-org
   name: Secure AI Project
   website: https://secureaiproject.org/
@@ -4013,6 +4515,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 3
+  confidence_basis: Found independently in two configured discovery sources.
 - id: cand-securebio-org
   name: SecureBio
   website: https://securebio.org/
@@ -4028,6 +4532,8 @@
   evidence_level: discovery-only
   inclusion_hint: likely-core
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 3
+  confidence_basis: Found in one focused, higher-precision discovery source.
 - id: cand-securityandtechnology-org
   name: Institute for Security and Technology (IST)
   website: https://securityandtechnology.org/
@@ -4044,6 +4550,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-sgdsn-gouv-fr
   name: Institut national pour l’évaluation et la sécurité de l’intelligence artificielle (INESIA)
   website: https://www.sgdsn.gouv.fr/
@@ -4060,7 +4568,10 @@
   last_seen: 2026-09-15
   evidence_level: discovery-only
   inclusion_hint: likely-context
+  primary_source_confirmed: true
   notes: Confirmed by the official French government 2026–2027 roadmap; legal structure and all graph claims still require canonical review.
+  confidence_level: 5
+  confidence_basis: An official primary source confirms the organization or program is operating.
 - id: cand-shfhs-org
   name: Saving Humanity from Homo Sapiens (SHfHS)
   website: https://shfhs.org/
@@ -4077,6 +4588,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-simoninstitute-ch
   name: Simon Institute for Longterm Governance
   website: https://www.simoninstitute.ch/
@@ -4093,6 +4606,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-simplexaisafety-com
   name: Simplex
   website: https://www.simplexaisafety.com/
@@ -4109,6 +4624,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-softmax-com
   name: Softmax
   website: https://www.softmax.com/
@@ -4125,6 +4642,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-sparai-org
   name: Supervised Program for Alignment Research (SPAR)
   website: https://sparai.org/
@@ -4141,6 +4660,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-ssi-inc
   name: Safe Superintelligence Inc. (SSI)
   website: https://ssi.inc/
@@ -4159,6 +4680,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 3
+  confidence_basis: Found independently in two configured discovery sources.
 - id: cand-standards-ieee-org
   name: Standards
   website: https://standards.ieee.org/
@@ -4174,6 +4697,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-stopai-info
   name: Stop AI
   website: https://www.stopai.info/
@@ -4190,6 +4715,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-survivalandflourishing-fund
   name: Survival and Flourishing Fund (SFF)
   website: https://survivalandflourishing.fund/
@@ -4206,6 +4733,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-talosnetwork-org
   name: Talos Fellowship
   website: https://www.talosnetwork.org/
@@ -4222,6 +4751,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-taraprogram-org
   name: Technical Alignment Research Accelerator (TARA)
   website: https://www.taraprogram.org/
@@ -4238,6 +4769,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-tarbellcenter-org
   name: Tarbell Center for AI Journalism
   website: https://www.tarbellcenter.org/
@@ -4254,6 +4787,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-theaipi-org
   name: AI Policy Institute (AIPI)
   website: https://theaipi.org/
@@ -4270,6 +4805,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-theaipn-org
   name: The AI Policy Network (AIPN)
   website: https://theaipn.org/
@@ -4286,6 +4823,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-thecompendium-ai
   name: The Compendium
   website: https://www.thecompendium.ai/
@@ -4302,6 +4841,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-thefuturesociety-org
   name: The Future Society (TFS)
   website: https://thefuturesociety.org/
@@ -4320,6 +4861,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 3
+  confidence_basis: Found independently in two configured discovery sources.
 - id: cand-themidasproject-com
   name: The Midas Project (TMP)
   website: https://www.themidasproject.com/
@@ -4336,6 +4879,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-timaeus-co
   name: Timaeus
   website: https://timaeus.co/
@@ -4351,6 +4896,8 @@
   evidence_level: discovery-only
   inclusion_hint: likely-core
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 3
+  confidence_basis: Found in one focused, higher-precision discovery source.
 - id: cand-torchbearer-community
   name: Torchbearer Community (TBC)
   website: https://www.torchbearer.community/
@@ -4367,6 +4914,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-transformative-org
   name: Transformative Futures Institute (TFI)
   website: https://transformative.org/
@@ -4383,6 +4932,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-transluce-org
   name: Transluce
   website: https://transluce.org/
@@ -4401,6 +4952,8 @@
   evidence_level: discovery-only
   inclusion_hint: likely-core
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 3
+  confidence_basis: Found independently in two configured discovery sources.
 - id: cand-truthful-ai
   name: TruthfulAI
   website: https://truthful.ai/
@@ -4417,6 +4970,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-turing-ac-uk
   name: Turing
   website: https://www.turing.ac.uk/research/interest-groups/ai-safety
@@ -4432,6 +4987,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-un-org
   name: Un
   website: https://www.un.org/
@@ -4447,6 +5004,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-understanding-ai-safety-org
   name: Understanding Ai Safety
   website: https://understanding-ai-safety.org/
@@ -4462,6 +5021,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-vistainstituteai-org
   name: Vista Institute for AI Policy
   website: https://vistainstituteai.org/
@@ -4478,6 +5039,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-weforum-org
   name: Weforum
   website: https://www.weforum.org/
@@ -4493,6 +5056,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-wp-nyu-edu
   name: NYU Alignment Research Group (ARG)
   website: https://wp.nyu.edu/
@@ -4509,6 +5074,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-x-ai
   name: SpaceXAI
   website: https://x.ai/
@@ -4525,6 +5092,8 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
 - id: cand-xrisk-uchicago-edu
   name: UChicago Existential Risk Laboratory (XLab) Fellowship
   website: https://xrisk.uchicago.edu/
@@ -4541,3 +5110,5 @@
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.

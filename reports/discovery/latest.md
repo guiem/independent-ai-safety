@@ -10,9 +10,9 @@ This report contains discovery leads only. Nothing here is canonical until a rev
 - New organization-site leads: 0
 - Existing candidates found by an additional source: 0
 - New launch/funding/evaluation article leads: 0
-- Changed discovery or canonical evidence pages: 2
-- Leads no longer present in a directory: 1
-- Fetch failures: 0
+- Changed discovery or canonical evidence pages: 1
+- Leads no longer present in a directory: 2
+- Fetch failures: 2
 - Robots exclusions: 1
 
 ## New organization-site leads
@@ -29,16 +29,17 @@ This report contains discovery leads only. Nothing here is canonical until a rev
 
 ## Changed source pages
 
-- Failure-First AI safety organizations directory
-- GDELT AI safety organization and funding query
+- AISafety.com field map
 
 ## Leads no longer listed
 
-- ratings.safer-ai.org — previously in Failure-First AI safety organizations directory
+- ai-plans.com — previously in AISafety.com field map
+- alignment.anthropic.com — previously in AISafety.com field map
 
 ## Fetch failures
 
-- None.
+- UNESCO civil-society and academic AI network: HTTP 403
+- GDELT AI safety organization and funding query: fetch failed
 
 ## Robots exclusions
 

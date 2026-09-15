@@ -39,19 +39,20 @@ const graph = {
   schema_version: "1.0.0",
   nodes: [
     ...organizations.map(org => ({ data:{ ...org, metrics:metrics[org.id] } })),
+    ...candidates.map(candidate => ({ data:{ ...candidate, scope:"candidate", primary_display_type:"candidate", description:"Unreviewed organization lead from the discovery pipeline." } })),
     ...graphTaxonomyRows.map(item => ({ data:{ id:item.id, name:item.label, description:item.description, scope:"taxonomy", primary_display_type:item.dimension } }))
   ],
   edges: relationships.map(rel => ({ data:{ ...rel, source:rel.source_id, target:rel.target_id } }))
 };
 
-const bundle = { data_as_of:dataAsOf, schema_version:graph.schema_version, organizations, relationships, sources, observations, taxonomy };
+const bundle = { data_as_of:dataAsOf, schema_version:graph.schema_version, organizations, candidates, relationships, sources, observations, taxonomy };
 await Promise.all([
   writeFile(path.join(output, "dataset.json"), stableJson(bundle)),
   writeFile(path.join(output, "graph.json"), stableJson(graph)),
   writeFile(path.join(output, "organizations.csv"), toCsv(organizations.map(org => ({ id:org.id, name:org.name, scope:org.scope, display_type:org.primary_display_type, entity_type:org.entity_type, status:org.status, country:org.geography.country, website:org.website, risk_primary:org.risk_domains.primary, lifecycle_primary:org.lifecycle_stages.primary, activity_primary:org.activities.primary, last_verified:org.last_verified, confidence:org.confidence })), ["id","name","scope","display_type","entity_type","status","country","website","risk_primary","lifecycle_primary","activity_primary","last_verified","confidence"])),
   writeFile(path.join(output, "relationships.csv"), toCsv(relationships.map(rel => ({ id:rel.id, source_id:rel.source_id, target_id:rel.target_id, type:rel.type, status:rel.status, amount:rel.amount?.value, currency:rel.amount?.currency, amount_status:rel.amount?.status, normalized_usd:rel.amount?.normalized_usd, announcement_date:rel.announcement_date, confidence:rel.confidence, source_ids:rel.source_ids })), ["id","source_id","target_id","type","status","amount","currency","amount_status","normalized_usd","announcement_date","confidence","source_ids"])),
   writeFile(path.join(output, "candidates.json"), stableJson({ data_as_of:dataAsOf, evidence_level:"discovery-only", candidates })),
-  writeFile(path.join(output, "candidates.csv"), toCsv(candidates.map(candidate => ({ id:candidate.id, name:candidate.name, website:candidate.website, canonical_domain:candidate.canonical_domain, status:candidate.status, inclusion_hint:candidate.inclusion_hint, discovery_sources:candidate.discovery_sources, source_contexts:candidate.source_contexts, first_seen:candidate.first_seen, last_seen:candidate.last_seen, notes:candidate.notes })), ["id","name","website","canonical_domain","status","inclusion_hint","discovery_sources","source_contexts","first_seen","last_seen","notes"])),
+  writeFile(path.join(output, "candidates.csv"), toCsv(candidates.map(candidate => ({ id:candidate.id, name:candidate.name, website:candidate.website, canonical_domain:candidate.canonical_domain, status:candidate.status, confidence_level:candidate.confidence_level, confidence_basis:candidate.confidence_basis, inclusion_hint:candidate.inclusion_hint, primary_source_confirmed:candidate.primary_source_confirmed || false, discovery_sources:candidate.discovery_sources, source_contexts:candidate.source_contexts, first_seen:candidate.first_seen, last_seen:candidate.last_seen, notes:candidate.notes })), ["id","name","website","canonical_domain","status","confidence_level","confidence_basis","inclusion_hint","primary_source_confirmed","discovery_sources","source_contexts","first_seen","last_seen","notes"])),
   writeFile(path.join(output, "graph.graphml"), graphMl(graph))
 ]);
 

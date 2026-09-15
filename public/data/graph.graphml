@@ -21,6 +21,287 @@
     <node id="org-rethink-priorities"><data key="label">Rethink Priorities</data><data key="type">fiscal-sponsor-incubator</data><data key="scope">context</data></node>
     <node id="org-saferai"><data key="label">SaferAI</data><data key="type">organization</data><data key="scope">core</data></node>
     <node id="org-sampura"><data key="label">Sampura Research</data><data key="type">organization</data><data key="scope">core</data></node>
+    <node id="cand-acsresearch-org"><data key="label">Alignment of Complex Systems Research Group (ACS)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-adalovelaceinstitute-org"><data key="label">Adalovelaceinstitute</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-ae-studio"><data key="label">AE Studio</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-aether-ai-research-org"><data key="label">Aether</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-affi-ne"><data key="label">AFFINE Network</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-ai-evaluation-org"><data key="label">Ai Evaluation</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-ai-objectives-institute"><data key="label">AI Objectives Institute (AOI)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-ai-plans-com"><data key="label">AI Plans</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-ai2050-schmidtsciences-org"><data key="label">AI2050</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-aialignment-mit-edu"><data key="label">Aialignment</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-aialignmentfoundation-org"><data key="label">AI Alignment Foundation (AIAF)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-aifutures-org"><data key="label">AI Futures Project (AIFP)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-aifuturesproject-org"><data key="label">Aifuturesproject</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-aigi-ox-ac-uk"><data key="label">Oxford Martin AI Governance Initiative (AIGI)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-aigs-ca"><data key="label">AI Governance &amp; Safety Canada (AIGS Canada)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-aigsi-org"><data key="label">AI Governance and Safety Institute (AIGSI)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-aiimpacts-org"><data key="label">AI Impacts</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-aipolicyinstitute-org"><data key="label">Aipolicyinstitute</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-airiskdeployer-org"><data key="label">Deployer AI Risk Register</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-airiskfund-com"><data key="label">AI Risk Mitigation (ARM) Fund</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-aisafety-camp"><data key="label">AI Safety Camp (AISC)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-aisafety-com"><data key="label">Aisafety</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-aisafety-sg"><data key="label">Singapore AI Safety Hub (SASH)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-aisafety-training"><data key="label">Aisafety</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-aisafetyawarenessproject-org"><data key="label">AI Safety Awareness Project (AISAP)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-aisb-dev"><data key="label">AI Security Bootcamp (AISB)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-aisfoundation-ai"><data key="label">AI Safety Foundation</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-aisi-go-jp"><data key="label">Japan AI Safety Institute (J-AISI)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-aisi-gov-uk"><data key="label">UK AI Security Institute (UK AISI)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-aisi-re-kr"><data key="label">Korea AI Safety Institute</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-aistandardslab-org"><data key="label">AI Standards Lab</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-aiwi-org"><data key="label">The AI Whistleblower Initiative (AIWI)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-aixi-uk"><data key="label">AIXI Labs</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-ajl-org"><data key="label">Ajl</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-algorithmicalignment-csail-mit-edu"><data key="label">MIT Algorithmic Alignment Group</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-algoverseairesearch-org"><data key="label">Algoverse AI Safety</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-alignment-dev"><data key="label">Alignment Ecosystem Development (AED)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-alignment-org"><data key="label">Alignment Research Center (ARC)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-alltechishuman-org"><data key="label">Alltechishuman</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-alter-org-il"><data key="label">Association for Long Term Existence and Resilience (ALTER)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-amnesty-org"><data key="label">Amnesty</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-apartresearch-com"><data key="label">Apart Fellowship</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-arbital-greaterwrong-com"><data key="label">Arbital</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-arcadiaimpact-org"><data key="label">AI Governance Taskforce</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-arena-education"><data key="label">Alignment Research Engineer Accelerator (ARENA)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-ari-us"><data key="label">Americans for Responsible Innovation (ARI)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-aria-org-uk"><data key="label">Advanced Research + Invention Agency (ARIA)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-arva-org"><data key="label">Arva</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-ashgro-org"><data key="label">Ashgro</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-astera-org"><data key="label">Astera Neuro-AI</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-astralisfoundation-org"><data key="label">Astralis Foundation</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-atlas-mitre-org"><data key="label">MITRE ATLAS</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-atlascomputing-org"><data key="label">Atlas Computing</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-averi-org"><data key="label">AI Verification and Evaluation Research Institute</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-baseresearch-org"><data key="label">BASE Fellowship</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-beijing-ai-safety-and-governance-institute"><data key="label">Beijing Institute of AI Safety and Governance (Beijing-AISI)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-beneficialaifoundation-org"><data key="label">Beneficial AI Foundation (BAIF)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-bluedot-org"><data key="label">BlueDot Impact</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-brookings-edu"><data key="label">Brookings</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-buildaligned-ai"><data key="label">Aligned AI</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-cadenzalabs-org"><data key="label">Cadenza Labs</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-caish-org"><data key="label">Mentorship for Alignment Research Students (MARS)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-camlin-co"><data key="label">Camlin</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-carma-org"><data key="label">Center for AI Risk Management &amp; Alignment (CARMA)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-carnegieendowment-org"><data key="label">Carnegieendowment</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-casp-ac"><data key="label">Cambridge Programme on AI Science &amp; Policy (CASP)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-catalyze-impact-org"><data key="label">Catalyze Impact</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-cavendishlabs-org"><data key="label">Cavendish Labs</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-cbai-ai"><data key="label">Cambridge Boston Alignment Initiative (CBAI)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-cbl-eng-cam-ac-uk"><data key="label">Computational and Biological Learning Lab (CBL)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-cdt-org"><data key="label">Cdt</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-ceealar-org"><data key="label">Centre for Enabling EA Learning &amp; Research (CEEALAR aka EA Hotel)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-centerforhealthsecurity-org"><data key="label">Centerforhealthsecurity</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-cesia-org"><data key="label">Centre pour la Sécurité de l&apos;IA (CeSIA)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-cfg-eu"><data key="label">Centre for Future Generations (CFG)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-cifar-ca"><data key="label">Cifar</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-cigionline-org"><data key="label">Cigionline</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-cip-org"><data key="label">Collective Intelligence Project</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-ciss-tsinghua-edu-cn"><data key="label">Tsinghua Center for International Security and Strategy</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-clair-ai-org"><data key="label">Center for Law &amp; AI Risk (CLAIR)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-cloudsecurityalliance-org"><data key="label">Cloud Security Alliance</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-cltc-berkeley-edu"><data key="label">Center for Long-Term Cybersecurity (CLTC)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-cnaisi-cn"><data key="label">China Al Safety &amp; Development Association (CnAISDA)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-coalitionforsecureai-org"><data key="label">Coalition for Secure AI</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-compassionml-com"><data key="label">Compassion Aligned Machine Learning (CaML)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-concordia-ai-com"><data key="label">Concordia AI</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-conjecture-dev"><data key="label">Conjecture</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-constellation-org"><data key="label">Constellation Visiting Fellows</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-contramont-org"><data key="label">Contramont Research</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-controlai-org"><data key="label">ControlAI</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-convergenceanalysis-org"><data key="label">Convergence Analysis</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-cooperativeai-com"><data key="label">Cooperative AI Foundation (CAIF)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-coral-research-org"><data key="label">Computational Rational Agents Laboratory (CORAL)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-csa-gov-sg"><data key="label">Cyber Security Agency of Singapore</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-cser-ac-uk"><data key="label">Centre for the Study of Existential Risk (CSER)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-cset-georgetown-edu"><data key="label">Center for Security and Emerging Technology (CSET)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-cyber-fsi-stanford-edu"><data key="label">Cyber</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-cyber-harvard-edu"><data key="label">Cyber</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-darpa-mil"><data key="label">Defense Advanced Research Projects Agency</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-datasociety-net"><data key="label">Datasociety</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-deepseek-com"><data key="label">DeepSeek</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-digital-strategy-ec-europa-eu"><data key="label">European AI Office</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-dovetailresearch-org"><data key="label">Dovetail Research Fellowship</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-effectiveinstitutionsproject-org"><data key="label">Effective Institutions Project (EIP)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-effectivethesis-org"><data key="label">Effective Thesis Fellowship</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-eleuther-ai"><data key="label">EleutherAI</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-enais-co"><data key="label">European Network for AI Safety (ENAIS)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-encodeai-org"><data key="label">Encode</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-engagedbuddhists-ai"><data key="label">Buddhism &amp; AI Initiative</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-enisa-europa-eu"><data key="label">European Union Agency for Cybersecurity</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-epoch-ai"><data key="label">Epoch AI</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-epochai-org"><data key="label">Epochai</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-eq-network-org"><data key="label">Equilibria Network</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-equistamp-com"><data key="label">EquiStamp</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-erafellowship-org"><data key="label">Cambridge ERA:AI Fellowship</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-ergoimpact-org"><data key="label">Ergo Impact</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-evitable-com"><data key="label">Evitable</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-existence-org"><data key="label">Berkeley Existential Risk Initiative (BERI)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-existentialriskobservatory-org"><data key="label">Existential Risk Observatory (ERO)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-existentialsafety-org"><data key="label">Collective Action for Existential Safety (CAES)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-explainable-media"><data key="label">Explainable</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-fair-uba-com"><data key="label">Frontier AI Safety Research (FAIR)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-far-ai"><data key="label">FAR.AI</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-fathom-org"><data key="label">Fathom</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-fhi-ox-ac-uk"><data key="label">Fhi</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-fiftyyears-com"><data key="label">5050</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-flf-org"><data key="label">Future of Life Foundation (FLF)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-forecastingresearch-org"><data key="label">Forecasting Research Institute (FRI)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-foresight-org"><data key="label">Foresight Institute: Funding</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-forethought-org"><data key="label">Forethought</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-formationresearch-com"><data key="label">Formation Research</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-founderspledge-com"><data key="label">Founders Pledge</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-framefellowship-com"><data key="label">Frame Fellowship</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-frontiermodelforum-org"><data key="label">Frontiermodelforum</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-funds-effectivealtruism-org"><data key="label">Transformative AI Fund (TAIF)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-future-matters-org"><data key="label">Future Matters</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-futureimpact-group"><data key="label">Future Impact Group (FIG) Fellowship</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-futureoflife-org"><data key="label">Futureoflife</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-futuretech-mit-edu"><data key="label">MIT FutureTech</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-gcri-org"><data key="label">Global Catastrophic Risk Institute (GCRI)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-genai-owasp-org"><data key="label">OWASP GenAI Security Project</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-geodesicresearch-ai"><data key="label">Geodesic Research</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-givingwhatwecan-org"><data key="label">Giving What We Can (GWWC)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-globalchallengesproject-org"><data key="label">Global Challenges Project (GCP)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-goodancestors-org-au"><data key="label">Good Ancestors</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-goodfire-com"><data key="label">Goodfire</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-goodimpressionsmedia-com"><data key="label">Good Impressions</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-gpai-ai"><data key="label">Gpai</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-grantmaking-ai"><data key="label">grantmaking.ai</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-grayswan-ai"><data key="label">Gray Swan</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-hai-stanford-edu"><data key="label">Hai</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-hal-cs-princeton-edu"><data key="label">Princeton Holistic Agent Leaderboard</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-halcyonfutures-org"><data key="label">Halcyon Futures</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-harmonyintelligence-com"><data key="label">Harmony Intelligence</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-highimpactprofessionals-org"><data key="label">HIP Impact Accelerator Program (IAP)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-humanaligned-ai"><data key="label">Human-aligned AI Summer School</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-humancompatible-ai"><data key="label">Center for Human-Compatible AI (CHAI): Internship</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-humansincontrol-org"><data key="label">Humans in Control</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-iaiga-org"><data key="label">International AI Governance Alliance (IAIGA)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-iaps-ai"><data key="label">Institute for AI Policy and Strategy (IAPS)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-iaseai-org"><data key="label">International Association for Safe &amp; Ethical AI (IASEAI)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-iliad-ac"><data key="label">Iliad Fellowship</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-ilinaprogram-org"><data key="label">ILINA Program</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-imda-gov-sg"><data key="label">Digital Trust Centre / Singapore AI Safety Institute</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-impact-ops-org"><data key="label">Impact Ops</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-incidentdatabase-ai"><data key="label">Incidentdatabase</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-industry-gov-au"><data key="label">Australia&apos;s AI Safety Institute</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-intelligencerising-org"><data key="label">Intelligence Rising</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-internationalaisafetyreport-org"><data key="label">Internationalaisafetyreport</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-ised-isde-canada-ca"><data key="label">Canadian Artificial Intelligence Safety Institute (CAISI)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-iso-org"><data key="label">Iso</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-joint-research-centre-ec-europa-eu"><data key="label">Joint Research Centre</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-juniper-xyz"><data key="label">Juniper Ventures</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-kairos-project-org"><data key="label">Kairos</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-lasrlabs-org"><data key="label">London AI Safety Research (LASR) Labs</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-lasst-org"><data key="label">Legal Advocates for Safe Science and Technology (LASST)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-law-ai-org"><data key="label">Institute for Law &amp; AI (LawAI): Research Fellowships</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-lcfi-ac-uk"><data key="label">Lcfi</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-leaf-courses"><data key="label">Leaf: Dilemmas and Dangers in AI</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-legalsafetylab-org"><data key="label">Legal Safety Lab</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-lensacademy-org"><data key="label">Lens Academy</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-leomckeereid-com"><data key="label">Leomckeereid</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-lightconecommons-com"><data key="label">Lightcone Commons</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-lightconeinfrastructure-com"><data key="label">Lightcone Infrastructure</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-linuxfoundation-org"><data key="label">Agentic AI Foundation</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-lionheart-vc"><data key="label">Lionheart Ventures</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-longtermresilience-org"><data key="label">Centre for Long-Term Resilience (CLTR)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-longtermrisk-org"><data key="label">Center on Long-Term Risk (CLR): Fellowship</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-longview-org"><data key="label">Longview Philanthropy</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-luthienresearch-org"><data key="label">Luthien</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-macroscopic-org"><data key="label">Macroscopic Ventures</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-manifold-markets"><data key="label">Manifold Markets</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-manifund-org"><data key="label">AI Safety Tactical Opportunities Fund (AISTOF)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-matsprogram-org"><data key="label">Machine Alignment, Transparency, and Security (MATS)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-meaningalignment-org"><data key="label">Meaning Alignment Institute (MAI)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-mediangroup-org"><data key="label">Median Group</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-meridiancambridge-org"><data key="label">Meridian Visiting Researcher Programme</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-meridianlabs-ai"><data key="label">Meridian Labs</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-metacharityfunders-com"><data key="label">Meta Charity Funders</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-metaculus-com"><data key="label">Metaculus</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-microsoft-com"><data key="label">Microsoft Research</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-mila-quebec"><data key="label">Mila</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-ml4good-org"><data key="label">ML4Good</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-modelingcooperation-com"><data key="label">Modeling Cooperation</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-moratorium-ai"><data key="label">Global AI Moratorium (GAIM)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-mythos-vc"><data key="label">Mythos Ventures</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-narrowpath-co"><data key="label">Narrow Path</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-navigation-org"><data key="label">The Navigation Fund</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-ncuscr-org"><data key="label">National Committee on US–China Relations</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-neoresearch-ai"><data key="label">Neo Research</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-neuronpedia-org"><data key="label">Neuronpedia</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-newamerica-org"><data key="label">Newamerica</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-nist-gov"><data key="label">Center for AI Standards and Innovation (CAISI)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-non-trivial-org"><data key="label">Non-Trivial</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-nonlinear-org"><data key="label">Nonlinear AI Safety Advocacy Funding</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-nti-org"><data key="label">Nti</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-oaisi-org"><data key="label">Alignment Research Bootcamp Oxford (ARBOx)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-odysseaninstitute-org"><data key="label">Odyssean Institute</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-oecd-ai"><data key="label">Oecd</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-oecd-org"><data key="label">Global Partnership on AI (GPAI)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-openphilanthropy-org"><data key="label">Openphilanthropy</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-orionaigov-org"><data key="label">Orion AI Governance Initiative</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-orxl-org"><data key="label">Orthogonal</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-ought-org"><data key="label">Ought</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-oxfordmartin-ox-ac-uk"><data key="label">Oxfordmartin</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-palisaderesearch-org"><data key="label">Palisade Research</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-paradigm3-org"><data key="label">Paradigm 3</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-paragonfellowship-org"><data key="label">Paragon Policy Fellowship</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-partnershiponai-org"><data key="label">Partnership on AI (PAI)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-pathfinder-kairos-project-org"><data key="label">Pathfinder Fellowship</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-pauseai-info"><data key="label">PauseAI</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-people-csail-mit-edu"><data key="label">Dylan Hadfield-Menell</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-pivotal-research-org"><data key="label">Pivotal Research Fellowship</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-princint-ai"><data key="label">Principles of Intelligence (Princint)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-quantifieduncertainty-org"><data key="label">Quantified Uncertainty Research Institute (QURI)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-raiseimpact-org"><data key="label">RAISEimpact</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-rand-org"><data key="label">RAND</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-researchathena-org"><data key="label">Athena Mentorship Program for Women</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-resolution-org"><data key="label">Resolution</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-rethinkwellbeing-org"><data key="label">Rethink Wellbeing</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-romanyampolskiy-com"><data key="label">Dr. Roman Yampolskiy</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-safe-eu"><data key="label">EuroSafeAI</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-safeai-org-uk"><data key="label">London Initiative for Safe AI (LISA)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-saif-org"><data key="label">Safe AI Forum (SAIF)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-schmidtsciences-org"><data key="label">Science of Trustworthy AI</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-secureaifutureslab-com"><data key="label">Secure AI Futures Lab (SAFL)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-secureainow-org"><data key="label">The Alliance for Secure AI Action</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-secureaiproject-org"><data key="label">Secure AI Project</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-securebio-org"><data key="label">SecureBio</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-securityandtechnology-org"><data key="label">Institute for Security and Technology (IST)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-sgdsn-gouv-fr"><data key="label">Institut national pour l’évaluation et la sécurité de l’intelligence artificielle (INESIA)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-shfhs-org"><data key="label">Saving Humanity from Homo Sapiens (SHfHS)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-simoninstitute-ch"><data key="label">Simon Institute for Longterm Governance</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-simplexaisafety-com"><data key="label">Simplex</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-softmax-com"><data key="label">Softmax</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-sparai-org"><data key="label">Supervised Program for Alignment Research (SPAR)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-ssi-inc"><data key="label">Safe Superintelligence Inc. (SSI)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-standards-ieee-org"><data key="label">Standards</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-stopai-info"><data key="label">Stop AI</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-survivalandflourishing-fund"><data key="label">Survival and Flourishing Fund (SFF)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-talosnetwork-org"><data key="label">Talos Fellowship</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-taraprogram-org"><data key="label">Technical Alignment Research Accelerator (TARA)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-tarbellcenter-org"><data key="label">Tarbell Center for AI Journalism</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-theaipi-org"><data key="label">AI Policy Institute (AIPI)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-theaipn-org"><data key="label">The AI Policy Network (AIPN)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-thecompendium-ai"><data key="label">The Compendium</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-thefuturesociety-org"><data key="label">The Future Society (TFS)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-themidasproject-com"><data key="label">The Midas Project (TMP)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-timaeus-co"><data key="label">Timaeus</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-torchbearer-community"><data key="label">Torchbearer Community (TBC)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-transformative-org"><data key="label">Transformative Futures Institute (TFI)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-transluce-org"><data key="label">Transluce</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-truthful-ai"><data key="label">TruthfulAI</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-turing-ac-uk"><data key="label">Turing</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-un-org"><data key="label">Un</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-understanding-ai-safety-org"><data key="label">Understanding Ai Safety</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-vistainstituteai-org"><data key="label">Vista Institute for AI Policy</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-weforum-org"><data key="label">Weforum</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-wp-nyu-edu"><data key="label">NYU Alignment Research Group (ARG)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-x-ai"><data key="label">SpaceXAI</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-xrisk-uchicago-edu"><data key="label">UChicago Existential Risk Laboratory (XLab) Fellowship</data><data key="type">candidate</data><data key="scope">candidate</data></node>
     <node id="tax-risk-loss-of-control"><data key="label">Loss of control / catastrophic misalignment</data><data key="type">risk_domains</data><data key="scope">taxonomy</data></node>
     <node id="tax-risk-deception-hidden-objectives"><data key="label">Deception, scheming, and hidden objectives</data><data key="type">risk_domains</data><data key="scope">taxonomy</data></node>
     <node id="tax-risk-human-factors-oversight"><data key="label">Human factors, oversight, and automation bias</data><data key="type">risk_domains</data><data key="scope">taxonomy</data></node>

@@ -21,7 +21,7 @@
 
     <section class="notice" aria-label="Data limitation">
       <strong>Documented evidence, not an independence score.</strong>
-      Unknown means the reviewed public sources did not establish the fact; it never means zero or no relationship.
+      Hollow candidate nodes are discovery leads, not verified claims. Unknown means reviewed sources did not establish the fact; it never means zero or no relationship.
     </section>
 
     <main>
@@ -33,10 +33,26 @@
         <label>Search <input id="search" type="search" placeholder="Name, risk, activity…" autocomplete="off" /></label>
         <label>Show
           <select id="scope">
-            <option value="all">Core + context</option>
+            <option value="all">Verified + candidates</option>
             <option value="core">Core organizations</option>
             <option value="context">Context nodes</option>
+            <option value="candidate">Candidate leads</option>
             <option value="taxonomy">Taxonomy nodes</option>
+          </select>
+        </label>
+        <label>Candidate leads
+          <select id="candidates">
+            <option value="show">Show candidates</option>
+            <option value="hide">Hide candidates</option>
+          </select>
+        </label>
+        <label>Lead confidence
+          <select id="candidateConfidence">
+            <option value="1">All levels (1–5)</option>
+            <option value="2">Level 2+</option>
+            <option value="3">Level 3+</option>
+            <option value="4">Level 4+</option>
+            <option value="5">Level 5 only</option>
           </select>
         </label>
         <label>Country
@@ -69,7 +85,7 @@
           </select>
         </label>
         <div id="legend" class="legend" aria-label="Graph legend"></div>
-        <p class="aside-note">Dashed outlines mark unknown legal independence. Edge arrows follow the recorded relationship direction.</p>
+        <p class="aside-note">Small hollow nodes are unverified leads. Dashed outlines on verified nodes mark unknown legal independence. Edge arrows follow the recorded relationship direction.</p>
         <details class="downloads">
           <summary>Download data</summary>
           <a href="./data/dataset.json" download>JSON bundle</a>
@@ -81,7 +97,7 @@
       </aside>
 
       <section class="graph-shell" aria-label="Interactive relationship graph">
-        <div id="loading" class="loading">Loading reviewed records…</div>
+        <div id="loading" class="loading">Loading verified records and candidate leads…</div>
         <div id="cy" role="img" aria-label="Interactive graph of AI safety organizations, context entities, risks, and lifecycle stages"></div>
         <div class="graph-footer"><span id="count" aria-live="polite"></span><span>Drag to pan · scroll to zoom · select for evidence</span></div>
       </section>
