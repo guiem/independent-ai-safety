@@ -1,0 +1,23 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://independent-ai-safety.net/schemas/candidate.schema.json",
+  "title": "Discovery candidate",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["id", "name", "website", "canonical_domain", "status", "discovery_sources", "listing_urls", "source_contexts", "first_seen", "last_seen", "evidence_level", "inclusion_hint", "notes"],
+  "properties": {
+    "id": { "type": "string", "pattern": "^cand-[a-z0-9]+(?:-[a-z0-9]+)*$" },
+    "name": { "type": "string", "minLength": 2, "maxLength": 160 },
+    "website": { "type": "string", "format": "uri", "pattern": "^https://" },
+    "canonical_domain": { "type": "string", "pattern": "^[a-z0-9.-]+$" },
+    "status": { "enum": ["new", "triage", "rejected", "promoted"] },
+    "discovery_sources": { "type": "array", "minItems": 1, "uniqueItems": true, "items": { "type": "string", "pattern": "^discovery-" } },
+    "listing_urls": { "type": "array", "minItems": 1, "uniqueItems": true, "items": { "type": "string", "format": "uri" } },
+    "source_contexts": { "type": "array", "uniqueItems": true, "items": { "type": "string", "minLength": 1 } },
+    "first_seen": { "type": "string", "format": "date" },
+    "last_seen": { "type": "string", "format": "date" },
+    "evidence_level": { "const": "discovery-only" },
+    "inclusion_hint": { "enum": ["likely-core", "likely-context", "borderline", "unknown"] },
+    "notes": { "type": ["string", "null"] }
+  }
+}

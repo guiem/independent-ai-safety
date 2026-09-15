@@ -1,6 +1,6 @@
 # Plan
 
-Status: paused at mandatory platform checkpoint pending approval.
+Status: platform approved; vertical slice and first discovery system implemented.
 
 ## Phase 0 — representation and platform decision
 
@@ -10,16 +10,15 @@ Status: paused at mandatory platform checkpoint pending approval.
 - [x] Create a disposable representative Cytoscape.js spike.
 - [x] Recommend representation, canonical format, hosting, and update architecture.
 - [x] Record verified facts, inferences, unknowns, and risks.
-- [ ] Obtain user approval.
+- [x] Obtain user approval.
 
 ## Post-approval phases
 
-1. Repository policy, scope, evidence policy, taxonomy, independence model, licenses, schemas, and validation tests.
-2. A 15–20-organization vertical slice with complete sources and relationships.
-3. Accessible public explorer, exports, shareable views, and deployment.
-4. Expand to 75–150 verified organizations only after vertical-slice review.
-5. Human-in-the-loop discovery, candidate batching, and contribution workflows.
-6. Accessibility, mobile, performance, stale-data, contradiction, and double-counting tests.
+1. [x] Repository policy, scope, evidence policy, taxonomy, independence model, licenses, schemas, and validation tests.
+2. [x] A 15-organization vertical slice with complete sources and relationships.
+3. [x] Accessible public explorer, exports, shareable views, and deployment workflow.
+4. [ ] Expand to 75–150 verified organizations through primary-source review.
+5. [x] High-recall, human-in-the-loop daily discovery with one rolling review PR.
+6. [ ] Complete accessibility, mobile, performance, stale-data, contradiction, and double-counting test coverage.
 
 Each phase should end with a reviewable artifact and a short verified/inferred/unknown/deferred report.
-

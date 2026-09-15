@@ -1,0 +1,22 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://independent-ai-safety.net/schemas/discovery-source.schema.json",
+  "title": "Discovery source",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["id", "name", "url", "kind", "inclusion_hint", "notes"],
+  "properties": {
+    "id": { "type": "string", "pattern": "^discovery-[a-z0-9]+(?:-[a-z0-9]+)*$" },
+    "name": { "type": "string", "minLength": 2 },
+    "url": { "type": "string", "format": "uri", "pattern": "^https://" },
+    "kind": { "enum": ["directory-html", "news-gdelt", "news-feed", "tracked-page"] },
+    "inclusion_hint": { "enum": ["likely-core", "likely-context", "borderline", "unknown"] },
+    "include_title_pattern": { "type": "string" },
+    "exclude_context_patterns": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": { "type": "string" }
+    },
+    "notes": { "type": "string", "minLength": 1 }
+  }
+}

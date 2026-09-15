@@ -12,6 +12,7 @@ const organizations = await load("organizations");
 const relationships = await load("relationships");
 const sources = await load("sources");
 const observations = await load("observations");
+const candidates = await load("candidates");
 const taxonomy = await loadYamlFile(path.join(root, "data", "taxonomies.yml"));
 const taxonomyRows = Object.entries(taxonomy).flatMap(([dimension, rows]) => rows.map(row => ({ ...row, dimension })));
 const linkedTaxonomyIds = new Set(relationships.flatMap(rel => [rel.source_id, rel.target_id]).filter(id => id.startsWith("tax-")));
@@ -49,10 +50,12 @@ await Promise.all([
   writeFile(path.join(output, "graph.json"), stableJson(graph)),
   writeFile(path.join(output, "organizations.csv"), toCsv(organizations.map(org => ({ id:org.id, name:org.name, scope:org.scope, display_type:org.primary_display_type, entity_type:org.entity_type, status:org.status, country:org.geography.country, website:org.website, risk_primary:org.risk_domains.primary, lifecycle_primary:org.lifecycle_stages.primary, activity_primary:org.activities.primary, last_verified:org.last_verified, confidence:org.confidence })), ["id","name","scope","display_type","entity_type","status","country","website","risk_primary","lifecycle_primary","activity_primary","last_verified","confidence"])),
   writeFile(path.join(output, "relationships.csv"), toCsv(relationships.map(rel => ({ id:rel.id, source_id:rel.source_id, target_id:rel.target_id, type:rel.type, status:rel.status, amount:rel.amount?.value, currency:rel.amount?.currency, amount_status:rel.amount?.status, normalized_usd:rel.amount?.normalized_usd, announcement_date:rel.announcement_date, confidence:rel.confidence, source_ids:rel.source_ids })), ["id","source_id","target_id","type","status","amount","currency","amount_status","normalized_usd","announcement_date","confidence","source_ids"])),
+  writeFile(path.join(output, "candidates.json"), stableJson({ data_as_of:dataAsOf, evidence_level:"discovery-only", candidates })),
+  writeFile(path.join(output, "candidates.csv"), toCsv(candidates.map(candidate => ({ id:candidate.id, name:candidate.name, website:candidate.website, canonical_domain:candidate.canonical_domain, status:candidate.status, inclusion_hint:candidate.inclusion_hint, discovery_sources:candidate.discovery_sources, source_contexts:candidate.source_contexts, first_seen:candidate.first_seen, last_seen:candidate.last_seen, notes:candidate.notes })), ["id","name","website","canonical_domain","status","inclusion_hint","discovery_sources","source_contexts","first_seen","last_seen","notes"])),
   writeFile(path.join(output, "graph.graphml"), graphMl(graph))
 ]);
 
-console.log(`Built deterministic exports for ${organizations.length} organizations and ${relationships.length} relationships in public/data/.`);
+console.log(`Built deterministic exports for ${organizations.length} canonical organizations, ${relationships.length} relationships, and ${candidates.length} discovery candidates in public/data/.`);
 
 function graphMl(value) {
   const nodes = value.nodes.map(({ data }) => `    <node id="${xmlEscape(data.id)}"><data key="label">${xmlEscape(data.name)}</data><data key="type">${xmlEscape(data.primary_display_type)}</data><data key="scope">${xmlEscape(data.scope)}</data></node>`).join("\n");

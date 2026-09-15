@@ -1,0 +1,4543 @@
+- id: cand-acsresearch-org
+  name: Alignment of Complex Systems Research Group (ACS)
+  website: https://acsresearch.org/
+  canonical_domain: acsresearch.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Conceptual research
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-adalovelaceinstitute-org
+  name: Adalovelaceinstitute
+  website: https://www.adalovelaceinstitute.org/
+  canonical_domain: adalovelaceinstitute.org
+  status: new
+  discovery_sources:
+    - discovery-failure-first
+  listing_urls:
+    - https://failurefirst.org/research/ai-safety-orgs/
+  source_contexts: []
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-ae-studio
+  name: AE Studio
+  website: https://www.ae.studio/
+  canonical_domain: ae.studio
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Conceptual research, Empirical research, Governance
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-aether-ai-research-org
+  name: Aether
+  website: https://aether-ai-research.org/
+  canonical_domain: aether-ai-research.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Empirical research
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-affi-ne
+  name: AFFINE Network
+  website: https://www.affi.ne/
+  canonical_domain: affi.ne
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Training and education
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-ai-evaluation-org
+  name: Ai Evaluation
+  website: https://ai-evaluation.org/
+  canonical_domain: ai-evaluation.org
+  status: new
+  discovery_sources:
+    - discovery-failure-first
+  listing_urls:
+    - https://failurefirst.org/research/ai-safety-orgs/
+  source_contexts: []
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-ai-plans-com
+  name: AI Plans
+  website: https://ai-plans.com/
+  canonical_domain: ai-plans.com
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Strategy
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-ai-objectives-institute
+  name: AI Objectives Institute (AOI)
+  website: https://ai.objectives.institute/
+  canonical_domain: ai.objectives.institute
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Empirical research, Capabilities research
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-ai2050-schmidtsciences-org
+  name: AI2050
+  website: https://ai2050.schmidtsciences.org/
+  canonical_domain: ai2050.schmidtsciences.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Funding
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-aialignment-mit-edu
+  name: Aialignment
+  website: https://aialignment.mit.edu/
+  canonical_domain: aialignment.mit.edu
+  status: new
+  discovery_sources:
+    - discovery-failure-first
+  listing_urls:
+    - https://failurefirst.org/research/ai-safety-orgs/
+  source_contexts: []
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-aialignmentfoundation-org
+  name: AI Alignment Foundation (AIAF)
+  website: https://www.aialignmentfoundation.org/
+  canonical_domain: aialignmentfoundation.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Funding, Research support
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-aifutures-org
+  name: AI Futures Project (AIFP)
+  website: https://www.aifutures.org/
+  canonical_domain: aifutures.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Forecasting
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-aifuturesproject-org
+  name: Aifuturesproject
+  website: https://aifuturesproject.org/
+  canonical_domain: aifuturesproject.org
+  status: new
+  discovery_sources:
+    - discovery-failure-first
+  listing_urls:
+    - https://failurefirst.org/research/ai-safety-orgs/
+  source_contexts: []
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-aigi-ox-ac-uk
+  name: Oxford Martin AI Governance Initiative (AIGI)
+  website: https://aigi.ox.ac.uk/
+  canonical_domain: aigi.ox.ac.uk
+  status: new
+  discovery_sources:
+    - discovery-ai-safety-guide
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+    - https://www.aisafetyguide.org/institutes
+  source_contexts:
+    - Governance
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-aigs-ca
+  name: AI Governance & Safety Canada (AIGS Canada)
+  website: https://aigs.ca/
+  canonical_domain: aigs.ca
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+    - discovery-failure-first
+  listing_urls:
+    - https://aisafety.com/map
+    - https://failurefirst.org/research/ai-safety-orgs/
+  source_contexts:
+    - Governance
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-aigsi-org
+  name: AI Governance and Safety Institute (AIGSI)
+  website: https://aigsi.org/
+  canonical_domain: aigsi.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Strategy, Advocacy
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-aiimpacts-org
+  name: AI Impacts
+  website: https://aiimpacts.org/
+  canonical_domain: aiimpacts.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Strategy, Forecasting
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-aipolicyinstitute-org
+  name: Aipolicyinstitute
+  website: https://aipolicyinstitute.org/
+  canonical_domain: aipolicyinstitute.org
+  status: new
+  discovery_sources:
+    - discovery-failure-first
+  listing_urls:
+    - https://failurefirst.org/research/ai-safety-orgs/
+  source_contexts: []
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-airiskdeployer-org
+  name: Deployer AI Risk Register
+  website: https://www.airiskdeployer.org/
+  canonical_domain: airiskdeployer.org
+  status: new
+  discovery_sources:
+    - discovery-mindxo-atlas
+  listing_urls:
+    - https://www.mind-xo.com/ai-safety-organizations-atlas/
+  source_contexts: []
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: likely-core
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-airiskfund-com
+  name: AI Risk Mitigation (ARM) Fund
+  website: https://www.airiskfund.com/
+  canonical_domain: airiskfund.com
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Funding
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-aisafety-camp
+  name: AI Safety Camp (AISC)
+  website: https://aisafety.camp/
+  canonical_domain: aisafety.camp
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+    - discovery-failure-first
+  listing_urls:
+    - https://aisafety.com/map
+    - https://failurefirst.org/research/ai-safety-orgs/
+  source_contexts:
+    - Training and education
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-aisafety-com
+  name: Aisafety
+  website: https://www.aisafety.com/
+  canonical_domain: aisafety.com
+  status: new
+  discovery_sources:
+    - discovery-failure-first
+  listing_urls:
+    - https://failurefirst.org/research/ai-safety-orgs/
+  source_contexts: []
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-aisafety-sg
+  name: Singapore AI Safety Hub (SASH)
+  website: https://www.aisafety.sg/
+  canonical_domain: aisafety.sg
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Research support, Training and education
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-aisafety-training
+  name: Aisafety
+  website: https://aisafety.training/
+  canonical_domain: aisafety.training
+  status: new
+  discovery_sources:
+    - discovery-failure-first
+  listing_urls:
+    - https://failurefirst.org/research/ai-safety-orgs/
+  source_contexts: []
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-aisafetyawarenessproject-org
+  name: AI Safety Awareness Project (AISAP)
+  website: https://aisafetyawarenessproject.org/
+  canonical_domain: aisafetyawarenessproject.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Advocacy
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-aisb-dev
+  name: AI Security Bootcamp (AISB)
+  website: https://aisb.dev/
+  canonical_domain: aisb.dev
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Training and education
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-aisfoundation-ai
+  name: AI Safety Foundation
+  website: https://www.aisfoundation.ai/
+  canonical_domain: aisfoundation.ai
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Advocacy, Research support
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-aisi-go-jp
+  name: Japan AI Safety Institute (J-AISI)
+  website: https://aisi.go.jp/index.html
+  canonical_domain: aisi.go.jp
+  status: new
+  discovery_sources:
+    - discovery-naaimes-members
+  listing_urls:
+    - https://aisi.go.jp/index.html
+    - https://www.aisi.gov.uk/blog/international-ai-network-consensus-and-open-questions
+  source_contexts:
+    - Government evaluation and measurement institute
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: likely-context
+  notes: Confirmed as an active institute on its official website; legal parentage and all graph claims still require canonical review.
+- id: cand-aisi-gov-uk
+  name: UK AI Security Institute (UK AISI)
+  website: https://www.aisi.gov.uk/
+  canonical_domain: aisi.gov.uk
+  status: new
+  discovery_sources:
+    - discovery-ai-safety-guide
+    - discovery-aisafety-map
+    - discovery-failure-first
+    - discovery-maisi
+    - discovery-naaimes-members
+  listing_urls:
+    - https://aisafety.com/map
+    - https://failurefirst.org/research/ai-safety-orgs/
+    - https://maisi.org/research/organizations
+    - https://www.aisafetyguide.org/institutes
+    - https://www.aisi.gov.uk/blog/international-ai-network-consensus-and-open-questions
+  source_contexts:
+    - Governance
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-aisi-re-kr
+  name: Korea AI Safety Institute
+  website: https://www.aisi.re.kr/
+  canonical_domain: aisi.re.kr
+  status: new
+  discovery_sources:
+    - discovery-naaimes-members
+  listing_urls:
+    - https://www.aisi.gov.uk/blog/international-ai-network-consensus-and-open-questions
+    - https://www.msit.go.kr/eng/bbs/view.do?bbsSeqNo=42&mId=4&nttSeqNo=1058
+  source_contexts:
+    - Government evaluation and measurement institute
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: likely-context
+  notes: Confirmed by the Korean Ministry of Science and ICT launch record; its own website and all graph claims still require canonical review.
+- id: cand-aistandardslab-org
+  name: AI Standards Lab
+  website: https://www.aistandardslab.org/
+  canonical_domain: aistandardslab.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Governance
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-aiwi-org
+  name: The AI Whistleblower Initiative (AIWI)
+  website: https://aiwi.org/
+  canonical_domain: aiwi.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Governance
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-aixi-uk
+  name: AIXI Labs
+  website: https://www.aixi.uk/
+  canonical_domain: aixi.uk
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Conceptual research
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-ajl-org
+  name: Ajl
+  website: https://www.ajl.org/
+  canonical_domain: ajl.org
+  status: new
+  discovery_sources:
+    - discovery-failure-first
+  listing_urls:
+    - https://failurefirst.org/research/ai-safety-orgs/
+  source_contexts: []
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-algorithmicalignment-csail-mit-edu
+  name: MIT Algorithmic Alignment Group
+  website: https://algorithmicalignment.csail.mit.edu/
+  canonical_domain: algorithmicalignment.csail.mit.edu
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Conceptual research, Empirical research, Governance
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-algoverseairesearch-org
+  name: Algoverse AI Safety
+  website: https://algoverseairesearch.org/
+  canonical_domain: algoverseairesearch.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Training and education
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-alignment-dev
+  name: Alignment Ecosystem Development (AED)
+  website: https://alignment.dev/
+  canonical_domain: alignment.dev
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Research support
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-alignment-org
+  name: Alignment Research Center (ARC)
+  website: https://www.alignment.org/
+  canonical_domain: alignment.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+    - discovery-maisi
+  listing_urls:
+    - https://aisafety.com/map
+    - https://maisi.org/research/organizations
+  source_contexts:
+    - Conceptual research
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-alltechishuman-org
+  name: Alltechishuman
+  website: https://alltechishuman.org/
+  canonical_domain: alltechishuman.org
+  status: new
+  discovery_sources:
+    - discovery-failure-first
+  listing_urls:
+    - https://failurefirst.org/research/ai-safety-orgs/
+  source_contexts: []
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-alter-org-il
+  name: Association for Long Term Existence and Resilience (ALTER)
+  website: https://alter.org.il/
+  canonical_domain: alter.org.il
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Conceptual research, Governance
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-amnesty-org
+  name: Amnesty
+  website: https://www.amnesty.org/
+  canonical_domain: amnesty.org
+  status: new
+  discovery_sources:
+    - discovery-failure-first
+  listing_urls:
+    - https://failurefirst.org/research/ai-safety-orgs/
+  source_contexts: []
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-apartresearch-com
+  name: Apart Fellowship
+  website: https://apartresearch.com/
+  canonical_domain: apartresearch.com
+  status: new
+  discovery_sources:
+    - discovery-ai-safety-guide
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+    - https://www.aisafetyguide.org/institutes
+  source_contexts:
+    - Training and education
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-arbital-greaterwrong-com
+  name: Arbital
+  website: https://arbital.greaterwrong.com/
+  canonical_domain: arbital.greaterwrong.com
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Conceptual research
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-arcadiaimpact-org
+  name: AI Governance Taskforce
+  website: https://www.arcadiaimpact.org/
+  canonical_domain: arcadiaimpact.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Training and education
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-arena-education
+  name: Alignment Research Engineer Accelerator (ARENA)
+  website: https://www.arena.education/
+  canonical_domain: arena.education
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Training and education
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-ari-us
+  name: Americans for Responsible Innovation (ARI)
+  website: https://ari.us/
+  canonical_domain: ari.us
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Governance
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-aria-org-uk
+  name: Advanced Research + Invention Agency (ARIA)
+  website: https://www.aria.org.uk/
+  canonical_domain: aria.org.uk
+  status: new
+  discovery_sources:
+    - discovery-ai-safety-guide
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+    - https://www.aisafetyguide.org/institutes
+  source_contexts:
+    - Funding
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-arva-org
+  name: Arva
+  website: https://arva.org/
+  canonical_domain: arva.org
+  status: new
+  discovery_sources:
+    - discovery-failure-first
+  listing_urls:
+    - https://failurefirst.org/research/ai-safety-orgs/
+  source_contexts: []
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-ashgro-org
+  name: Ashgro
+  website: https://www.ashgro.org/
+  canonical_domain: ashgro.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Research support
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-astera-org
+  name: Astera Neuro-AI
+  website: https://astera.org/
+  canonical_domain: astera.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Capabilities research, Conceptual research
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-astralisfoundation-org
+  name: Astralis Foundation
+  website: https://astralisfoundation.org/
+  canonical_domain: astralisfoundation.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Funding
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-atlas-mitre-org
+  name: MITRE ATLAS
+  website: https://atlas.mitre.org/
+  canonical_domain: atlas.mitre.org
+  status: new
+  discovery_sources:
+    - discovery-ai-safety-guide
+  listing_urls:
+    - https://www.aisafetyguide.org/institutes
+  source_contexts: []
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-atlascomputing-org
+  name: Atlas Computing
+  website: https://atlascomputing.org/
+  canonical_domain: atlascomputing.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Research support
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-averi-org
+  name: AI Verification and Evaluation Research Institute
+  website: https://www.averi.org/
+  canonical_domain: averi.org
+  status: new
+  discovery_sources:
+    - discovery-aef-members
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aievaluatorforum.org/about/members
+    - https://aisafety.com/map
+  source_contexts:
+    - Governance, Empirical research
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: likely-core
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-baseresearch-org
+  name: BASE Fellowship
+  website: https://www.baseresearch.org/
+  canonical_domain: baseresearch.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Training and education
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-beijing-ai-safety-and-governance-institute
+  name: Beijing Institute of AI Safety and Governance (Beijing-AISI)
+  website: https://beijing.ai-safety-and-governance.institute/
+  canonical_domain: beijing.ai-safety-and-governance.institute
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Governance, Empirical research
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-beneficialaifoundation-org
+  name: Beneficial AI Foundation (BAIF)
+  website: https://www.beneficialaifoundation.org/
+  canonical_domain: beneficialaifoundation.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Empirical research
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-bluedot-org
+  name: BlueDot Impact
+  website: https://bluedot.org/
+  canonical_domain: bluedot.org
+  status: new
+  discovery_sources:
+    - discovery-ai-safety-guide
+    - discovery-aisafety-map
+    - discovery-failure-first
+  listing_urls:
+    - https://aisafety.com/map
+    - https://failurefirst.org/research/ai-safety-orgs/
+    - https://www.aisafetyguide.org/institutes
+  source_contexts:
+    - Training and education
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-brookings-edu
+  name: Brookings
+  website: https://www.brookings.edu/
+  canonical_domain: brookings.edu
+  status: new
+  discovery_sources:
+    - discovery-ai-safety-guide
+    - discovery-failure-first
+  listing_urls:
+    - https://failurefirst.org/research/ai-safety-orgs/
+    - https://www.aisafetyguide.org/institutes
+  source_contexts: []
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-buildaligned-ai
+  name: Aligned AI
+  website: https://buildaligned.ai/
+  canonical_domain: buildaligned.ai
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Empirical research
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-cadenzalabs-org
+  name: Cadenza Labs
+  website: https://cadenzalabs.org/
+  canonical_domain: cadenzalabs.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Empirical research
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-caish-org
+  name: Mentorship for Alignment Research Students (MARS)
+  website: https://caish.org/
+  canonical_domain: caish.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Training and education
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-camlin-co
+  name: Camlin
+  website: https://camlin.co/
+  canonical_domain: camlin.co
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Research support
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-carma-org
+  name: Center for AI Risk Management & Alignment (CARMA)
+  website: https://carma.org/
+  canonical_domain: carma.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Strategy
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-carnegieendowment-org
+  name: Carnegieendowment
+  website: https://carnegieendowment.org/
+  canonical_domain: carnegieendowment.org
+  status: new
+  discovery_sources:
+    - discovery-ai-safety-guide
+    - discovery-failure-first
+  listing_urls:
+    - https://failurefirst.org/research/ai-safety-orgs/
+    - https://www.aisafetyguide.org/institutes
+  source_contexts: []
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-casp-ac
+  name: Cambridge Programme on AI Science & Policy (CASP)
+  website: https://casp.ac/
+  canonical_domain: casp.ac
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Empirical research, Governance
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-catalyze-impact-org
+  name: Catalyze Impact
+  website: https://catalyze-impact.org/
+  canonical_domain: catalyze-impact.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Research support
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-cavendishlabs-org
+  name: Cavendish Labs
+  website: https://cavendishlabs.org/
+  canonical_domain: cavendishlabs.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Empirical research
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-cbai-ai
+  name: Cambridge Boston Alignment Initiative (CBAI)
+  website: https://www.cbai.ai/
+  canonical_domain: cbai.ai
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Training and education
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-cbl-eng-cam-ac-uk
+  name: Computational and Biological Learning Lab (CBL)
+  website: https://cbl.eng.cam.ac.uk/
+  canonical_domain: cbl.eng.cam.ac.uk
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Empirical research
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-cdt-org
+  name: Cdt
+  website: https://cdt.org/
+  canonical_domain: cdt.org
+  status: new
+  discovery_sources:
+    - discovery-failure-first
+  listing_urls:
+    - https://failurefirst.org/research/ai-safety-orgs/
+  source_contexts: []
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-ceealar-org
+  name: Centre for Enabling EA Learning & Research (CEEALAR aka EA Hotel)
+  website: https://www.ceealar.org/
+  canonical_domain: ceealar.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Research support
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-centerforhealthsecurity-org
+  name: Centerforhealthsecurity
+  website: https://www.centerforhealthsecurity.org/
+  canonical_domain: centerforhealthsecurity.org
+  status: new
+  discovery_sources:
+    - discovery-failure-first
+  listing_urls:
+    - https://failurefirst.org/research/ai-safety-orgs/
+  source_contexts: []
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-cesia-org
+  name: Centre pour la Sécurité de l'IA (CeSIA)
+  website: https://www.cesia.org/
+  canonical_domain: cesia.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Governance, Strategy, Advocacy
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-cfg-eu
+  name: Centre for Future Generations (CFG)
+  website: https://cfg.eu/
+  canonical_domain: cfg.eu
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Governance
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-cifar-ca
+  name: Cifar
+  website: https://cifar.ca/
+  canonical_domain: cifar.ca
+  status: new
+  discovery_sources:
+    - discovery-failure-first
+  listing_urls:
+    - https://failurefirst.org/research/ai-safety-orgs/
+  source_contexts: []
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-cigionline-org
+  name: Cigionline
+  website: https://www.cigionline.org/research
+  canonical_domain: cigionline.org
+  status: new
+  discovery_sources:
+    - discovery-failure-first
+  listing_urls:
+    - https://failurefirst.org/research/ai-safety-orgs/
+  source_contexts: []
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-cip-org
+  name: Collective Intelligence Project
+  website: https://www.cip.org/
+  canonical_domain: cip.org
+  status: new
+  discovery_sources:
+    - discovery-aef-members
+  listing_urls:
+    - https://aievaluatorforum.org/about/members
+  source_contexts: []
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: likely-core
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-ciss-tsinghua-edu-cn
+  name: Tsinghua Center for International Security and Strategy
+  website: https://ciss.tsinghua.edu.cn/
+  canonical_domain: ciss.tsinghua.edu.cn
+  status: new
+  discovery_sources:
+    - discovery-ai-safety-guide
+  listing_urls:
+    - https://www.aisafetyguide.org/institutes
+  source_contexts: []
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-clair-ai-org
+  name: Center for Law & AI Risk (CLAIR)
+  website: https://clair-ai.org/
+  canonical_domain: clair-ai.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Governance
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-cloudsecurityalliance-org
+  name: Cloud Security Alliance
+  website: https://cloudsecurityalliance.org/
+  canonical_domain: cloudsecurityalliance.org
+  status: new
+  discovery_sources:
+    - discovery-ai-safety-guide
+  listing_urls:
+    - https://www.aisafetyguide.org/institutes
+  source_contexts: []
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-cltc-berkeley-edu
+  name: Center for Long-Term Cybersecurity (CLTC)
+  website: https://cltc.berkeley.edu/
+  canonical_domain: cltc.berkeley.edu
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Empirical research, Governance, Strategy
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-cnaisi-cn
+  name: China Al Safety & Development Association (CnAISDA)
+  website: https://cnaisi.cn/
+  canonical_domain: cnaisi.cn
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Governance
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-coalitionforsecureai-org
+  name: Coalition for Secure AI
+  website: https://www.coalitionforsecureai.org/
+  canonical_domain: coalitionforsecureai.org
+  status: new
+  discovery_sources:
+    - discovery-ai-safety-guide
+  listing_urls:
+    - https://www.aisafetyguide.org/institutes
+  source_contexts: []
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-compassionml-com
+  name: Compassion Aligned Machine Learning (CaML)
+  website: https://www.compassionml.com/
+  canonical_domain: compassionml.com
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Empirical research
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-concordia-ai-com
+  name: Concordia AI
+  website: https://concordia-ai.com/
+  canonical_domain: concordia-ai.com
+  status: new
+  discovery_sources:
+    - discovery-ai-safety-guide
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+    - https://www.aisafetyguide.org/institutes
+  source_contexts:
+    - Governance
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-conjecture-dev
+  name: Conjecture
+  website: https://www.conjecture.dev/
+  canonical_domain: conjecture.dev
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+    - discovery-failure-first
+  listing_urls:
+    - https://aisafety.com/map
+    - https://failurefirst.org/research/ai-safety-orgs/
+  source_contexts:
+    - Empirical research
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-constellation-org
+  name: Constellation Visiting Fellows
+  website: https://constellation.org/
+  canonical_domain: constellation.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Training and education
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-contramont-org
+  name: Contramont Research
+  website: https://contramont.org/
+  canonical_domain: contramont.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Empirical research
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-controlai-org
+  name: ControlAI
+  website: https://controlai.org/
+  canonical_domain: controlai.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Governance, Advocacy
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-convergenceanalysis-org
+  name: Convergence Analysis
+  website: https://www.convergenceanalysis.org/
+  canonical_domain: convergenceanalysis.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Strategy, Advocacy
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-cooperativeai-com
+  name: Cooperative AI Foundation (CAIF)
+  website: https://www.cooperativeai.com/
+  canonical_domain: cooperativeai.com
+  status: new
+  discovery_sources:
+    - discovery-ai-safety-guide
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+    - https://www.aisafetyguide.org/institutes
+  source_contexts:
+    - Funding
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-coral-research-org
+  name: Computational Rational Agents Laboratory (CORAL)
+  website: https://coral-research.org/
+  canonical_domain: coral-research.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Conceptual research
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-csa-gov-sg
+  name: Cyber Security Agency of Singapore
+  website: https://www.csa.gov.sg/
+  canonical_domain: csa.gov.sg
+  status: new
+  discovery_sources:
+    - discovery-ai-safety-guide
+  listing_urls:
+    - https://www.aisafetyguide.org/institutes
+  source_contexts: []
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-cser-ac-uk
+  name: Centre for the Study of Existential Risk (CSER)
+  website: https://www.cser.ac.uk/
+  canonical_domain: cser.ac.uk
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+    - discovery-failure-first
+  listing_urls:
+    - https://aisafety.com/map
+    - https://failurefirst.org/research/ai-safety-orgs/
+  source_contexts:
+    - Strategy
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-cset-georgetown-edu
+  name: Center for Security and Emerging Technology (CSET)
+  website: https://cset.georgetown.edu/
+  canonical_domain: cset.georgetown.edu
+  status: new
+  discovery_sources:
+    - discovery-ai-safety-guide
+    - discovery-aisafety-map
+    - discovery-failure-first
+  listing_urls:
+    - https://aisafety.com/map
+    - https://failurefirst.org/research/ai-safety-orgs/
+    - https://www.aisafetyguide.org/institutes
+  source_contexts:
+    - Governance
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-cyber-fsi-stanford-edu
+  name: Cyber
+  website: https://cyber.fsi.stanford.edu/
+  canonical_domain: cyber.fsi.stanford.edu
+  status: new
+  discovery_sources:
+    - discovery-failure-first
+  listing_urls:
+    - https://failurefirst.org/research/ai-safety-orgs/
+  source_contexts: []
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-cyber-harvard-edu
+  name: Cyber
+  website: https://cyber.harvard.edu/
+  canonical_domain: cyber.harvard.edu
+  status: new
+  discovery_sources:
+    - discovery-failure-first
+  listing_urls:
+    - https://failurefirst.org/research/ai-safety-orgs/
+  source_contexts: []
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-darpa-mil
+  name: Defense Advanced Research Projects Agency
+  website: https://www.darpa.mil/
+  canonical_domain: darpa.mil
+  status: new
+  discovery_sources:
+    - discovery-ai-safety-guide
+  listing_urls:
+    - https://www.aisafetyguide.org/institutes
+  source_contexts: []
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-datasociety-net
+  name: Datasociety
+  website: https://datasociety.net/
+  canonical_domain: datasociety.net
+  status: new
+  discovery_sources:
+    - discovery-failure-first
+  listing_urls:
+    - https://failurefirst.org/research/ai-safety-orgs/
+  source_contexts: []
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-deepseek-com
+  name: DeepSeek
+  website: https://www.deepseek.com/
+  canonical_domain: deepseek.com
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Capabilities research
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-digital-strategy-ec-europa-eu
+  name: European AI Office
+  website: https://digital-strategy.ec.europa.eu/en/policies/ai-office
+  canonical_domain: digital-strategy.ec.europa.eu
+  status: new
+  discovery_sources:
+    - discovery-ai-safety-guide
+    - discovery-aisafety-map
+    - discovery-failure-first
+    - discovery-naaimes-members
+  listing_urls:
+    - https://aisafety.com/map
+    - https://failurefirst.org/research/ai-safety-orgs/
+    - https://www.aisafetyguide.org/institutes
+    - https://www.aisi.gov.uk/blog/international-ai-network-consensus-and-open-questions
+  source_contexts:
+    - Governance
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-dovetailresearch-org
+  name: Dovetail Research Fellowship
+  website: https://dovetailresearch.org/
+  canonical_domain: dovetailresearch.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Training and education
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-effectiveinstitutionsproject-org
+  name: Effective Institutions Project (EIP)
+  website: https://effectiveinstitutionsproject.org/
+  canonical_domain: effectiveinstitutionsproject.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Governance, Strategy
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-effectivethesis-org
+  name: Effective Thesis Fellowship
+  website: https://www.effectivethesis.org/
+  canonical_domain: effectivethesis.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Training and education
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-eleuther-ai
+  name: EleutherAI
+  website: https://www.eleuther.ai/
+  canonical_domain: eleuther.ai
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Empirical research, Capabilities research
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-enais-co
+  name: European Network for AI Safety (ENAIS)
+  website: https://enais.co/
+  canonical_domain: enais.co
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Research support
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-encodeai-org
+  name: Encode
+  website: https://encodeai.org/
+  canonical_domain: encodeai.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Governance, Advocacy
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-engagedbuddhists-ai
+  name: Buddhism & AI Initiative
+  website: https://www.engagedbuddhists.ai/
+  canonical_domain: engagedbuddhists.ai
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Advocacy, Governance, Strategy
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-enisa-europa-eu
+  name: European Union Agency for Cybersecurity
+  website: https://www.enisa.europa.eu/
+  canonical_domain: enisa.europa.eu
+  status: new
+  discovery_sources:
+    - discovery-ai-safety-guide
+  listing_urls:
+    - https://www.aisafetyguide.org/institutes
+  source_contexts: []
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-epoch-ai
+  name: Epoch AI
+  website: https://epoch.ai/
+  canonical_domain: epoch.ai
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Forecasting, Strategy
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-epochai-org
+  name: Epochai
+  website: https://epochai.org/
+  canonical_domain: epochai.org
+  status: new
+  discovery_sources:
+    - discovery-failure-first
+  listing_urls:
+    - https://failurefirst.org/research/ai-safety-orgs/
+  source_contexts: []
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-eq-network-org
+  name: Equilibria Network
+  website: https://eq-network.org/
+  canonical_domain: eq-network.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Conceptual research, Governance
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-equistamp-com
+  name: EquiStamp
+  website: https://www.equistamp.com/
+  canonical_domain: equistamp.com
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Research support
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-erafellowship-org
+  name: Cambridge ERA:AI Fellowship
+  website: https://erafellowship.org/
+  canonical_domain: erafellowship.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Training and education
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-ergoimpact-org
+  name: Ergo Impact
+  website: https://ergoimpact.org/
+  canonical_domain: ergoimpact.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Funding
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-evitable-com
+  name: Evitable
+  website: https://evitable.com/
+  canonical_domain: evitable.com
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Advocacy
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-existence-org
+  name: Berkeley Existential Risk Initiative (BERI)
+  website: https://existence.org/
+  canonical_domain: existence.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Research support
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-existentialriskobservatory-org
+  name: Existential Risk Observatory (ERO)
+  website: https://www.existentialriskobservatory.org/
+  canonical_domain: existentialriskobservatory.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Advocacy
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-existentialsafety-org
+  name: Collective Action for Existential Safety (CAES)
+  website: https://existentialsafety.org/
+  canonical_domain: existentialsafety.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Advocacy
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-explainable-media
+  name: Explainable
+  website: https://explainable.media/
+  canonical_domain: explainable.media
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Advocacy
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-fair-uba-com
+  name: Frontier AI Safety Research (FAIR)
+  website: https://fair-uba.com/
+  canonical_domain: fair-uba.com
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Conceptual research, Empirical research, Governance
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-far-ai
+  name: FAR.AI
+  website: https://far.ai/
+  canonical_domain: far.ai
+  status: new
+  discovery_sources:
+    - discovery-ai-safety-guide
+    - discovery-aisafety-map
+    - discovery-failure-first
+  listing_urls:
+    - https://aisafety.com/map
+    - https://failurefirst.org/research/ai-safety-orgs/
+    - https://www.aisafetyguide.org/institutes
+  source_contexts:
+    - Empirical research, Research support
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-fathom-org
+  name: Fathom
+  website: https://fathom.org/
+  canonical_domain: fathom.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Governance
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-fhi-ox-ac-uk
+  name: Fhi
+  website: https://www.fhi.ox.ac.uk/
+  canonical_domain: fhi.ox.ac.uk
+  status: new
+  discovery_sources:
+    - discovery-failure-first
+  listing_urls:
+    - https://failurefirst.org/research/ai-safety-orgs/
+  source_contexts: []
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-fiftyyears-com
+  name: "5050"
+  website: https://www.fiftyyears.com/
+  canonical_domain: fiftyyears.com
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Research support
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-flf-org
+  name: Future of Life Foundation (FLF)
+  website: https://www.flf.org/
+  canonical_domain: flf.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Funding
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-forecastingresearch-org
+  name: Forecasting Research Institute (FRI)
+  website: https://forecastingresearch.org/
+  canonical_domain: forecastingresearch.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Forecasting
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-foresight-org
+  name: "Foresight Institute: Funding"
+  website: https://foresight.org/
+  canonical_domain: foresight.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Funding
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-forethought-org
+  name: Forethought
+  website: https://www.forethought.org/
+  canonical_domain: forethought.org
+  status: new
+  discovery_sources:
+    - discovery-ai-safety-guide
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+    - https://www.aisafetyguide.org/institutes
+  source_contexts:
+    - Strategy
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-formationresearch-com
+  name: Formation Research
+  website: https://formationresearch.com/
+  canonical_domain: formationresearch.com
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Conceptual research, Empirical research, Governance
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-founderspledge-com
+  name: Founders Pledge
+  website: https://www.founderspledge.com/
+  canonical_domain: founderspledge.com
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Funding
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-framefellowship-com
+  name: Frame Fellowship
+  website: https://framefellowship.com/
+  canonical_domain: framefellowship.com
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Training and education
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-frontiermodelforum-org
+  name: Frontiermodelforum
+  website: https://www.frontiermodelforum.org/
+  canonical_domain: frontiermodelforum.org
+  status: new
+  discovery_sources:
+    - discovery-failure-first
+  listing_urls:
+    - https://failurefirst.org/research/ai-safety-orgs/
+  source_contexts: []
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-funds-effectivealtruism-org
+  name: Transformative AI Fund (TAIF)
+  website: https://funds.effectivealtruism.org/
+  canonical_domain: funds.effectivealtruism.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Funding
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-future-matters-org
+  name: Future Matters
+  website: https://future-matters.org/
+  canonical_domain: future-matters.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Research support
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-futureimpact-group
+  name: Future Impact Group (FIG) Fellowship
+  website: https://futureimpact.group/
+  canonical_domain: futureimpact.group
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Training and education
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-futureoflife-org
+  name: Futureoflife
+  website: https://futureoflife.org/
+  canonical_domain: futureoflife.org
+  status: new
+  discovery_sources:
+    - discovery-failure-first
+  listing_urls:
+    - https://failurefirst.org/research/ai-safety-orgs/
+  source_contexts: []
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-futuretech-mit-edu
+  name: MIT FutureTech
+  website: https://futuretech.mit.edu/
+  canonical_domain: futuretech.mit.edu
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Forecasting
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-gcri-org
+  name: Global Catastrophic Risk Institute (GCRI)
+  website: https://gcri.org/
+  canonical_domain: gcri.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+    - discovery-failure-first
+  listing_urls:
+    - https://aisafety.com/map
+    - https://failurefirst.org/research/ai-safety-orgs/
+  source_contexts:
+    - Strategy
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-genai-owasp-org
+  name: OWASP GenAI Security Project
+  website: https://genai.owasp.org/
+  canonical_domain: genai.owasp.org
+  status: new
+  discovery_sources:
+    - discovery-ai-safety-guide
+  listing_urls:
+    - https://www.aisafetyguide.org/institutes
+  source_contexts: []
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-geodesicresearch-ai
+  name: Geodesic Research
+  website: https://geodesicresearch.ai/
+  canonical_domain: geodesicresearch.ai
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Empirical research
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-givingwhatwecan-org
+  name: Giving What We Can (GWWC)
+  website: https://www.givingwhatwecan.org/
+  canonical_domain: givingwhatwecan.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Funding
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-globalchallengesproject-org
+  name: Global Challenges Project (GCP)
+  website: https://www.globalchallengesproject.org/
+  canonical_domain: globalchallengesproject.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Training and education
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-goodancestors-org-au
+  name: Good Ancestors
+  website: https://www.goodancestors.org.au/
+  canonical_domain: goodancestors.org.au
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Governance
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-goodfire-com
+  name: Goodfire
+  website: https://www.goodfire.com/
+  canonical_domain: goodfire.com
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Empirical research
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-goodimpressionsmedia-com
+  name: Good Impressions
+  website: https://www.goodimpressionsmedia.com/
+  canonical_domain: goodimpressionsmedia.com
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Research support
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-gpai-ai
+  name: Gpai
+  website: https://gpai.ai/
+  canonical_domain: gpai.ai
+  status: new
+  discovery_sources:
+    - discovery-failure-first
+  listing_urls:
+    - https://failurefirst.org/research/ai-safety-orgs/
+  source_contexts: []
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-grantmaking-ai
+  name: grantmaking.ai
+  website: https://www.grantmaking.ai/
+  canonical_domain: grantmaking.ai
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Funding
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-grayswan-ai
+  name: Gray Swan
+  website: https://www.grayswan.ai/
+  canonical_domain: grayswan.ai
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Capabilities research, Empirical research
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-hai-stanford-edu
+  name: Hai
+  website: https://hai.stanford.edu/
+  canonical_domain: hai.stanford.edu
+  status: new
+  discovery_sources:
+    - discovery-failure-first
+  listing_urls:
+    - https://failurefirst.org/research/ai-safety-orgs/
+  source_contexts: []
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-hal-cs-princeton-edu
+  name: Princeton Holistic Agent Leaderboard
+  website: https://hal.cs.princeton.edu/
+  canonical_domain: hal.cs.princeton.edu
+  status: new
+  discovery_sources:
+    - discovery-aef-members
+  listing_urls:
+    - https://aievaluatorforum.org/about/members
+  source_contexts: []
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: likely-core
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-halcyonfutures-org
+  name: Halcyon Futures
+  website: https://halcyonfutures.org/
+  canonical_domain: halcyonfutures.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Funding, Career support
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-harmonyintelligence-com
+  name: Harmony Intelligence
+  website: https://www.harmonyintelligence.com/
+  canonical_domain: harmonyintelligence.com
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Empirical research, Strategy
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-highimpactprofessionals-org
+  name: HIP Impact Accelerator Program (IAP)
+  website: https://www.highimpactprofessionals.org/
+  canonical_domain: highimpactprofessionals.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Training and education
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-humanaligned-ai
+  name: Human-aligned AI Summer School
+  website: https://humanaligned.ai/
+  canonical_domain: humanaligned.ai
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Training and education
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-humancompatible-ai
+  name: "Center for Human-Compatible AI (CHAI): Internship"
+  website: https://humancompatible.ai/
+  canonical_domain: humancompatible.ai
+  status: new
+  discovery_sources:
+    - discovery-ai-safety-guide
+    - discovery-aisafety-map
+    - discovery-failure-first
+  listing_urls:
+    - https://aisafety.com/map
+    - https://failurefirst.org/research/ai-safety-orgs/
+    - https://www.aisafetyguide.org/institutes
+  source_contexts:
+    - Training and education
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-humansincontrol-org
+  name: Humans in Control
+  website: https://humansincontrol.org/
+  canonical_domain: humansincontrol.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Advocacy
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-iaiga-org
+  name: International AI Governance Alliance (IAIGA)
+  website: https://www.iaiga.org/
+  canonical_domain: iaiga.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Governance, Advocacy
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-iaps-ai
+  name: Institute for AI Policy and Strategy (IAPS)
+  website: https://www.iaps.ai/
+  canonical_domain: iaps.ai
+  status: new
+  discovery_sources:
+    - discovery-ai-safety-guide
+    - discovery-aisafety-map
+    - discovery-failure-first
+  listing_urls:
+    - https://aisafety.com/map
+    - https://failurefirst.org/research/ai-safety-orgs/
+    - https://www.aisafetyguide.org/institutes
+  source_contexts:
+    - Governance, Strategy
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-iaseai-org
+  name: International Association for Safe & Ethical AI (IASEAI)
+  website: https://www.iaseai.org/
+  canonical_domain: iaseai.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Governance, Strategy
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-iliad-ac
+  name: Iliad Fellowship
+  website: https://www.iliad.ac/
+  canonical_domain: iliad.ac
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+    - discovery-maisi
+  listing_urls:
+    - https://aisafety.com/map
+    - https://maisi.org/research/organizations
+  source_contexts:
+    - Training and education
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-ilinaprogram-org
+  name: ILINA Program
+  website: https://www.ilinaprogram.org/
+  canonical_domain: ilinaprogram.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Training and education, Governance
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-imda-gov-sg
+  name: Digital Trust Centre / Singapore AI Safety Institute
+  website: https://www.imda.gov.sg/about-imda/emerging-technologies-and-research/trust-tech
+  canonical_domain: imda.gov.sg
+  status: new
+  discovery_sources:
+    - discovery-naaimes-members
+  listing_urls:
+    - https://www.aisi.gov.uk/blog/international-ai-network-consensus-and-open-questions
+    - https://www.imda.gov.sg/resources/press-releases-factsheets-and-speeches/factsheets/2024/digital-trust-centre
+  source_contexts:
+    - Government evaluation and measurement institute
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: likely-context
+  notes: Confirmed by IMDA's designation of the Digital Trust Centre as Singapore's AISI; legal structure and all graph claims still require canonical review.
+- id: cand-impact-ops-org
+  name: Impact Ops
+  website: https://impact-ops.org/
+  canonical_domain: impact-ops.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Research support
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-incidentdatabase-ai
+  name: Incidentdatabase
+  website: https://incidentdatabase.ai/
+  canonical_domain: incidentdatabase.ai
+  status: new
+  discovery_sources:
+    - discovery-failure-first
+  listing_urls:
+    - https://failurefirst.org/research/ai-safety-orgs/
+  source_contexts: []
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-industry-gov-au
+  name: Australia's AI Safety Institute
+  website: https://www.industry.gov.au/science-technology-and-innovation/technology/artificial-intelligence/ai-safety-institute
+  canonical_domain: industry.gov.au
+  status: new
+  discovery_sources:
+    - discovery-naaimes-members
+  listing_urls:
+    - https://www.aisi.gov.uk/blog/international-ai-network-consensus-and-open-questions
+    - https://www.industry.gov.au/science-technology-and-innovation/technology/artificial-intelligence/ai-safety-institute
+  source_contexts:
+    - Government evaluation and measurement institute
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: likely-context
+  notes: Confirmed as an active institute on its official Australian Government page; all graph claims still require canonical review.
+- id: cand-intelligencerising-org
+  name: Intelligence Rising
+  website: https://www.intelligencerising.org/
+  canonical_domain: intelligencerising.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Strategy, Governance, Training and education
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-internationalaisafetyreport-org
+  name: Internationalaisafetyreport
+  website: https://internationalaisafetyreport.org/
+  canonical_domain: internationalaisafetyreport.org
+  status: new
+  discovery_sources:
+    - discovery-failure-first
+  listing_urls:
+    - https://failurefirst.org/research/ai-safety-orgs/
+  source_contexts: []
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-ised-isde-canada-ca
+  name: Canadian Artificial Intelligence Safety Institute (CAISI)
+  website: https://ised-isde.canada.ca/site/ised/en/canadian-artificial-intelligence-safety-institute
+  canonical_domain: ised-isde.canada.ca
+  status: new
+  discovery_sources:
+    - discovery-failure-first
+    - discovery-naaimes-members
+  listing_urls:
+    - https://failurefirst.org/research/ai-safety-orgs/
+    - https://ised-isde.canada.ca/site/ised/en/canadian-artificial-intelligence-safety-institute
+    - https://www.aisi.gov.uk/blog/international-ai-network-consensus-and-open-questions
+  source_contexts: []
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Confirmed as an active institute on its official Government of Canada page; legal identity, parentage, classifications, and all graph claims still require canonical review.
+- id: cand-iso-org
+  name: Iso
+  website: https://www.iso.org/
+  canonical_domain: iso.org
+  status: new
+  discovery_sources:
+    - discovery-failure-first
+  listing_urls:
+    - https://failurefirst.org/research/ai-safety-orgs/
+  source_contexts: []
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-joint-research-centre-ec-europa-eu
+  name: Joint Research Centre
+  website: https://joint-research-centre.ec.europa.eu/
+  canonical_domain: joint-research-centre.ec.europa.eu
+  status: new
+  discovery_sources:
+    - discovery-failure-first
+  listing_urls:
+    - https://failurefirst.org/research/ai-safety-orgs/
+  source_contexts: []
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-juniper-xyz
+  name: Juniper Ventures
+  website: https://juniper.xyz/
+  canonical_domain: juniper.xyz
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Funding, Career support
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-kairos-project-org
+  name: Kairos
+  website: https://kairos-project.org/
+  canonical_domain: kairos-project.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Training and education, Career support
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-lasrlabs-org
+  name: London AI Safety Research (LASR) Labs
+  website: https://www.lasrlabs.org/
+  canonical_domain: lasrlabs.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Training and education
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-lasst-org
+  name: Legal Advocates for Safe Science and Technology (LASST)
+  website: https://lasst.org/
+  canonical_domain: lasst.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Advocacy
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-law-ai-org
+  name: "Institute for Law & AI (LawAI): Research Fellowships"
+  website: https://law-ai.org/
+  canonical_domain: law-ai.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Training and education
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-lcfi-ac-uk
+  name: Lcfi
+  website: https://www.lcfi.ac.uk/
+  canonical_domain: lcfi.ac.uk
+  status: new
+  discovery_sources:
+    - discovery-failure-first
+  listing_urls:
+    - https://failurefirst.org/research/ai-safety-orgs/
+  source_contexts: []
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-leaf-courses
+  name: "Leaf: Dilemmas and Dangers in AI"
+  website: https://leaf.courses/
+  canonical_domain: leaf.courses
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Training and education
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-legalsafetylab-org
+  name: Legal Safety Lab
+  website: https://legalsafetylab.org/
+  canonical_domain: legalsafetylab.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Advocacy
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-lensacademy-org
+  name: Lens Academy
+  website: https://lensacademy.org/
+  canonical_domain: lensacademy.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Training and education
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-leomckeereid-com
+  name: Leomckeereid
+  website: https://leomckeereid.com/
+  canonical_domain: leomckeereid.com
+  status: new
+  discovery_sources:
+    - discovery-failure-first
+  listing_urls:
+    - https://failurefirst.org/research/ai-safety-orgs/
+  source_contexts: []
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-lightconecommons-com
+  name: Lightcone Commons
+  website: https://www.lightconecommons.com/
+  canonical_domain: lightconecommons.com
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Funding
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-lightconeinfrastructure-com
+  name: Lightcone Infrastructure
+  website: https://www.lightconeinfrastructure.com/
+  canonical_domain: lightconeinfrastructure.com
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Research support
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-linuxfoundation-org
+  name: Agentic AI Foundation
+  website: https://www.linuxfoundation.org/
+  canonical_domain: linuxfoundation.org
+  status: new
+  discovery_sources:
+    - discovery-ai-safety-guide
+  listing_urls:
+    - https://www.aisafetyguide.org/institutes
+  source_contexts: []
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-lionheart-vc
+  name: Lionheart Ventures
+  website: https://www.lionheart.vc/
+  canonical_domain: lionheart.vc
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Funding
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-longtermresilience-org
+  name: Centre for Long-Term Resilience (CLTR)
+  website: https://www.longtermresilience.org/
+  canonical_domain: longtermresilience.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+    - discovery-failure-first
+  listing_urls:
+    - https://aisafety.com/map
+    - https://failurefirst.org/research/ai-safety-orgs/
+  source_contexts:
+    - Strategy, Governance
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-longtermrisk-org
+  name: "Center on Long-Term Risk (CLR): Fellowship"
+  website: https://longtermrisk.org/
+  canonical_domain: longtermrisk.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Training and education
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-longview-org
+  name: Longview Philanthropy
+  website: https://www.longview.org/
+  canonical_domain: longview.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Funding
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-luthienresearch-org
+  name: Luthien
+  website: https://luthienresearch.org/
+  canonical_domain: luthienresearch.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Empirical research
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-macroscopic-org
+  name: Macroscopic Ventures
+  website: https://macroscopic.org/
+  canonical_domain: macroscopic.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Funding
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-manifold-markets
+  name: Manifold Markets
+  website: https://manifold.markets/
+  canonical_domain: manifold.markets
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Forecasting
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-manifund-org
+  name: AI Safety Tactical Opportunities Fund (AISTOF)
+  website: https://manifund.org/
+  canonical_domain: manifund.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Funding
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-matsprogram-org
+  name: Machine Alignment, Transparency, and Security (MATS)
+  website: https://www.matsprogram.org/
+  canonical_domain: matsprogram.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+    - discovery-failure-first
+  listing_urls:
+    - https://aisafety.com/map
+    - https://failurefirst.org/research/ai-safety-orgs/
+  source_contexts:
+    - Training and education
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-meaningalignment-org
+  name: Meaning Alignment Institute (MAI)
+  website: https://meaningalignment.org/
+  canonical_domain: meaningalignment.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Empirical research
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-mediangroup-org
+  name: Median Group
+  website: https://mediangroup.org/
+  canonical_domain: mediangroup.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Strategy
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-meridiancambridge-org
+  name: Meridian Visiting Researcher Programme
+  website: https://www.meridiancambridge.org/
+  canonical_domain: meridiancambridge.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Training and education
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-meridianlabs-ai
+  name: Meridian Labs
+  website: https://meridianlabs.ai/
+  canonical_domain: meridianlabs.ai
+  status: new
+  discovery_sources:
+    - discovery-aef-members
+  listing_urls:
+    - https://aievaluatorforum.org/about/members
+  source_contexts: []
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: likely-core
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-metacharityfunders-com
+  name: Meta Charity Funders
+  website: https://www.metacharityfunders.com/
+  canonical_domain: metacharityfunders.com
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Funding
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-metaculus-com
+  name: Metaculus
+  website: https://www.metaculus.com/
+  canonical_domain: metaculus.com
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Forecasting
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-microsoft-com
+  name: Microsoft Research
+  website: https://www.microsoft.com/
+  canonical_domain: microsoft.com
+  status: new
+  discovery_sources:
+    - discovery-ai-safety-guide
+  listing_urls:
+    - https://www.aisafetyguide.org/institutes
+  source_contexts: []
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-mila-quebec
+  name: Mila
+  website: https://mila.quebec/
+  canonical_domain: mila.quebec
+  status: new
+  discovery_sources:
+    - discovery-failure-first
+  listing_urls:
+    - https://failurefirst.org/research/ai-safety-orgs/
+  source_contexts: []
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-ml4good-org
+  name: ML4Good
+  website: https://www.ml4good.org/
+  canonical_domain: ml4good.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Training and education
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-modelingcooperation-com
+  name: Modeling Cooperation
+  website: https://www.modelingcooperation.com/
+  canonical_domain: modelingcooperation.com
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Conceptual research, Research support
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-moratorium-ai
+  name: Global AI Moratorium (GAIM)
+  website: https://moratorium.ai/
+  canonical_domain: moratorium.ai
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Advocacy
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-mythos-vc
+  name: Mythos Ventures
+  website: https://www.mythos.vc/
+  canonical_domain: mythos.vc
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Funding
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-narrowpath-co
+  name: Narrow Path
+  website: https://www.narrowpath.co/
+  canonical_domain: narrowpath.co
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Strategy
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-navigation-org
+  name: The Navigation Fund
+  website: https://www.navigation.org/
+  canonical_domain: navigation.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Funding
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-ncuscr-org
+  name: National Committee on US–China Relations
+  website: https://www.ncuscr.org/
+  canonical_domain: ncuscr.org
+  status: new
+  discovery_sources:
+    - discovery-ai-safety-guide
+  listing_urls:
+    - https://www.aisafetyguide.org/institutes
+  source_contexts: []
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-neoresearch-ai
+  name: Neo Research
+  website: https://neoresearch.ai/
+  canonical_domain: neoresearch.ai
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Empirical research
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-neuronpedia-org
+  name: Neuronpedia
+  website: https://neuronpedia.org/
+  canonical_domain: neuronpedia.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Resource, Empirical research
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-newamerica-org
+  name: Newamerica
+  website: https://www.newamerica.org/
+  canonical_domain: newamerica.org
+  status: new
+  discovery_sources:
+    - discovery-failure-first
+  listing_urls:
+    - https://failurefirst.org/research/ai-safety-orgs/
+  source_contexts: []
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-nist-gov
+  name: Center for AI Standards and Innovation (CAISI)
+  website: https://www.nist.gov/caisi
+  canonical_domain: nist.gov
+  status: new
+  discovery_sources:
+    - discovery-ai-safety-guide
+    - discovery-aisafety-map
+    - discovery-failure-first
+    - discovery-naaimes-members
+  listing_urls:
+    - https://aisafety.com/map
+    - https://failurefirst.org/research/ai-safety-orgs/
+    - https://www.aisafetyguide.org/institutes
+    - https://www.aisi.gov.uk/blog/international-ai-network-consensus-and-open-questions
+  source_contexts:
+    - Governance
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-non-trivial-org
+  name: Non-Trivial
+  website: https://www.non-trivial.org/
+  canonical_domain: non-trivial.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Training and education
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-nonlinear-org
+  name: Nonlinear AI Safety Advocacy Funding
+  website: https://www.nonlinear.org/
+  canonical_domain: nonlinear.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Funding
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-nti-org
+  name: Nti
+  website: https://www.nti.org/
+  canonical_domain: nti.org
+  status: new
+  discovery_sources:
+    - discovery-failure-first
+  listing_urls:
+    - https://failurefirst.org/research/ai-safety-orgs/
+  source_contexts: []
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-oaisi-org
+  name: Alignment Research Bootcamp Oxford (ARBOx)
+  website: https://oaisi.org/
+  canonical_domain: oaisi.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Training and education
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-odysseaninstitute-org
+  name: Odyssean Institute
+  website: https://www.odysseaninstitute.org/
+  canonical_domain: odysseaninstitute.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Strategy, Governance
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-oecd-ai
+  name: Oecd
+  website: https://oecd.ai/
+  canonical_domain: oecd.ai
+  status: new
+  discovery_sources:
+    - discovery-failure-first
+  listing_urls:
+    - https://failurefirst.org/research/ai-safety-orgs/
+  source_contexts: []
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-oecd-org
+  name: Global Partnership on AI (GPAI)
+  website: https://www.oecd.org/
+  canonical_domain: oecd.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+    - discovery-failure-first
+  listing_urls:
+    - https://aisafety.com/map
+    - https://failurefirst.org/research/ai-safety-orgs/
+  source_contexts:
+    - Strategy
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-openphilanthropy-org
+  name: Openphilanthropy
+  website: https://www.openphilanthropy.org/
+  canonical_domain: openphilanthropy.org
+  status: new
+  discovery_sources:
+    - discovery-failure-first
+  listing_urls:
+    - https://failurefirst.org/research/ai-safety-orgs/
+  source_contexts: []
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-orionaigov-org
+  name: Orion AI Governance Initiative
+  website: https://www.orionaigov.org/
+  canonical_domain: orionaigov.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Training and education
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-orxl-org
+  name: Orthogonal
+  website: https://orxl.org/
+  canonical_domain: orxl.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Conceptual research
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-ought-org
+  name: Ought
+  website: https://ought.org/
+  canonical_domain: ought.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Empirical research
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-oxfordmartin-ox-ac-uk
+  name: Oxfordmartin
+  website: https://www.oxfordmartin.ox.ac.uk/
+  canonical_domain: oxfordmartin.ox.ac.uk
+  status: new
+  discovery_sources:
+    - discovery-failure-first
+  listing_urls:
+    - https://failurefirst.org/research/ai-safety-orgs/
+  source_contexts: []
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-palisaderesearch-org
+  name: Palisade Research
+  website: https://palisaderesearch.org/
+  canonical_domain: palisaderesearch.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Empirical research
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-paradigm3-org
+  name: Paradigm 3
+  website: https://www.paradigm3.org/
+  canonical_domain: paradigm3.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Empirical research, Funding
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-paragonfellowship-org
+  name: Paragon Policy Fellowship
+  website: https://www.paragonfellowship.org/
+  canonical_domain: paragonfellowship.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Training and education
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-partnershiponai-org
+  name: Partnership on AI (PAI)
+  website: https://partnershiponai.org/
+  canonical_domain: partnershiponai.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+    - discovery-failure-first
+  listing_urls:
+    - https://aisafety.com/map
+    - https://failurefirst.org/research/ai-safety-orgs/
+  source_contexts:
+    - Strategy
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-pathfinder-kairos-project-org
+  name: Pathfinder Fellowship
+  website: https://pathfinder.kairos-project.org/
+  canonical_domain: pathfinder.kairos-project.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Training and education
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-pauseai-info
+  name: PauseAI
+  website: https://pauseai.info/
+  canonical_domain: pauseai.info
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+    - discovery-failure-first
+  listing_urls:
+    - https://aisafety.com/map
+    - https://failurefirst.org/research/ai-safety-orgs/
+  source_contexts:
+    - Advocacy
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-people-csail-mit-edu
+  name: Dylan Hadfield-Menell
+  website: https://people.csail.mit.edu/
+  canonical_domain: people.csail.mit.edu
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Conceptual research
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-pivotal-research-org
+  name: Pivotal Research Fellowship
+  website: https://www.pivotal-research.org/
+  canonical_domain: pivotal-research.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Training and education
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-princint-ai
+  name: Principles of Intelligence (Princint)
+  website: https://princint.ai/
+  canonical_domain: princint.ai
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Conceptual research, Training and education
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-quantifieduncertainty-org
+  name: Quantified Uncertainty Research Institute (QURI)
+  website: https://quantifieduncertainty.org/
+  canonical_domain: quantifieduncertainty.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Forecasting
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-raiseimpact-org
+  name: RAISEimpact
+  website: https://www.raiseimpact.org/
+  canonical_domain: raiseimpact.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Research support
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-rand-org
+  name: RAND
+  website: https://www.rand.org/
+  canonical_domain: rand.org
+  status: new
+  discovery_sources:
+    - discovery-aef-members
+    - discovery-ai-safety-guide
+    - discovery-aisafety-map
+    - discovery-failure-first
+  listing_urls:
+    - https://aievaluatorforum.org/about/members
+    - https://aisafety.com/map
+    - https://failurefirst.org/research/ai-safety-orgs/
+    - https://www.aisafetyguide.org/institutes
+  source_contexts:
+    - Governance
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: likely-core
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-researchathena-org
+  name: Athena Mentorship Program for Women
+  website: https://researchathena.org/
+  canonical_domain: researchathena.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Training and education
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-resolution-org
+  name: Resolution
+  website: https://resolution.org/
+  canonical_domain: resolution.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+    - discovery-maisi
+  listing_urls:
+    - https://aisafety.com/map
+    - https://maisi.org/research/organizations
+  source_contexts:
+    - Conceptual research, Empirical research
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-rethinkwellbeing-org
+  name: Rethink Wellbeing
+  website: https://www.rethinkwellbeing.org/
+  canonical_domain: rethinkwellbeing.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Research support
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-romanyampolskiy-com
+  name: Dr. Roman Yampolskiy
+  website: https://www.romanyampolskiy.com/
+  canonical_domain: romanyampolskiy.com
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Conceptual research
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-safe-eu
+  name: EuroSafeAI
+  website: https://safe.eu/
+  canonical_domain: safe.eu
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Empirical research
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-safeai-org-uk
+  name: London Initiative for Safe AI (LISA)
+  website: https://www.safeai.org.uk/
+  canonical_domain: safeai.org.uk
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Research support
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-saif-org
+  name: Safe AI Forum (SAIF)
+  website: https://saif.org/
+  canonical_domain: saif.org
+  status: new
+  discovery_sources:
+    - discovery-ai-safety-guide
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+    - https://www.aisafetyguide.org/institutes
+  source_contexts:
+    - Governance
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-schmidtsciences-org
+  name: Science of Trustworthy AI
+  website: https://www.schmidtsciences.org/
+  canonical_domain: schmidtsciences.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Funding
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-secureaifutureslab-com
+  name: Secure AI Futures Lab (SAFL)
+  website: https://secureaifutureslab.com/
+  canonical_domain: secureaifutureslab.com
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Research support, Governance, Empirical research
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-secureainow-org
+  name: The Alliance for Secure AI Action
+  website: https://secureainow.org/
+  canonical_domain: secureainow.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Advocacy
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-secureaiproject-org
+  name: Secure AI Project
+  website: https://secureaiproject.org/
+  canonical_domain: secureaiproject.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+    - discovery-failure-first
+  listing_urls:
+    - https://aisafety.com/map
+    - https://failurefirst.org/research/ai-safety-orgs/
+  source_contexts:
+    - Governance
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-securebio-org
+  name: SecureBio
+  website: https://securebio.org/
+  canonical_domain: securebio.org
+  status: new
+  discovery_sources:
+    - discovery-aef-members
+  listing_urls:
+    - https://aievaluatorforum.org/about/members
+  source_contexts: []
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: likely-core
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-securityandtechnology-org
+  name: Institute for Security and Technology (IST)
+  website: https://securityandtechnology.org/
+  canonical_domain: securityandtechnology.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Governance
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-sgdsn-gouv-fr
+  name: Institut national pour l’évaluation et la sécurité de l’intelligence artificielle (INESIA)
+  website: https://www.sgdsn.gouv.fr/
+  canonical_domain: sgdsn.gouv.fr
+  status: new
+  discovery_sources:
+    - discovery-naaimes-members
+  listing_urls:
+    - https://www.aisi.gov.uk/blog/international-ai-network-consensus-and-open-questions
+    - https://www.sgdsn.gouv.fr/files/files/Nos_missions/Feuille%20de%20route%20INESIA%202026-2027.pdf
+  source_contexts:
+    - Government evaluation and measurement institute
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: likely-context
+  notes: Confirmed by the official French government 2026–2027 roadmap; legal structure and all graph claims still require canonical review.
+- id: cand-shfhs-org
+  name: Saving Humanity from Homo Sapiens (SHfHS)
+  website: https://shfhs.org/
+  canonical_domain: shfhs.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Funding
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-simoninstitute-ch
+  name: Simon Institute for Longterm Governance
+  website: https://www.simoninstitute.ch/
+  canonical_domain: simoninstitute.ch
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Governance
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-simplexaisafety-com
+  name: Simplex
+  website: https://www.simplexaisafety.com/
+  canonical_domain: simplexaisafety.com
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Empirical research
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-softmax-com
+  name: Softmax
+  website: https://www.softmax.com/
+  canonical_domain: softmax.com
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Conceptual research, Empirical research
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-sparai-org
+  name: Supervised Program for Alignment Research (SPAR)
+  website: https://sparai.org/
+  canonical_domain: sparai.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Training and education
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-ssi-inc
+  name: Safe Superintelligence Inc. (SSI)
+  website: https://ssi.inc/
+  canonical_domain: ssi.inc
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+    - discovery-failure-first
+  listing_urls:
+    - https://aisafety.com/map
+    - https://failurefirst.org/research/ai-safety-orgs/
+  source_contexts:
+    - Capabilities research, Empirical research
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-standards-ieee-org
+  name: Standards
+  website: https://standards.ieee.org/
+  canonical_domain: standards.ieee.org
+  status: new
+  discovery_sources:
+    - discovery-failure-first
+  listing_urls:
+    - https://failurefirst.org/research/ai-safety-orgs/
+  source_contexts: []
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-stopai-info
+  name: Stop AI
+  website: https://www.stopai.info/
+  canonical_domain: stopai.info
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Advocacy
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-survivalandflourishing-fund
+  name: Survival and Flourishing Fund (SFF)
+  website: https://survivalandflourishing.fund/
+  canonical_domain: survivalandflourishing.fund
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Funding
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-talosnetwork-org
+  name: Talos Fellowship
+  website: https://www.talosnetwork.org/
+  canonical_domain: talosnetwork.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Training and education
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-taraprogram-org
+  name: Technical Alignment Research Accelerator (TARA)
+  website: https://www.taraprogram.org/
+  canonical_domain: taraprogram.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Training and education
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-tarbellcenter-org
+  name: Tarbell Center for AI Journalism
+  website: https://www.tarbellcenter.org/
+  canonical_domain: tarbellcenter.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Training and education, Funding
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-theaipi-org
+  name: AI Policy Institute (AIPI)
+  website: https://theaipi.org/
+  canonical_domain: theaipi.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Governance
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-theaipn-org
+  name: The AI Policy Network (AIPN)
+  website: https://theaipn.org/
+  canonical_domain: theaipn.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Governance
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-thecompendium-ai
+  name: The Compendium
+  website: https://www.thecompendium.ai/
+  canonical_domain: thecompendium.ai
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Strategy
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-thefuturesociety-org
+  name: The Future Society (TFS)
+  website: https://thefuturesociety.org/
+  canonical_domain: thefuturesociety.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+    - discovery-failure-first
+  listing_urls:
+    - https://aisafety.com/map
+    - https://failurefirst.org/research/ai-safety-orgs/
+  source_contexts:
+    - Governance
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-themidasproject-com
+  name: The Midas Project (TMP)
+  website: https://www.themidasproject.com/
+  canonical_domain: themidasproject.com
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Advocacy
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-timaeus-co
+  name: Timaeus
+  website: https://timaeus.co/
+  canonical_domain: timaeus.co
+  status: new
+  discovery_sources:
+    - discovery-maisi
+  listing_urls:
+    - https://maisi.org/research/organizations
+  source_contexts: []
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: likely-core
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-torchbearer-community
+  name: Torchbearer Community (TBC)
+  website: https://www.torchbearer.community/
+  canonical_domain: torchbearer.community
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Advocacy
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-transformative-org
+  name: Transformative Futures Institute (TFI)
+  website: https://transformative.org/
+  canonical_domain: transformative.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Forecasting
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-transluce-org
+  name: Transluce
+  website: https://transluce.org/
+  canonical_domain: transluce.org
+  status: new
+  discovery_sources:
+    - discovery-aef-members
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aievaluatorforum.org/about/members
+    - https://aisafety.com/map
+  source_contexts:
+    - Empirical research
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: likely-core
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-truthful-ai
+  name: TruthfulAI
+  website: https://truthful.ai/
+  canonical_domain: truthful.ai
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Empirical research
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-turing-ac-uk
+  name: Turing
+  website: https://www.turing.ac.uk/research/interest-groups/ai-safety
+  canonical_domain: turing.ac.uk
+  status: new
+  discovery_sources:
+    - discovery-failure-first
+  listing_urls:
+    - https://failurefirst.org/research/ai-safety-orgs/
+  source_contexts: []
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-un-org
+  name: Un
+  website: https://www.un.org/
+  canonical_domain: un.org
+  status: new
+  discovery_sources:
+    - discovery-failure-first
+  listing_urls:
+    - https://failurefirst.org/research/ai-safety-orgs/
+  source_contexts: []
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-understanding-ai-safety-org
+  name: Understanding Ai Safety
+  website: https://understanding-ai-safety.org/
+  canonical_domain: understanding-ai-safety.org
+  status: new
+  discovery_sources:
+    - discovery-failure-first
+  listing_urls:
+    - https://failurefirst.org/research/ai-safety-orgs/
+  source_contexts: []
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-vistainstituteai-org
+  name: Vista Institute for AI Policy
+  website: https://vistainstituteai.org/
+  canonical_domain: vistainstituteai.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Governance, Training and education
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-weforum-org
+  name: Weforum
+  website: https://www.weforum.org/
+  canonical_domain: weforum.org
+  status: new
+  discovery_sources:
+    - discovery-failure-first
+  listing_urls:
+    - https://failurefirst.org/research/ai-safety-orgs/
+  source_contexts: []
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-wp-nyu-edu
+  name: NYU Alignment Research Group (ARG)
+  website: https://wp.nyu.edu/
+  canonical_domain: wp.nyu.edu
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Empirical research
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-x-ai
+  name: SpaceXAI
+  website: https://x.ai/
+  canonical_domain: x.ai
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Capabilities research
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
+- id: cand-xrisk-uchicago-edu
+  name: UChicago Existential Risk Laboratory (XLab) Fellowship
+  website: https://xrisk.uchicago.edu/
+  canonical_domain: xrisk.uchicago.edu
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Training and education
+  first_seen: 2026-09-15
+  last_seen: 2026-09-15
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.

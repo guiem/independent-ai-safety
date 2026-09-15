@@ -1,0 +1,78 @@
+- id: discovery-aef-members
+  name: AI Evaluator Forum members
+  url: https://aievaluatorforum.org/about/members
+  kind: directory-html
+  inclusion_hint: likely-core
+  notes: High-precision evaluator lead source; membership is still discovery evidence, not proof of every graph field.
+
+- id: discovery-mindxo-atlas
+  name: MindXO AI Safety Organizations Atlas
+  url: https://www.mind-xo.com/ai-safety-organizations-atlas/
+  kind: directory-html
+  inclusion_hint: likely-core
+  notes: Broad atlas with government, standards, civil-society, and technical-safety coverage.
+
+- id: discovery-aisafety-map
+  name: AISafety.com field map
+  url: https://aisafety.com/map
+  kind: directory-html
+  inclusion_hint: borderline
+  exclude_context_patterns: ['^(Blog|Newsletter|Podcast|Video|Resource|Career support|Course)$']
+  notes: Broad ecosystem map; programs, communities, and media require stricter triage.
+
+- id: discovery-ai-safety-directory
+  name: Directory of AI Security and Safety organizations
+  url: https://aisecurityandsafety.org/en/organizations/
+  kind: directory-html
+  inclusion_hint: borderline
+  notes: High-recall commercial, government, research, and standards directory; use only as a lead.
+
+- id: discovery-failure-first
+  name: Failure-First AI safety organizations directory
+  url: https://failurefirst.org/research/ai-safety-orgs/
+  kind: directory-html
+  inclusion_hint: borderline
+  notes: High-recall independent directory with explicit tiers; claims require primary-source verification.
+
+- id: discovery-maisi
+  name: Mathematical AI Safety Institute organization list
+  url: https://maisi.org/research/organizations
+  kind: directory-html
+  inclusion_hint: likely-core
+  notes: Focused technical and mathematical safety list.
+
+- id: discovery-ai-safety-guide
+  name: AI Safety Guide institutes
+  url: https://www.aisafetyguide.org/institutes
+  kind: directory-html
+  inclusion_hint: borderline
+  notes: Research, policy, standards, training, and frontier-lab directory.
+
+- id: discovery-unesco-civil-society
+  name: UNESCO civil-society and academic AI network
+  url: https://www.unesco.org/ethics-ai/en/civil-society-organizations/map
+  kind: directory-html
+  inclusion_hint: borderline
+  notes: Improves global and public-interest recall; broader than this project's inclusion criteria.
+
+- id: discovery-grantmaking-ai
+  name: grantmaking.ai projects
+  url: https://app.grantmaking.ai/projects
+  kind: directory-html
+  inclusion_hint: unknown
+  notes: Funding-oriented lead source; public API and bulk reuse terms still need confirmation.
+
+- id: discovery-news-events
+  name: GDELT AI safety organization and funding query
+  url: https://api.gdeltproject.org/api/v2/doc/doc?query=%22AI%20safety%22%20%28launches%20OR%20founded%20OR%20funding%20OR%20grant%20OR%20evaluation%20OR%20audit%29&mode=artlist&maxrecords=100&format=json&sort=datedesc
+  kind: news-gdelt
+  inclusion_hint: unknown
+  include_title_pattern: '(launch|found|new .*(lab|institute|organization|centre|center)|fund|grant|acquir|merg|clos|shut|appoint|director|ceo|evaluation|audit|partnership|collaborat|sponsor)'
+  notes: Event leads only; never creates organization candidates or material claims directly. Broad news noise is expected.
+
+- id: discovery-naaimes-members
+  name: International Network for Advanced AI Measurement, Evaluation and Science members
+  url: https://www.aisi.gov.uk/blog/international-ai-network-consensus-and-open-questions
+  kind: tracked-page
+  inclusion_hint: likely-context
+  notes: Official UK AISI page naming the participating jurisdictions; dedicated institute existence and URLs are checked against each jurisdiction's primary government source.

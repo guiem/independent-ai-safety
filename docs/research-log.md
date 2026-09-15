@@ -39,3 +39,20 @@
 
 See citations in [existing-landscape.md](existing-landscape.md) and [platform-decision.md](platform-decision.md). Organization-specific spike labels were checked against [Sampura Research](https://sampura.org/news/announcing-sampura-research/), [LawZero](https://lawzero.org/en), and [Apollo Research](https://www.apolloresearch.ai/science).
 
+## 2026-09-15 — exhaustive discovery expansion
+
+### Verified
+
+- The [AI Evaluator Forum member list](https://aievaluatorforum.org/about/members) currently exposes eight independent evaluation organizations or programs and is a high-precision discovery input.
+- The [Mathematical AI Safety Institute list](https://maisi.org/research/organizations) supplies focused mathematical and technical safety leads.
+- Broader sources—including [AISafety.com](https://aisafety.com/map), [Failure-First](https://failurefirst.org/research/ai-safety-orgs/), and [AI Safety Guide](https://www.aisafetyguide.org/institutes)—substantially increase recall but mix organizations with programs, funders, communities, and frontier developers.
+- A live, robots-aware collection pass plus a primary-source check of public AI safety institutes produced 281 non-canonical candidate domains after canonical-domain deduplication and obvious media/social/infrastructure exclusions. Thirty-seven candidates appeared in more than one configured source.
+- Current government sources confirm operating institute or office leads in Australia, Canada, the European Union, France, Japan, the Republic of Korea, Singapore, the United Kingdom, and the United States. Kenya participates in the international network, but its current implementation roadmap describes establishing a National AI Risk and Safety Institute as future work, so no operating-institute candidate was asserted.
+
+### Limitations
+
+- Candidate counts measure unique website domains, not verified in-scope institutions.
+- Directory labels and categories are discovery metadata only.
+- The UNESCO map returned HTTP 403 to the collector and remains a manual discovery source until permitted structured access exists.
+- News search has high noise and is filtered to organization/funding/change terms before entering the review report.
+- Exhaustive discovery is not exhaustive verification: every candidate still needs primary-source review before canonical promotion.

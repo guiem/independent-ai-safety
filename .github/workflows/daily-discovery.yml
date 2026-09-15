@@ -1,0 +1,74 @@
+name: Daily discovery review
+
+on:
+  schedule:
+    - cron: "17 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: daily-discovery
+  cancel-in-progress: false
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ github.token }}
+      DISCOVERY_BRANCH: automated/daily-discovery
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Resume rolling discovery branch
+        shell: bash
+        run: |
+          if git ls-remote --exit-code --heads origin "$DISCOVERY_BRANCH" >/dev/null 2>&1; then
+            git fetch origin "$DISCOVERY_BRANCH"
+            git checkout -B "$DISCOVERY_BRANCH" FETCH_HEAD
+            git rebase origin/main
+          else
+            git checkout -b "$DISCOVERY_BRANCH"
+          fi
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+      - run: npm run discover
+      - run: npm run check
+
+      - name: Commit reviewable discovery changes
+        id: changes
+        shell: bash
+        run: |
+          if git diff --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git config user.name "independent-ai-safety-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/candidates/registry.yml data/discovery/state.json reports/discovery/latest.md public/data/candidates.json public/data/candidates.csv
+          git commit -m "chore: update daily discovery review"
+          git push --force-with-lease origin "$DISCOVERY_BRANCH"
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Open rolling review pull request
+        if: steps.changes.outputs.changed == 'true'
+        shell: bash
+        run: |
+          if ! gh pr view "$DISCOVERY_BRANCH" >/dev/null 2>&1; then
+            gh pr create \
+              --base main \
+              --head "$DISCOVERY_BRANCH" \
+              --title "Daily discovery review" \
+              --body-file reports/discovery/latest.md
+          else
+            gh pr edit "$DISCOVERY_BRANCH" --body-file reports/discovery/latest.md
+          fi

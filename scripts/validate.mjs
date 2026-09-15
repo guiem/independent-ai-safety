@@ -11,7 +11,7 @@ const ajv = new Ajv2020({ allErrors:true, strict:true });
 addFormats(ajv);
 
 const validators = {};
-for (const kind of [...kinds, "taxonomy"]) {
+for (const kind of [...kinds, "taxonomy", "candidate", "discovery-source"]) {
   const schema = JSON.parse(await readFile(path.join(root, "schemas", `${kind}.schema.json`), "utf8"));
   validators[kind] = ajv.compile(schema);
 }
@@ -42,6 +42,28 @@ const sourceIds = new Set(collections.source.map(item => item.record.id));
 const organizationIds = new Set(collections.organization.map(item => item.record.id));
 const taxonomyIds = new Set(Object.values(taxonomy).flat().map(item => item.id));
 const entityIds = new Set([...organizationIds, ...taxonomyIds]);
+const candidates = await loadYamlDirectory(path.join(root, "data", "candidates"));
+const candidateIds = new Set();
+const candidateDomains = new Set();
+const discoverySourceFile = path.join(root, "data", "discovery", "sources.yml");
+const discoverySources = await loadYamlFile(discoverySourceFile);
+const discoverySourceIds = new Set();
+for (const record of discoverySources) {
+  if (!validators["discovery-source"](record)) errors.push(...validators["discovery-source"].errors.map(error => `data/discovery/sources.yml${error.instancePath || "/"}: ${error.message}`));
+  if (discoverySourceIds.has(record.id)) errors.push(`data/discovery/sources.yml: duplicate discovery source id ${record.id}`);
+  discoverySourceIds.add(record.id);
+}
+for (const { record, file } of candidates) {
+  const label = path.relative(root, file);
+  if (!validators.candidate(record)) errors.push(...validators.candidate.errors.map(error => `${label}${error.instancePath || "/"}: ${error.message}`));
+  if (candidateIds.has(record.id)) errors.push(`${label}: duplicate candidate id ${record.id}`);
+  if (candidateDomains.has(record.canonical_domain)) errors.push(`${label}: duplicate candidate domain ${record.canonical_domain}`);
+  if (organizationIds.has(record.id.replace(/^cand-/, "org-"))) errors.push(`${label}: candidate appears to duplicate a canonical organization id`);
+  const canonicalOrganizationDomains = collections.organization.flatMap(item => item.record.canonical_domains);
+  if (canonicalOrganizationDomains.some(domain => record.canonical_domain === domain || record.canonical_domain.endsWith(`.${domain}`))) errors.push(`${label}: candidate domain ${record.canonical_domain} already exists in canonical organizations`);
+  for (const id of record.discovery_sources || []) if (!discoverySourceIds.has(id)) errors.push(`${label}: unknown discovery source ${id}`);
+  candidateIds.add(record.id); candidateDomains.add(record.canonical_domain);
+}
 
 function requireSources(ids, label) {
   for (const id of ids || []) if (!sourceIds.has(id)) errors.push(`${label}: unknown source ${id}`);
@@ -91,5 +113,4 @@ if (errors.length) {
   process.exit(1);
 }
 
-console.log(`Validated ${collections.organization.length} organizations, ${collections.relationship.length} relationships, ${collections.source.length} sources, ${collections.observation.length} observations, and ${taxonomyIds.size} taxonomy values.`);
-
+console.log(`Validated ${collections.organization.length} organizations, ${collections.relationship.length} relationships, ${collections.source.length} sources, ${collections.observation.length} observations, ${candidates.length} discovery candidates, and ${taxonomyIds.size} taxonomy values.`);

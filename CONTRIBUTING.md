@@ -10,3 +10,4 @@ Contributions are welcome through focused pull requests or issue forms. Do not a
 
 Automated or LLM-assisted submissions must say how they were produced. A human contributor remains responsible for checking every cited source.
 
+Discovery candidates in `data/candidates/registry.yml` are leads, not public claims. Follow `docs/discovery.md` when triaging, rejecting, or promoting them; promotion requires primary evidence and normalized canonical records.
