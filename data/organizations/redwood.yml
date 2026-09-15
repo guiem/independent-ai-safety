@@ -1,0 +1,51 @@
+id: org-redwood
+name: Redwood Research
+legal_name: Redwood Research
+aliases: []
+website: https://www.redwoodresearch.org/
+canonical_domains: [redwoodresearch.org]
+description: Nonprofit technical research organization focused on AI control and strategic deception.
+founded_date: null
+status: active
+scope: core
+primary_display_type: organization
+geography: { country: US, city: null, geographic_scope: [global] }
+entity_type: nonprofit
+legal_form: 501(c)(3)
+tax_identifiers: []
+parent_or_sponsor_id: null
+leadership: []
+mission: Reduce risks from advanced AI through empirical technical research.
+claimed_theory_of_change: Control methods and deception research can make dangerous model behavior detectable and manageable.
+risk_domains: { primary: tax-risk-deception-hidden-objectives, secondary: [tax-risk-loss-of-control] }
+lifecycle_stages: { primary: tax-life-training-alignment, secondary: [tax-life-predeployment-evaluation] }
+activities: { primary: tax-activity-alignment-control, secondary: [tax-activity-evaluations-benchmarks] }
+models_evaluated: []
+access_models: [unknown]
+independence:
+  legal_independence: separate-legal-entity
+  developer_cash_funding_policy: unknown
+  developer_cash_funding_share: null
+  developer_in_kind_support: [model-access]
+  appointment_control: null
+  operational_control: null
+  publication_rights: unknown
+  conflict_policy_public: unknown
+  funding_disclosure_quality: minimal
+  notes: The site discloses collaboration with frontier developers.
+  limitations: Funding sources and collaboration terms were not established in this slice.
+source_refs:
+  description: [src-redwood-home]
+  status: [src-redwood-home]
+  entity_type: [src-redwood-home]
+  risk_domains: [src-redwood-home]
+  lifecycle_stages: [src-redwood-home]
+  activities: [src-redwood-home]
+  independence: [src-redwood-home]
+first_seen: 2026-09-15
+last_verified: 2026-09-15
+next_review_due: 2027-03-15
+confidence: medium
+reviewer_notes: Collaboration is shown as a relationship, not interpreted as financial dependence.
+contradictions: []
+

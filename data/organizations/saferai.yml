@@ -1,0 +1,53 @@
+id: org-saferai
+name: SaferAI
+legal_name: SaferAI
+aliases: []
+website: https://www.safer-ai.org/
+canonical_domains: [safer-ai.org]
+description: French nonprofit developing AI risk assessments, company ratings, and risk-management standards.
+founded_date: null
+status: active
+scope: core
+primary_display_type: organization
+geography: { country: France, city: Paris, geographic_scope: [Europe, global] }
+entity_type: nonprofit
+legal_form: Association loi 1901
+tax_identifiers:
+  - { jurisdiction: France, identifier: '91918519900016' }
+parent_or_sponsor_id: null
+leadership:
+  - { name: Henry Papadatos, role: Executive Director }
+mission: Improve AI risk management through measurement, accountability, and standards.
+claimed_theory_of_change: Transparent risk ratings and common management standards can shift incentives and practice.
+risk_domains: { primary: tax-risk-loss-of-control, secondary: [tax-risk-cyber-security, tax-risk-bio-chem-misuse] }
+lifecycle_stages: { primary: tax-life-organizational-governance, secondary: [tax-life-standards-audit-conformity, tax-life-policy-regulation] }
+activities: { primary: tax-activity-standards-frameworks, secondary: [tax-activity-forecasting-measurement, tax-activity-policy-advocacy] }
+models_evaluated: []
+access_models: [other]
+independence:
+  legal_independence: separate-legal-entity
+  developer_cash_funding_policy: unknown
+  developer_cash_funding_share: null
+  developer_in_kind_support: [unknown]
+  appointment_control: null
+  operational_control: null
+  publication_rights: unknown
+  conflict_policy_public: unknown
+  funding_disclosure_quality: minimal
+  notes: The organization describes itself as independent and publishes a legal registry identifier.
+  limitations: The independence claim has not been corroborated with funding and governance records.
+source_refs:
+  description: [src-saferai-about]
+  status: [src-saferai-about]
+  entity_type: [src-saferai-about]
+  risk_domains: [src-saferai-about]
+  lifecycle_stages: [src-saferai-about]
+  activities: [src-saferai-about]
+  independence: [src-saferai-about]
+first_seen: 2026-09-15
+last_verified: 2026-09-15
+next_review_due: 2027-03-15
+confidence: medium
+reviewer_notes: Self-description is recorded separately from verified independence dimensions.
+contradictions: []
+

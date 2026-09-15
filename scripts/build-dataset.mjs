@@ -14,13 +14,17 @@ const sources = await load("sources");
 const observations = await load("observations");
 const taxonomy = await loadYamlFile(path.join(root, "data", "taxonomies.yml"));
 const taxonomyRows = Object.entries(taxonomy).flatMap(([dimension, rows]) => rows.map(row => ({ ...row, dimension })));
+const linkedTaxonomyIds = new Set(relationships.flatMap(rel => [rel.source_id, rel.target_id]).filter(id => id.startsWith("tax-")));
+const graphTaxonomyRows = taxonomyRows.filter(row => linkedTaxonomyIds.has(row.id));
+const dataAsOf = organizations.map(org => org.last_verified).sort().at(-1) || null;
 
 const latestObservation = (id, metric) => observations.filter(item => item.subject_id === id && item.metric === metric && item.value != null).sort((a,b) => (b.as_of || b.period_end || "").localeCompare(a.as_of || a.period_end || ""))[0] || null;
 const metrics = Object.fromEntries(organizations.map(org => {
-  const funding = relationships.filter(rel => rel.type === "FUNDED_BY" && rel.source_id === org.id && rel.amount?.support_type === "cash" && rel.amount?.normalized_usd != null && !rel.possible_duplicate_group).reduce((sum, rel) => sum + rel.amount.normalized_usd, 0);
-  const hasFunding = relationships.some(rel => rel.type === "FUNDED_BY" && rel.source_id === org.id && rel.amount?.support_type === "cash" && rel.amount?.normalized_usd != null && !rel.possible_duplicate_group);
+  const fundingRecords = relationships.filter(rel => rel.type === "FUNDED_BY" && rel.source_id === org.id && rel.amount?.support_type === "cash" && rel.amount?.normalized_usd != null && !rel.possible_duplicate_group);
+  const fundingByStatus = Object.fromEntries(["received", "awarded", "committed", "pledged"].map(status => [status, fundingRecords.filter(rel => rel.amount.status === status).reduce((sum, rel) => sum + rel.amount.normalized_usd, 0)]));
   return [org.id, {
-    funding_disclosed_usd: hasFunding ? funding : null,
+    funding_disclosed_usd: fundingRecords.length ? fundingRecords.reduce((sum, rel) => sum + rel.amount.normalized_usd, 0) : null,
+    funding_usd_by_status: fundingRecords.length ? fundingByStatus : null,
     headcount: latestObservation(org.id, "headcount"),
     annual_revenue: latestObservation(org.id, "annual-revenue"),
     operating_budget: latestObservation(org.id, "operating-budget"),
@@ -30,16 +34,16 @@ const metrics = Object.fromEntries(organizations.map(org => {
 }));
 
 const graph = {
-  generated_at: new Date().toISOString(),
+  data_as_of: dataAsOf,
   schema_version: "1.0.0",
   nodes: [
     ...organizations.map(org => ({ data:{ ...org, metrics:metrics[org.id] } })),
-    ...taxonomyRows.map(item => ({ data:{ id:item.id, name:item.label, description:item.description, scope:"taxonomy", primary_display_type:item.dimension } }))
+    ...graphTaxonomyRows.map(item => ({ data:{ id:item.id, name:item.label, description:item.description, scope:"taxonomy", primary_display_type:item.dimension } }))
   ],
   edges: relationships.map(rel => ({ data:{ ...rel, source:rel.source_id, target:rel.target_id } }))
 };
 
-const bundle = { generated_at:graph.generated_at, schema_version:graph.schema_version, organizations, relationships, sources, observations, taxonomy };
+const bundle = { data_as_of:dataAsOf, schema_version:graph.schema_version, organizations, relationships, sources, observations, taxonomy };
 await Promise.all([
   writeFile(path.join(output, "dataset.json"), stableJson(bundle)),
   writeFile(path.join(output, "graph.json"), stableJson(graph)),
@@ -55,4 +59,3 @@ function graphMl(value) {
   const edges = value.edges.map(({ data }) => `    <edge id="${xmlEscape(data.id)}" source="${xmlEscape(data.source)}" target="${xmlEscape(data.target)}"><data key="relationship">${xmlEscape(data.type)}</data><data key="confidence">${xmlEscape(data.confidence)}</data></edge>`).join("\n");
   return `<?xml version="1.0" encoding="UTF-8"?>\n<graphml xmlns="http://graphml.graphdrawing.org/xmlns">\n  <key id="label" for="node" attr.name="label" attr.type="string"/>\n  <key id="type" for="node" attr.name="type" attr.type="string"/>\n  <key id="scope" for="node" attr.name="scope" attr.type="string"/>\n  <key id="relationship" for="edge" attr.name="relationship" attr.type="string"/>\n  <key id="confidence" for="edge" attr.name="confidence" attr.type="string"/>\n  <graph id="independent-ai-safety" edgedefault="directed">\n${nodes}\n${edges}\n  </graph>\n</graphml>\n`;
 }
-

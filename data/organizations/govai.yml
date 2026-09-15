@@ -1,0 +1,52 @@
+id: org-govai
+name: Centre for the Governance of AI
+legal_name: Centre for the Governance of AI
+aliases: [GovAI]
+website: https://www.governance.ai/
+canonical_domains: [governance.ai]
+description: Independent think tank conducting AI governance research and building the governance field.
+founded_date: '2016'
+status: active
+scope: core
+primary_display_type: organization
+geography: { country: null, city: null, geographic_scope: [UK, US, global] }
+entity_type: nonprofit
+legal_form: 501(c)(3)
+tax_identifiers:
+  - { jurisdiction: US, identifier: 99-4000294 }
+parent_or_sponsor_id: null
+leadership:
+  - { name: Ben Garfinkel, role: Director }
+mission: Build a global research community dedicated to helping humanity navigate the transition to advanced AI.
+claimed_theory_of_change: Rigorous governance research and talent development can improve institutional decisions about advanced AI.
+risk_domains: { primary: tax-risk-loss-of-control, secondary: [tax-risk-cyber-security, tax-risk-labor-power-society] }
+lifecycle_stages: { primary: tax-life-policy-regulation, secondary: [tax-life-field-building-funding, tax-life-organizational-governance] }
+activities: { primary: tax-activity-policy-advocacy, secondary: [tax-activity-education-field-building-funding] }
+models_evaluated: []
+access_models: [unknown]
+independence:
+  legal_independence: separate-legal-entity
+  developer_cash_funding_policy: unknown
+  developer_cash_funding_share: null
+  developer_in_kind_support: [unknown]
+  appointment_control: null
+  operational_control: null
+  publication_rights: unknown
+  conflict_policy_public: unknown
+  funding_disclosure_quality: minimal
+  notes: GovAI reports operating independently since leaving Oxford in 2021.
+  limitations: Current donor mix, board appointment rights, and publication controls were not reviewed.
+source_refs:
+  description: [src-govai-about]
+  status: [src-govai-about]
+  entity_type: [src-govai-about]
+  risk_domains: [src-govai-about]
+  lifecycle_stages: [src-govai-about]
+  activities: [src-govai-about]
+  independence: [src-govai-about]
+first_seen: 2026-09-15
+last_verified: 2026-09-15
+next_review_due: 2027-03-15
+confidence: medium
+reviewer_notes: Historic academic affiliation is not treated as current control.
+contradictions: []

@@ -1,0 +1,52 @@
+- { id: rel-metr-risk, source_id: org-metr, target_id: tax-risk-loss-of-control, type: WORKS_ON, status: current, announcement_date: null, covered_period: null, amount: null, confidence: high, source_ids: [src-metr-about], notes: Primary risk classification., possible_duplicate_group: null }
+- { id: rel-metr-life, source_id: org-metr, target_id: tax-life-predeployment-evaluation, type: INTERVENES_AT, status: current, announcement_date: null, covered_period: null, amount: null, confidence: high, source_ids: [src-metr-about], notes: Primary lifecycle classification., possible_duplicate_group: null }
+- { id: rel-lawzero-risk, source_id: org-lawzero, target_id: tax-risk-loss-of-control, type: WORKS_ON, status: current, announcement_date: null, covered_period: null, amount: null, confidence: high, source_ids: [src-lawzero-launch], notes: Primary risk classification., possible_duplicate_group: null }
+- { id: rel-lawzero-life, source_id: org-lawzero, target_id: tax-life-architecture-safe-design, type: INTERVENES_AT, status: current, announcement_date: null, covered_period: null, amount: null, confidence: high, source_ids: [src-lawzero-launch], notes: Primary lifecycle classification., possible_duplicate_group: null }
+- { id: rel-sampura-risk, source_id: org-sampura, target_id: tax-risk-human-factors-oversight, type: WORKS_ON, status: current, announcement_date: null, covered_period: null, amount: null, confidence: high, source_ids: [src-sampura-launch], notes: Primary risk classification., possible_duplicate_group: null }
+- { id: rel-sampura-life, source_id: org-sampura, target_id: tax-life-training-alignment, type: INTERVENES_AT, status: current, announcement_date: null, covered_period: null, amount: null, confidence: high, source_ids: [src-sampura-launch], notes: Primary lifecycle classification., possible_duplicate_group: null }
+- { id: rel-apollo-risk, source_id: org-apollo, target_id: tax-risk-deception-hidden-objectives, type: WORKS_ON, status: current, announcement_date: null, covered_period: null, amount: null, confidence: high, source_ids: [src-apollo-science], notes: Primary risk classification., possible_duplicate_group: null }
+- { id: rel-apollo-life, source_id: org-apollo, target_id: tax-life-predeployment-evaluation, type: INTERVENES_AT, status: current, announcement_date: null, covered_period: null, amount: null, confidence: high, source_ids: [src-apollo-science], notes: Primary lifecycle classification., possible_duplicate_group: null }
+- { id: rel-cais-risk, source_id: org-cais, target_id: tax-risk-loss-of-control, type: WORKS_ON, status: current, announcement_date: null, covered_period: null, amount: null, confidence: high, source_ids: [src-cais-about], notes: Primary risk classification., possible_duplicate_group: null }
+- { id: rel-cais-life, source_id: org-cais, target_id: tax-life-field-building-funding, type: INTERVENES_AT, status: current, announcement_date: null, covered_period: null, amount: null, confidence: high, source_ids: [src-cais-about], notes: Primary lifecycle classification., possible_duplicate_group: null }
+- { id: rel-redwood-risk, source_id: org-redwood, target_id: tax-risk-deception-hidden-objectives, type: WORKS_ON, status: current, announcement_date: null, covered_period: null, amount: null, confidence: high, source_ids: [src-redwood-home], notes: Primary risk classification., possible_duplicate_group: null }
+- { id: rel-redwood-life, source_id: org-redwood, target_id: tax-life-training-alignment, type: INTERVENES_AT, status: current, announcement_date: null, covered_period: null, amount: null, confidence: high, source_ids: [src-redwood-home], notes: Primary lifecycle classification., possible_duplicate_group: null }
+- { id: rel-miri-risk, source_id: org-miri, target_id: tax-risk-loss-of-control, type: WORKS_ON, status: current, announcement_date: null, covered_period: null, amount: null, confidence: medium, source_ids: [src-miri-about], notes: Primary risk classification., possible_duplicate_group: null }
+- { id: rel-miri-life, source_id: org-miri, target_id: tax-life-policy-regulation, type: INTERVENES_AT, status: current, announcement_date: null, covered_period: null, amount: null, confidence: medium, source_ids: [src-miri-about], notes: Primary lifecycle classification., possible_duplicate_group: null }
+- { id: rel-saferai-risk, source_id: org-saferai, target_id: tax-risk-loss-of-control, type: WORKS_ON, status: current, announcement_date: null, covered_period: null, amount: null, confidence: medium, source_ids: [src-saferai-about], notes: Primary risk classification., possible_duplicate_group: null }
+- { id: rel-saferai-life, source_id: org-saferai, target_id: tax-life-organizational-governance, type: INTERVENES_AT, status: current, announcement_date: null, covered_period: null, amount: null, confidence: high, source_ids: [src-saferai-about], notes: Primary lifecycle classification., possible_duplicate_group: null }
+- { id: rel-govai-risk, source_id: org-govai, target_id: tax-risk-loss-of-control, type: WORKS_ON, status: current, announcement_date: null, covered_period: null, amount: null, confidence: medium, source_ids: [src-govai-about], notes: Primary risk classification., possible_duplicate_group: null }
+- { id: rel-govai-life, source_id: org-govai, target_id: tax-life-policy-regulation, type: INTERVENES_AT, status: current, announcement_date: null, covered_period: null, amount: null, confidence: high, source_ids: [src-govai-about], notes: Primary lifecycle classification., possible_duplicate_group: null }
+- { id: rel-ainow-risk, source_id: org-ai-now, target_id: tax-risk-labor-power-society, type: WORKS_ON, status: current, announcement_date: null, covered_period: null, amount: null, confidence: high, source_ids: [src-ainow-about], notes: Primary risk classification., possible_duplicate_group: null }
+- { id: rel-ainow-life, source_id: org-ai-now, target_id: tax-life-policy-regulation, type: INTERVENES_AT, status: current, announcement_date: null, covered_period: null, amount: null, confidence: high, source_ids: [src-ainow-about], notes: Primary lifecycle classification., possible_duplicate_group: null }
+
+- id: rel-sampura-funded-coefficient-year-one
+  source_id: org-sampura
+  target_id: org-coefficient-giving
+  type: FUNDED_BY
+  status: announced
+  announcement_date: 2026-08-25
+  covered_period: { start: '2026', end: null }
+  amount: { value: 7000000, currency: USD, status: committed, support_type: cash, restriction: undisclosed, normalized_usd: 7000000, exchange_rate_source: Native USD, conversion_date: 2026-08-25 }
+  confidence: high
+  source_ids: [src-sampura-launch]
+  notes: First-year portion of the disclosed initial grant.
+  possible_duplicate_group: null
+
+- id: rel-sampura-funded-coefficient-pledge
+  source_id: org-sampura
+  target_id: org-coefficient-giving
+  type: FUNDED_BY
+  status: announced
+  announcement_date: 2026-08-25
+  covered_period: { start: null, end: null }
+  amount: { value: 4000000, currency: USD, status: pledged, support_type: cash, restriction: undisclosed, normalized_usd: 4000000, exchange_rate_source: Native USD, conversion_date: 2026-08-25 }
+  confidence: high
+  source_ids: [src-sampura-launch]
+  notes: Additional amount described as pledged; kept separate from the first-year tranche.
+  possible_duplicate_group: null
+
+- { id: rel-sampura-sponsored-rethink, source_id: org-sampura, target_id: org-rethink-priorities, type: FISCALLY_SPONSORED_BY, status: current, announcement_date: 2026-08-25, covered_period: null, amount: null, confidence: high, source_ids: [src-sampura-launch], notes: Fiscal sponsorship disclosed by Sampura., possible_duplicate_group: null }
+- { id: rel-redwood-collaborated-anthropic, source_id: org-redwood, target_id: org-anthropic, type: COLLABORATED_WITH, status: historical, announcement_date: null, covered_period: null, amount: null, confidence: high, source_ids: [src-redwood-home], notes: Redwood identifies Anthropic as a collaborator; no funding implication is made., possible_duplicate_group: null }
+- { id: rel-metr-evaluated-openai, source_id: org-metr, target_id: org-openai, type: EVALUATED, status: historical, announcement_date: null, covered_period: null, amount: null, confidence: medium, source_ids: [src-metr-about], notes: METR describes a partnership to pilot frontier risk assessments; exact models are not asserted here., possible_duplicate_group: null }
+- { id: rel-metr-evaluated-anthropic, source_id: org-metr, target_id: org-anthropic, type: EVALUATED, status: historical, announcement_date: null, covered_period: null, amount: null, confidence: medium, source_ids: [src-metr-about], notes: METR describes a partnership to pilot frontier risk assessments; exact models are not asserted here., possible_duplicate_group: null }
+- { id: rel-metr-evaluated-deepmind, source_id: org-metr, target_id: org-google-deepmind, type: EVALUATED, status: historical, announcement_date: null, covered_period: null, amount: null, confidence: medium, source_ids: [src-metr-about], notes: METR describes a partnership to pilot frontier risk assessments; exact models are not asserted here., possible_duplicate_group: null }

@@ -1,0 +1,243 @@
+- id: src-metr-about
+  url: https://metr.org/about
+  title: About METR
+  publisher: METR
+  publication_date: null
+  retrieval_date: 2026-09-15
+  source_type: official-page
+  archival_url: null
+  reliability_tier: primary
+  support:
+    - claim: METR is an independent nonprofit that evaluates frontier AI systems.
+      evidence: The page describes METR as a research nonprofit focused on evaluating whether frontier models pose catastrophic risks.
+      location: About and Our work
+    - claim: METR does not accept donations from frontier AI company employees but receives in-kind access.
+      evidence: Its funding disclosure says it has not accepted AI-company funding and records free tokens and model access from multiple developers.
+      location: Funding and conflicts of interest
+  notes: Organization-authored source; independence claims remain self-reported.
+
+- id: src-lawzero-launch
+  url: https://lawzero.org/en/news/yoshua-bengio-launches-lawzero-new-nonprofit-advancing-safe-design-ai
+  title: Yoshua Bengio launches LawZero
+  publisher: LawZero
+  publication_date: 2025-06-03
+  retrieval_date: 2026-09-15
+  source_type: official-page
+  archival_url: null
+  reliability_tier: primary
+  support:
+    - claim: LawZero is a nonprofit pursuing safe-by-design AI research.
+      evidence: The launch announcement identifies LawZero as a nonprofit developing the Scientist AI approach and names its initial donors.
+      location: Announcement body
+    - claim: LawZero was incubated at Mila.
+      evidence: The announcement states that LawZero was incubated at Mila and describes Mila as an operating partner.
+      location: Announcement body
+  notes: Organization-authored launch announcement.
+
+- id: src-sampura-launch
+  url: https://sampura.org/news/announcing-sampura-research/
+  title: Announcing Sampura Research
+  publisher: Sampura Research
+  publication_date: 2026-08-25
+  retrieval_date: 2026-09-15
+  source_type: official-page
+  archival_url: null
+  reliability_tier: primary
+  support:
+    - claim: Sampura researches scalable oversight and human-AI complementarity.
+      evidence: The announcement describes work on judges, training, evaluations, and deployment monitoring.
+      location: Research agenda
+    - claim: Coefficient Giving provided an initial $11 million grant split between $7 million in year one and $4 million pledged.
+      evidence: The announcement gives both tranches and identifies Coefficient Giving.
+      location: Funding disclosure
+    - claim: Sampura is fiscally sponsored by Rethink Priorities.
+      evidence: The announcement explicitly identifies Rethink Priorities as fiscal sponsor.
+      location: Organization disclosure
+  notes: Organization-authored announcement; funding tranches are modeled separately.
+
+- id: src-apollo-about
+  url: https://www.apolloresearch.ai/about
+  title: About Apollo Research
+  publisher: Apollo Research
+  publication_date: null
+  retrieval_date: 2026-09-15
+  source_type: official-page
+  archival_url: null
+  reliability_tier: primary
+  support:
+    - claim: Apollo Research is a public benefit corporation working on scheming and frontier-system security.
+      evidence: The page describes its 2026 public benefit corporation structure, mission, offices, and public operating norms.
+      location: About
+  notes: Current organization-authored description.
+
+- id: src-apollo-science
+  url: https://www.apolloresearch.ai/science
+  title: Science
+  publisher: Apollo Research
+  publication_date: null
+  retrieval_date: 2026-09-15
+  source_type: official-page
+  archival_url: null
+  reliability_tier: primary
+  support:
+    - claim: Apollo works on fundamental scheming research and pre-deployment evaluations.
+      evidence: The science page presents these as its two main scientific workstreams.
+      location: Research areas
+  notes: Organization-authored research overview.
+
+- id: src-cais-about
+  url: https://safe.ai/about
+  title: About the Center for AI Safety
+  publisher: Center for AI Safety
+  publication_date: null
+  retrieval_date: 2026-09-15
+  source_type: official-page
+  archival_url: null
+  reliability_tier: primary
+  support:
+    - claim: CAIS is a nonprofit working on societal-scale AI risks through research, field building, and advocacy.
+      evidence: The page describes these activities and identifies dangerous behavior, reliability, and security as research areas.
+      location: Mission and research
+  notes: Organization-authored source.
+
+- id: src-redwood-home
+  url: https://www.redwoodresearch.org/
+  title: Redwood Research
+  publisher: Redwood Research
+  publication_date: null
+  retrieval_date: 2026-09-15
+  source_type: official-page
+  archival_url: null
+  reliability_tier: primary
+  support:
+    - claim: Redwood Research is a nonprofit focused on AI control and strategic deception.
+      evidence: The site describes its 501(c)(3) status and technical work on control and deception.
+      location: Homepage
+    - claim: Redwood has collaborated with Anthropic.
+      evidence: The site identifies Anthropic among its collaborators and advisees.
+      location: Collaborations
+  notes: Organization-authored source.
+
+- id: src-miri-about
+  url: https://intelligence.org/about/
+  title: About MIRI
+  publisher: Machine Intelligence Research Institute
+  publication_date: null
+  retrieval_date: 2026-09-15
+  source_type: official-page
+  archival_url: null
+  reliability_tier: primary
+  support:
+    - claim: MIRI is a 501(c)(3) focused on preventing catastrophic outcomes from advanced AI.
+      evidence: The page states its legal status, history, and current mission and advocacy priorities.
+      location: About
+  notes: Organization-authored source.
+
+- id: src-saferai-about
+  url: https://www.safer-ai.org/about
+  title: About SaferAI
+  publisher: SaferAI
+  publication_date: null
+  retrieval_date: 2026-09-15
+  source_type: official-page
+  archival_url: null
+  reliability_tier: primary
+  support:
+    - claim: SaferAI is a French nonprofit working on risk assessment, ratings, and standards.
+      evidence: The page describes its association status, mission, programs, leadership, and registry identifier.
+      location: About
+  notes: Organization-authored source.
+
+- id: src-govai-about
+  url: https://www.governance.ai/about-us
+  title: About GovAI
+  publisher: Centre for the Governance of AI
+  publication_date: null
+  retrieval_date: 2026-09-15
+  source_type: official-page
+  archival_url: null
+  reliability_tier: primary
+  support:
+    - claim: GovAI is an independent 501(c)(3) think tank focused on AI governance research and field building.
+      evidence: The page describes its history, legal status, offices, research areas, fellowships, and director.
+      location: About us
+  notes: Organization-authored source.
+
+- id: src-ainow-about
+  url: https://ainowinstitute.org/about
+  title: About AI Now Institute
+  publisher: AI Now Institute
+  publication_date: null
+  retrieval_date: 2026-09-15
+  source_type: official-page
+  archival_url: null
+  reliability_tier: primary
+  support:
+    - claim: AI Now is an independent research institute studying AI's social consequences and concentrated power.
+      evidence: The page describes its research and policy work, 501(c)(3) status, and co-directors.
+      location: About
+    - claim: AI Now does not accept corporate or technology-industry funding.
+      evidence: Its independence statement says it has followed that policy since becoming independent in mid-2022 and that funders do not dictate research.
+      location: Independence statement
+  notes: Organization-authored source; funding policy is self-reported.
+
+- id: src-coefficient-about
+  url: https://coefficientgiving.org/about-us/
+  title: About Coefficient Giving
+  publisher: Coefficient Giving
+  publication_date: null
+  retrieval_date: 2026-09-15
+  source_type: official-page
+  archival_url: null
+  reliability_tier: primary
+  support:
+    - claim: Coefficient Giving is a philanthropic funder and advisor.
+      evidence: Its about page describes grantmaking and its primary partnership with Good Ventures.
+      location: About us
+  notes: Organization-authored source.
+
+- id: src-openai-about
+  url: https://openai.com/about/
+  title: About OpenAI
+  publisher: OpenAI
+  publication_date: null
+  retrieval_date: 2026-09-15
+  source_type: official-page
+  archival_url: null
+  reliability_tier: primary
+  support:
+    - claim: OpenAI is a frontier AI developer with a nonprofit foundation and public benefit corporation group.
+      evidence: The page describes its mission, research and deployment activities, and organizational structure.
+      location: About
+  notes: Context-node source only.
+
+- id: src-anthropic-company
+  url: https://www.anthropic.com/company
+  title: Company
+  publisher: Anthropic
+  publication_date: null
+  retrieval_date: 2026-09-15
+  source_type: official-page
+  archival_url: null
+  reliability_tier: primary
+  support:
+    - claim: Anthropic is a public benefit corporation that develops frontier AI systems.
+      evidence: The company page describes its corporate form, safety research, and Claude model family.
+      location: Company
+  notes: Context-node source only.
+
+- id: src-deepmind-about
+  url: https://deepmind.google/about/
+  title: About Google DeepMind
+  publisher: Google DeepMind
+  publication_date: null
+  retrieval_date: 2026-09-15
+  source_type: official-page
+  archival_url: null
+  reliability_tier: primary
+  support:
+    - claim: Google DeepMind develops frontier AI systems including Gemini.
+      evidence: The page describes its mission, leadership, research, and model development.
+      location: About
+  notes: Context-node source only.
+

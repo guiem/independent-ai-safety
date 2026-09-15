@@ -1,0 +1,53 @@
+id: org-cais
+name: Center for AI Safety
+legal_name: Center for AI Safety
+aliases: [CAIS]
+website: https://safe.ai/
+canonical_domains: [safe.ai]
+description: Nonprofit pursuing research, field building, and advocacy on societal-scale risks from AI.
+founded_date: null
+status: active
+scope: core
+primary_display_type: organization
+geography: { country: US, city: null, geographic_scope: [global] }
+entity_type: nonprofit
+legal_form: Nonprofit
+tax_identifiers: []
+parent_or_sponsor_id: null
+leadership:
+  - { name: Dan Hendrycks, role: Director }
+  - { name: Oliver Zhang, role: Executive Director }
+mission: Reduce societal-scale risks associated with artificial intelligence.
+claimed_theory_of_change: Technical research, a larger safety field, and policy engagement can reduce catastrophic and systemic AI risks.
+risk_domains: { primary: tax-risk-loss-of-control, secondary: [tax-risk-deception-hidden-objectives, tax-risk-robustness-adversarial] }
+lifecycle_stages: { primary: tax-life-field-building-funding, secondary: [tax-life-predeployment-evaluation, tax-life-policy-regulation] }
+activities: { primary: tax-activity-education-field-building-funding, secondary: [tax-activity-evaluations-benchmarks, tax-activity-policy-advocacy] }
+models_evaluated: []
+access_models: [unknown]
+independence:
+  legal_independence: separate-legal-entity
+  developer_cash_funding_policy: unknown
+  developer_cash_funding_share: null
+  developer_in_kind_support: [unknown]
+  appointment_control: null
+  operational_control: null
+  publication_rights: unknown
+  conflict_policy_public: unknown
+  funding_disclosure_quality: minimal
+  notes: The about page identifies nonprofit status but does not provide a complete independence profile.
+  limitations: Funding mix and control rights require additional primary records.
+source_refs: &refs
+  description: [src-cais-about]
+  status: [src-cais-about]
+  entity_type: [src-cais-about]
+  risk_domains: [src-cais-about]
+  lifecycle_stages: [src-cais-about]
+  activities: [src-cais-about]
+  independence: [src-cais-about]
+first_seen: 2026-09-15
+last_verified: 2026-09-15
+next_review_due: 2027-03-15
+confidence: medium
+reviewer_notes: Research-output counts on the source page were not imported because their counting method was not audited.
+contradictions: []
+

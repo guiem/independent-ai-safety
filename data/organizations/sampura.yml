@@ -1,0 +1,53 @@
+id: org-sampura
+name: Sampura Research
+legal_name: null
+aliases: [Sampura]
+website: https://sampura.org/
+canonical_domains: [sampura.org]
+description: Fiscally sponsored research organization focused on scalable oversight and human-AI complementarity.
+founded_date: 2026-08-25
+status: active
+scope: core
+primary_display_type: organization
+geography: { country: UK, city: London, geographic_scope: [global] }
+entity_type: fiscally-sponsored-project
+legal_form: Fiscally sponsored project
+tax_identifiers: []
+parent_or_sponsor_id: org-rethink-priorities
+leadership:
+  - { name: Rishub Jain, role: Co-founder }
+  - { name: Josh Jacob, role: Co-founder }
+mission: Develop technical methods that let people reliably oversee and work with increasingly capable AI systems.
+claimed_theory_of_change: Better judges, training methods, evaluations, and monitoring can preserve meaningful human oversight.
+risk_domains: { primary: tax-risk-human-factors-oversight, secondary: [tax-risk-loss-of-control, tax-risk-deception-hidden-objectives] }
+lifecycle_stages: { primary: tax-life-training-alignment, secondary: [tax-life-predeployment-evaluation, tax-life-deployment-monitoring] }
+activities: { primary: tax-activity-scalable-oversight, secondary: [tax-activity-evaluations-benchmarks, tax-activity-alignment-control] }
+models_evaluated: []
+access_models: [unknown]
+independence:
+  legal_independence: fiscally-sponsored-project
+  developer_cash_funding_policy: unknown
+  developer_cash_funding_share: null
+  developer_in_kind_support: [unknown]
+  appointment_control: null
+  operational_control: null
+  publication_rights: unknown
+  conflict_policy_public: unknown
+  funding_disclosure_quality: partial
+  notes: Publicly names its fiscal sponsor and initial philanthropic grant.
+  limitations: Sponsor agreement, governance rights, and complete funding mix were not reviewed.
+source_refs: &refs
+  description: [src-sampura-launch]
+  status: [src-sampura-launch]
+  entity_type: [src-sampura-launch]
+  risk_domains: [src-sampura-launch]
+  lifecycle_stages: [src-sampura-launch]
+  activities: [src-sampura-launch]
+  independence: [src-sampura-launch]
+first_seen: 2026-09-15
+last_verified: 2026-09-15
+next_review_due: 2027-03-15
+confidence: high
+reviewer_notes: Funding tranches are represented as separate relationship records.
+contradictions: []
+

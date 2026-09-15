@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="An evidence-backed map of independent AI safety organizations and their disclosed relationships." />
+    <title>Independent AI Safety Network</title>
+  </head>
+  <body>
+    <header class="masthead">
+      <div>
+        <p class="eyebrow">Evidence map · public beta</p>
+        <h1>Independent AI Safety Network</h1>
+        <p class="lede">Who works on which risks—and what do public records establish about funding, access, and control?</p>
+      </div>
+      <nav aria-label="Project links">
+        <a href="./data/dataset.json">Data</a>
+        <a href="https://github.com/guiem/independent-ai-safety/blob/main/docs/methodology.md">Methodology</a>
+      </nav>
+    </header>
+
+    <section class="notice" aria-label="Data limitation">
+      <strong>Documented evidence, not an independence score.</strong>
+      Unknown means the reviewed public sources did not establish the fact; it never means zero or no relationship.
+    </section>
+
+    <main>
+      <aside class="controls" aria-label="Graph controls">
+        <div class="control-heading">
+          <h2>Explore</h2>
+          <button id="reset" class="text-button" type="button">Reset</button>
+        </div>
+        <label>Search <input id="search" type="search" placeholder="Name, risk, activity…" autocomplete="off" /></label>
+        <label>Show
+          <select id="scope">
+            <option value="all">Core + context</option>
+            <option value="core">Core organizations</option>
+            <option value="context">Context nodes</option>
+            <option value="taxonomy">Taxonomy nodes</option>
+          </select>
+        </label>
+        <label>Relationship
+          <select id="relationship">
+            <option value="all">All relationships</option>
+            <option value="FUNDED_BY">Funding</option>
+            <option value="FISCALLY_SPONSORED_BY">Fiscal sponsorship</option>
+            <option value="EVALUATED">Evaluation</option>
+            <option value="COLLABORATED_WITH">Collaboration</option>
+            <option value="WORKS_ON">Risk focus</option>
+            <option value="INTERVENES_AT">Lifecycle stage</option>
+          </select>
+        </label>
+        <label>Color
+          <select id="colorBy">
+            <option value="type">Entity type</option>
+            <option value="independence">Legal independence</option>
+          </select>
+        </label>
+        <label>Size
+          <select id="sizeBy">
+            <option value="equal">Equal</option>
+            <option value="funding">Disclosed cash support</option>
+            <option value="connections">Documented connections</option>
+          </select>
+        </label>
+        <div id="legend" class="legend" aria-label="Graph legend"></div>
+        <p class="aside-note">Dashed outlines mark unknown legal independence. Edge arrows follow the recorded relationship direction.</p>
+        <details class="downloads">
+          <summary>Download data</summary>
+          <a href="./data/dataset.json" download>JSON bundle</a>
+          <a href="./data/organizations.csv" download>Organizations CSV</a>
+          <a href="./data/relationships.csv" download>Relationships CSV</a>
+          <a href="./data/graph.graphml" download>GraphML</a>
+        </details>
+      </aside>
+
+      <section class="graph-shell" aria-label="Interactive relationship graph">
+        <div id="loading" class="loading">Loading reviewed records…</div>
+        <div id="cy" role="img" aria-label="Interactive graph of AI safety organizations, context entities, risks, and lifecycle stages"></div>
+        <div class="graph-footer"><span id="count" aria-live="polite"></span><span>Drag to pan · scroll to zoom · select for evidence</span></div>
+      </section>
+
+      <aside id="details" class="details" aria-live="polite">
+        <p class="eyebrow">Evidence panel</p>
+        <h2>Select a node or relationship</h2>
+        <p>Review classifications, independence dimensions, uncertainty, and supporting sources here.</p>
+      </aside>
+    </main>
+
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>

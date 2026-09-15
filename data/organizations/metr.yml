@@ -1,0 +1,53 @@
+id: org-metr
+name: METR
+legal_name: Model Evaluation and Threat Research
+aliases: [Model Evaluation and Threat Research]
+website: https://metr.org/
+canonical_domains: [metr.org]
+description: Independent research nonprofit that evaluates whether frontier AI systems pose catastrophic risks.
+founded_date: null
+status: active
+scope: core
+primary_display_type: organization
+geography: { country: US, city: Berkeley, geographic_scope: [global] }
+entity_type: nonprofit
+legal_form: Research nonprofit
+tax_identifiers: []
+parent_or_sponsor_id: null
+leadership:
+  - { name: Beth Barnes, role: CEO }
+  - { name: Chris Painter, role: President }
+mission: Develop scientific methods for evaluating risks from frontier AI systems.
+claimed_theory_of_change: Independent measurements can inform deployment decisions, safeguards, and governance.
+risk_domains: { primary: tax-risk-loss-of-control, secondary: [tax-risk-autonomous-replication-rd, tax-risk-deception-hidden-objectives] }
+lifecycle_stages: { primary: tax-life-predeployment-evaluation, secondary: [tax-life-deployment-monitoring] }
+activities: { primary: tax-activity-evaluations-benchmarks, secondary: [tax-activity-forecasting-measurement] }
+models_evaluated: []
+access_models: [pre-release, public-api]
+independence:
+  legal_independence: separate-legal-entity
+  developer_cash_funding_policy: does-not-accept
+  developer_cash_funding_share: 0
+  developer_in_kind_support: [model-access, api-credits]
+  appointment_control: null
+  operational_control: null
+  publication_rights: unknown
+  conflict_policy_public: yes
+  funding_disclosure_quality: partial
+  notes: METR reports no AI-company cash funding and discloses free tokens and access from developers.
+  limitations: Governance documents and a complete donor ledger were not reviewed in this slice.
+source_refs: &refs
+  description: [src-metr-about]
+  status: [src-metr-about]
+  entity_type: [src-metr-about]
+  risk_domains: [src-metr-about]
+  lifecycle_stages: [src-metr-about]
+  activities: [src-metr-about]
+  independence: [src-metr-about]
+first_seen: 2026-09-15
+last_verified: 2026-09-15
+next_review_due: 2027-03-15
+confidence: high
+reviewer_notes: Classification is based on current public descriptions, not an audit.
+contradictions: []
+

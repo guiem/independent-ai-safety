@@ -1,0 +1,50 @@
+id: org-miri
+name: Machine Intelligence Research Institute
+legal_name: Machine Intelligence Research Institute
+aliases: [MIRI, Singularity Institute]
+website: https://intelligence.org/
+canonical_domains: [intelligence.org]
+description: Long-running nonprofit focused on preventing catastrophic outcomes from superintelligent AI.
+founded_date: '2000'
+status: active
+scope: core
+primary_display_type: organization
+geography: { country: US, city: Berkeley, geographic_scope: [global] }
+entity_type: nonprofit
+legal_form: 501(c)(3)
+tax_identifiers: []
+parent_or_sponsor_id: null
+leadership: []
+mission: Ensure that the creation of smarter-than-human intelligence has a positive impact.
+claimed_theory_of_change: Research and advocacy can reduce extinction risk from uncontrolled advanced AI.
+risk_domains: { primary: tax-risk-loss-of-control, secondary: [tax-risk-deception-hidden-objectives] }
+lifecycle_stages: { primary: tax-life-policy-regulation, secondary: [tax-life-training-alignment] }
+activities: { primary: tax-activity-policy-advocacy, secondary: [tax-activity-alignment-control] }
+models_evaluated: []
+access_models: [unknown]
+independence:
+  legal_independence: separate-legal-entity
+  developer_cash_funding_policy: unknown
+  developer_cash_funding_share: null
+  developer_in_kind_support: [unknown]
+  appointment_control: null
+  operational_control: null
+  publication_rights: unknown
+  conflict_policy_public: unknown
+  funding_disclosure_quality: minimal
+  notes: Legal status is public; other independence dimensions remain unverified.
+  limitations: Current funder mix and governance control were not reviewed.
+source_refs:
+  description: [src-miri-about]
+  status: [src-miri-about]
+  entity_type: [src-miri-about]
+  risk_domains: [src-miri-about]
+  lifecycle_stages: [src-miri-about]
+  activities: [src-miri-about]
+  independence: [src-miri-about]
+first_seen: 2026-09-15
+last_verified: 2026-09-15
+next_review_due: 2027-03-15
+confidence: medium
+reviewer_notes: Current advocacy priority is reflected in the primary lifecycle classification.
+contradictions: []

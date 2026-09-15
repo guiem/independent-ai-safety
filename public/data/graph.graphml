@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+  <key id="label" for="node" attr.name="label" attr.type="string"/>
+  <key id="type" for="node" attr.name="type" attr.type="string"/>
+  <key id="scope" for="node" attr.name="scope" attr.type="string"/>
+  <key id="relationship" for="edge" attr.name="relationship" attr.type="string"/>
+  <key id="confidence" for="edge" attr.name="confidence" attr.type="string"/>
+  <graph id="independent-ai-safety" edgedefault="directed">
+    <node id="org-ai-now"><data key="label">AI Now Institute</data><data key="type">organization</data><data key="scope">core</data></node>
+    <node id="org-anthropic"><data key="label">Anthropic</data><data key="type">frontier-developer</data><data key="scope">context</data></node>
+    <node id="org-apollo"><data key="label">Apollo Research</data><data key="type">organization</data><data key="scope">core</data></node>
+    <node id="org-cais"><data key="label">Center for AI Safety</data><data key="type">organization</data><data key="scope">core</data></node>
+    <node id="org-coefficient-giving"><data key="label">Coefficient Giving</data><data key="type">funder</data><data key="scope">context</data></node>
+    <node id="org-google-deepmind"><data key="label">Google DeepMind</data><data key="type">frontier-developer</data><data key="scope">context</data></node>
+    <node id="org-govai"><data key="label">Centre for the Governance of AI</data><data key="type">organization</data><data key="scope">core</data></node>
+    <node id="org-lawzero"><data key="label">LawZero</data><data key="type">organization</data><data key="scope">core</data></node>
+    <node id="org-metr"><data key="label">METR</data><data key="type">organization</data><data key="scope">core</data></node>
+    <node id="org-miri"><data key="label">Machine Intelligence Research Institute</data><data key="type">organization</data><data key="scope">core</data></node>
+    <node id="org-openai"><data key="label">OpenAI</data><data key="type">frontier-developer</data><data key="scope">context</data></node>
+    <node id="org-redwood"><data key="label">Redwood Research</data><data key="type">organization</data><data key="scope">core</data></node>
+    <node id="org-rethink-priorities"><data key="label">Rethink Priorities</data><data key="type">fiscal-sponsor-incubator</data><data key="scope">context</data></node>
+    <node id="org-saferai"><data key="label">SaferAI</data><data key="type">organization</data><data key="scope">core</data></node>
+    <node id="org-sampura"><data key="label">Sampura Research</data><data key="type">organization</data><data key="scope">core</data></node>
+    <node id="tax-risk-loss-of-control"><data key="label">Loss of control / catastrophic misalignment</data><data key="type">risk_domains</data><data key="scope">taxonomy</data></node>
+    <node id="tax-risk-deception-hidden-objectives"><data key="label">Deception, scheming, and hidden objectives</data><data key="type">risk_domains</data><data key="scope">taxonomy</data></node>
+    <node id="tax-risk-human-factors-oversight"><data key="label">Human factors, oversight, and automation bias</data><data key="type">risk_domains</data><data key="scope">taxonomy</data></node>
+    <node id="tax-risk-labor-power-society"><data key="label">Labor, concentration of power, and societal impacts</data><data key="type">risk_domains</data><data key="scope">taxonomy</data></node>
+    <node id="tax-life-architecture-safe-design"><data key="label">Architecture / safe-by-design</data><data key="type">lifecycle_stages</data><data key="scope">taxonomy</data></node>
+    <node id="tax-life-training-alignment"><data key="label">Training objectives and alignment</data><data key="type">lifecycle_stages</data><data key="scope">taxonomy</data></node>
+    <node id="tax-life-predeployment-evaluation"><data key="label">Pre-deployment evaluation</data><data key="type">lifecycle_stages</data><data key="scope">taxonomy</data></node>
+    <node id="tax-life-organizational-governance"><data key="label">Organizational governance and safety cases</data><data key="type">lifecycle_stages</data><data key="scope">taxonomy</data></node>
+    <node id="tax-life-policy-regulation"><data key="label">Policy and regulation</data><data key="type">lifecycle_stages</data><data key="scope">taxonomy</data></node>
+    <node id="tax-life-field-building-funding"><data key="label">Field building, training, or grantmaking</data><data key="type">lifecycle_stages</data><data key="scope">taxonomy</data></node>
+    <edge id="rel-ainow-life" source="org-ai-now" target="tax-life-policy-regulation"><data key="relationship">INTERVENES_AT</data><data key="confidence">high</data></edge>
+    <edge id="rel-ainow-risk" source="org-ai-now" target="tax-risk-labor-power-society"><data key="relationship">WORKS_ON</data><data key="confidence">high</data></edge>
+    <edge id="rel-apollo-life" source="org-apollo" target="tax-life-predeployment-evaluation"><data key="relationship">INTERVENES_AT</data><data key="confidence">high</data></edge>
+    <edge id="rel-apollo-risk" source="org-apollo" target="tax-risk-deception-hidden-objectives"><data key="relationship">WORKS_ON</data><data key="confidence">high</data></edge>
+    <edge id="rel-cais-life" source="org-cais" target="tax-life-field-building-funding"><data key="relationship">INTERVENES_AT</data><data key="confidence">high</data></edge>
+    <edge id="rel-cais-risk" source="org-cais" target="tax-risk-loss-of-control"><data key="relationship">WORKS_ON</data><data key="confidence">high</data></edge>
+    <edge id="rel-govai-life" source="org-govai" target="tax-life-policy-regulation"><data key="relationship">INTERVENES_AT</data><data key="confidence">high</data></edge>
+    <edge id="rel-govai-risk" source="org-govai" target="tax-risk-loss-of-control"><data key="relationship">WORKS_ON</data><data key="confidence">medium</data></edge>
+    <edge id="rel-lawzero-life" source="org-lawzero" target="tax-life-architecture-safe-design"><data key="relationship">INTERVENES_AT</data><data key="confidence">high</data></edge>
+    <edge id="rel-lawzero-risk" source="org-lawzero" target="tax-risk-loss-of-control"><data key="relationship">WORKS_ON</data><data key="confidence">high</data></edge>
+    <edge id="rel-metr-evaluated-anthropic" source="org-metr" target="org-anthropic"><data key="relationship">EVALUATED</data><data key="confidence">medium</data></edge>
+    <edge id="rel-metr-evaluated-deepmind" source="org-metr" target="org-google-deepmind"><data key="relationship">EVALUATED</data><data key="confidence">medium</data></edge>
+    <edge id="rel-metr-evaluated-openai" source="org-metr" target="org-openai"><data key="relationship">EVALUATED</data><data key="confidence">medium</data></edge>
+    <edge id="rel-metr-life" source="org-metr" target="tax-life-predeployment-evaluation"><data key="relationship">INTERVENES_AT</data><data key="confidence">high</data></edge>
+    <edge id="rel-metr-risk" source="org-metr" target="tax-risk-loss-of-control"><data key="relationship">WORKS_ON</data><data key="confidence">high</data></edge>
+    <edge id="rel-miri-life" source="org-miri" target="tax-life-policy-regulation"><data key="relationship">INTERVENES_AT</data><data key="confidence">medium</data></edge>
+    <edge id="rel-miri-risk" source="org-miri" target="tax-risk-loss-of-control"><data key="relationship">WORKS_ON</data><data key="confidence">medium</data></edge>
+    <edge id="rel-redwood-collaborated-anthropic" source="org-redwood" target="org-anthropic"><data key="relationship">COLLABORATED_WITH</data><data key="confidence">high</data></edge>
+    <edge id="rel-redwood-life" source="org-redwood" target="tax-life-training-alignment"><data key="relationship">INTERVENES_AT</data><data key="confidence">high</data></edge>
+    <edge id="rel-redwood-risk" source="org-redwood" target="tax-risk-deception-hidden-objectives"><data key="relationship">WORKS_ON</data><data key="confidence">high</data></edge>
+    <edge id="rel-saferai-life" source="org-saferai" target="tax-life-organizational-governance"><data key="relationship">INTERVENES_AT</data><data key="confidence">high</data></edge>
+    <edge id="rel-saferai-risk" source="org-saferai" target="tax-risk-loss-of-control"><data key="relationship">WORKS_ON</data><data key="confidence">medium</data></edge>
+    <edge id="rel-sampura-funded-coefficient-pledge" source="org-sampura" target="org-coefficient-giving"><data key="relationship">FUNDED_BY</data><data key="confidence">high</data></edge>
+    <edge id="rel-sampura-funded-coefficient-year-one" source="org-sampura" target="org-coefficient-giving"><data key="relationship">FUNDED_BY</data><data key="confidence">high</data></edge>
+    <edge id="rel-sampura-life" source="org-sampura" target="tax-life-training-alignment"><data key="relationship">INTERVENES_AT</data><data key="confidence">high</data></edge>
+    <edge id="rel-sampura-risk" source="org-sampura" target="tax-risk-human-factors-oversight"><data key="relationship">WORKS_ON</data><data key="confidence">high</data></edge>
+    <edge id="rel-sampura-sponsored-rethink" source="org-sampura" target="org-rethink-priorities"><data key="relationship">FISCALLY_SPONSORED_BY</data><data key="confidence">high</data></edge>
+  </graph>
+</graphml>

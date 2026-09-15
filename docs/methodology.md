@@ -25,13 +25,13 @@ IDs are lowercase ASCII slugs with a type prefix: `org-`, `src-`, `rel-`, `obs-`
 
 ## Aggregation
 
-- Funding totals include only disclosed cash transactions with a settled non-duplicate state; commitments and receipts can be shown separately and never summed together as if independent.
+- Funding exports preserve transaction status (`pledged`, `committed`, `awarded`, or `received`). The graph may size nodes by total disclosed cash support, while the evidence panel and JSON retain the status breakdown; the total must not be read as cash received.
 - Headcount uses the most recent eligible observation and displays its as-of date/method.
 - Unknown observations do not contribute zero.
 - Node sizing uses square-root scaling and a neutral default for unknown values.
 - Derived similarity uses shared taxonomy tags and is never stored as a factual institutional relationship.
+- Export timestamps are derived from the latest `last_verified` date rather than wall-clock build time, so identical YAML produces byte-identical output.
 
 ## Limitations
 
 Public disclosure is uneven and can make transparent organizations appear more connected or dependent. English-language and online sources create geographic bias. Funding flows may be delayed, aggregated, anonymous, or routed through sponsors. Evaluation contracts can be confidential. The graph therefore represents documented evidence, not the totality of real institutional influence.
-

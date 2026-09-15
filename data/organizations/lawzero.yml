@@ -1,0 +1,52 @@
+id: org-lawzero
+name: LawZero
+legal_name: null
+aliases: []
+website: https://lawzero.org/en
+canonical_domains: [lawzero.org]
+description: Nonprofit research organization developing safe-by-design AI through the Scientist AI approach.
+founded_date: 2025-06-03
+status: active
+scope: core
+primary_display_type: organization
+geography: { country: Canada, city: Montreal, geographic_scope: [global] }
+entity_type: nonprofit
+legal_form: Nonprofit
+tax_identifiers: []
+parent_or_sponsor_id: null
+leadership:
+  - { name: Yoshua Bengio, role: Founder and Scientific Director }
+mission: Advance safe-by-design AI systems that support human understanding without pursuing autonomous goals.
+claimed_theory_of_change: A non-agentic Scientist AI architecture could provide a safer path to highly capable systems.
+risk_domains: { primary: tax-risk-loss-of-control, secondary: [tax-risk-deception-hidden-objectives] }
+lifecycle_stages: { primary: tax-life-architecture-safe-design, secondary: [tax-life-training-alignment] }
+activities: { primary: tax-activity-alignment-control, secondary: [tax-activity-formal-methods-safety-cases] }
+models_evaluated: []
+access_models: [unknown]
+independence:
+  legal_independence: separate-legal-entity
+  developer_cash_funding_policy: unknown
+  developer_cash_funding_share: null
+  developer_in_kind_support: [unknown]
+  appointment_control: null
+  operational_control: null
+  publication_rights: unknown
+  conflict_policy_public: unknown
+  funding_disclosure_quality: partial
+  notes: The launch announcement names initial donors and Mila incubation.
+  limitations: Developer funding policy, governance control, and publication rights were not located.
+source_refs: &refs
+  description: [src-lawzero-launch]
+  status: [src-lawzero-launch]
+  entity_type: [src-lawzero-launch]
+  risk_domains: [src-lawzero-launch]
+  lifecycle_stages: [src-lawzero-launch]
+  activities: [src-lawzero-launch]
+  independence: [src-lawzero-launch]
+first_seen: 2026-09-15
+last_verified: 2026-09-15
+next_review_due: 2027-03-15
+confidence: medium
+reviewer_notes: Legal independence is inferred from the explicit nonprofit description after incubation.
+contradictions: []
+

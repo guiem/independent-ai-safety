@@ -1,0 +1,2470 @@
+{
+  "data_as_of": "2026-09-15",
+  "observations": [],
+  "organizations": [
+    {
+      "access_models": [
+        "other"
+      ],
+      "activities": {
+        "primary": "tax-activity-policy-advocacy",
+        "secondary": [
+          "tax-activity-forecasting-measurement"
+        ]
+      },
+      "aliases": [
+        "AI Now"
+      ],
+      "canonical_domains": [
+        "ainowinstitute.org"
+      ],
+      "claimed_theory_of_change": "Independent research and policy interventions can hold concentrated AI power accountable.",
+      "confidence": "high",
+      "contradictions": [],
+      "description": "Independent research institute examining AI's social consequences, accountability, and concentrated power.",
+      "entity_type": "nonprofit",
+      "first_seen": "2026-09-15",
+      "founded_date": "2017",
+      "geography": {
+        "city": "New York",
+        "country": "US",
+        "geographic_scope": [
+          "US",
+          "global"
+        ]
+      },
+      "id": "org-ai-now",
+      "independence": {
+        "appointment_control": null,
+        "conflict_policy_public": "unknown",
+        "developer_cash_funding_policy": "does-not-accept",
+        "developer_cash_funding_share": 0,
+        "developer_in_kind_support": [
+          "none-disclosed"
+        ],
+        "funding_disclosure_quality": "partial",
+        "legal_independence": "separate-legal-entity",
+        "limitations": "The public statement was not cross-checked against complete audited accounts in this slice.",
+        "notes": "AI Now says it has accepted no corporate or technology-industry funding since becoming independent in mid-2022.",
+        "operational_control": "AI Now states that funders do not dictate its research topics or conclusions.",
+        "publication_rights": "independent"
+      },
+      "last_verified": "2026-09-15",
+      "leadership": [
+        {
+          "name": "Amba Kak",
+          "role": "Co-Executive Director"
+        },
+        {
+          "name": "Sarah Myers West",
+          "role": "Co-Executive Director"
+        }
+      ],
+      "legal_form": "501(c)(3)",
+      "legal_name": "AI Now Institute",
+      "lifecycle_stages": {
+        "primary": "tax-life-policy-regulation",
+        "secondary": [
+          "tax-life-organizational-governance"
+        ]
+      },
+      "mission": "Produce diagnosis and policy research on the social consequences of artificial intelligence.",
+      "models_evaluated": [],
+      "name": "AI Now Institute",
+      "next_review_due": "2027-03-15",
+      "parent_or_sponsor_id": null,
+      "primary_display_type": "organization",
+      "reviewer_notes": "Independence attributes reflect the institute's explicit public policy.",
+      "risk_domains": {
+        "primary": "tax-risk-labor-power-society",
+        "secondary": [
+          "tax-risk-bias-discrimination",
+          "tax-risk-privacy-data"
+        ]
+      },
+      "scope": "core",
+      "source_refs": {
+        "activities": [
+          "src-ainow-about"
+        ],
+        "description": [
+          "src-ainow-about"
+        ],
+        "entity_type": [
+          "src-ainow-about"
+        ],
+        "independence": [
+          "src-ainow-about"
+        ],
+        "lifecycle_stages": [
+          "src-ainow-about"
+        ],
+        "risk_domains": [
+          "src-ainow-about"
+        ],
+        "status": [
+          "src-ainow-about"
+        ]
+      },
+      "status": "active",
+      "tax_identifiers": [],
+      "website": "https://ainowinstitute.org/"
+    },
+    {
+      "access_models": [
+        "unknown"
+      ],
+      "activities": {
+        "primary": null,
+        "secondary": []
+      },
+      "aliases": [],
+      "canonical_domains": [
+        "anthropic.com"
+      ],
+      "claimed_theory_of_change": "Safety research and responsible deployment can improve the trajectory of advanced AI.",
+      "confidence": "high",
+      "contradictions": [],
+      "description": "Frontier AI developer included as context for evaluation, access, and collaboration relationships.",
+      "entity_type": "commercial-company",
+      "first_seen": "2026-09-15",
+      "founded_date": null,
+      "geography": {
+        "city": "San Francisco",
+        "country": "US",
+        "geographic_scope": [
+          "global"
+        ]
+      },
+      "id": "org-anthropic",
+      "independence": {
+        "appointment_control": null,
+        "conflict_policy_public": "unknown",
+        "developer_cash_funding_policy": "unknown",
+        "developer_cash_funding_share": null,
+        "developer_in_kind_support": [
+          "unknown"
+        ],
+        "funding_disclosure_quality": "unknown",
+        "legal_independence": "commercial-company",
+        "limitations": "No corporate-control audit was performed.",
+        "notes": "Context frontier developer; independence criteria are not applicable in the same way as for evaluators.",
+        "operational_control": null,
+        "publication_rights": "unknown"
+      },
+      "last_verified": "2026-09-15",
+      "leadership": [],
+      "legal_form": "Public benefit corporation",
+      "legal_name": "Anthropic PBC",
+      "lifecycle_stages": {
+        "primary": null,
+        "secondary": []
+      },
+      "mission": "Build reliable, interpretable, and steerable AI systems.",
+      "models_evaluated": [],
+      "name": "Anthropic",
+      "next_review_due": "2027-03-15",
+      "parent_or_sponsor_id": null,
+      "primary_display_type": "frontier-developer",
+      "reviewer_notes": "Context only.",
+      "risk_domains": {
+        "primary": null,
+        "secondary": []
+      },
+      "scope": "context",
+      "source_refs": {
+        "activities": [
+          "src-anthropic-company"
+        ],
+        "description": [
+          "src-anthropic-company"
+        ],
+        "entity_type": [
+          "src-anthropic-company"
+        ],
+        "independence": [
+          "src-anthropic-company"
+        ],
+        "lifecycle_stages": [
+          "src-anthropic-company"
+        ],
+        "risk_domains": [
+          "src-anthropic-company"
+        ],
+        "status": [
+          "src-anthropic-company"
+        ]
+      },
+      "status": "active",
+      "tax_identifiers": [],
+      "website": "https://www.anthropic.com/"
+    },
+    {
+      "access_models": [
+        "pre-release",
+        "public-api"
+      ],
+      "activities": {
+        "primary": "tax-activity-evaluations-benchmarks",
+        "secondary": [
+          "tax-activity-alignment-control"
+        ]
+      },
+      "aliases": [],
+      "canonical_domains": [
+        "apolloresearch.ai"
+      ],
+      "claimed_theory_of_change": "Scheming science and independent evaluations can identify and reduce deceptive behavior before deployment.",
+      "confidence": "high",
+      "contradictions": [],
+      "description": "AI safety company researching scheming and providing evaluations of frontier AI systems.",
+      "entity_type": "commercial-company",
+      "first_seen": "2026-09-15",
+      "founded_date": null,
+      "geography": {
+        "city": null,
+        "country": null,
+        "geographic_scope": [
+          "UK",
+          "US",
+          "global"
+        ]
+      },
+      "id": "org-apollo",
+      "independence": {
+        "appointment_control": null,
+        "conflict_policy_public": "yes",
+        "developer_cash_funding_policy": "undisclosed",
+        "developer_cash_funding_share": null,
+        "developer_in_kind_support": [
+          "model-access"
+        ],
+        "funding_disclosure_quality": "minimal",
+        "legal_independence": "commercial-company",
+        "limitations": "Client concentration, revenue mix, and contract-level publication rights are not disclosed here.",
+        "notes": "Public operating norms discuss conflicts, scientific communication, and security.",
+        "operational_control": null,
+        "publication_rights": "unknown"
+      },
+      "last_verified": "2026-09-15",
+      "leadership": [],
+      "legal_form": "Public benefit corporation",
+      "legal_name": "Apollo Research, Inc.",
+      "lifecycle_stages": {
+        "primary": "tax-life-predeployment-evaluation",
+        "secondary": [
+          "tax-life-training-alignment",
+          "tax-life-deployment-monitoring"
+        ]
+      },
+      "mission": "Secure frontier AI systems across development, deployment, and governance.",
+      "models_evaluated": [],
+      "name": "Apollo Research",
+      "next_review_due": "2027-03-15",
+      "parent_or_sponsor_id": null,
+      "primary_display_type": "organization",
+      "reviewer_notes": "Independence is decomposed; PBC status is not treated as proof of client independence.",
+      "risk_domains": {
+        "primary": "tax-risk-deception-hidden-objectives",
+        "secondary": [
+          "tax-risk-loss-of-control"
+        ]
+      },
+      "scope": "core",
+      "source_refs": {
+        "activities": [
+          "src-apollo-science"
+        ],
+        "description": [
+          "src-apollo-about",
+          "src-apollo-science"
+        ],
+        "entity_type": [
+          "src-apollo-about"
+        ],
+        "independence": [
+          "src-apollo-about"
+        ],
+        "lifecycle_stages": [
+          "src-apollo-science"
+        ],
+        "risk_domains": [
+          "src-apollo-science"
+        ],
+        "status": [
+          "src-apollo-about"
+        ]
+      },
+      "status": "active",
+      "tax_identifiers": [],
+      "website": "https://www.apolloresearch.ai/"
+    },
+    {
+      "access_models": [
+        "unknown"
+      ],
+      "activities": {
+        "primary": "tax-activity-education-field-building-funding",
+        "secondary": [
+          "tax-activity-evaluations-benchmarks",
+          "tax-activity-policy-advocacy"
+        ]
+      },
+      "aliases": [
+        "CAIS"
+      ],
+      "canonical_domains": [
+        "safe.ai"
+      ],
+      "claimed_theory_of_change": "Technical research, a larger safety field, and policy engagement can reduce catastrophic and systemic AI risks.",
+      "confidence": "medium",
+      "contradictions": [],
+      "description": "Nonprofit pursuing research, field building, and advocacy on societal-scale risks from AI.",
+      "entity_type": "nonprofit",
+      "first_seen": "2026-09-15",
+      "founded_date": null,
+      "geography": {
+        "city": null,
+        "country": "US",
+        "geographic_scope": [
+          "global"
+        ]
+      },
+      "id": "org-cais",
+      "independence": {
+        "appointment_control": null,
+        "conflict_policy_public": "unknown",
+        "developer_cash_funding_policy": "unknown",
+        "developer_cash_funding_share": null,
+        "developer_in_kind_support": [
+          "unknown"
+        ],
+        "funding_disclosure_quality": "minimal",
+        "legal_independence": "separate-legal-entity",
+        "limitations": "Funding mix and control rights require additional primary records.",
+        "notes": "The about page identifies nonprofit status but does not provide a complete independence profile.",
+        "operational_control": null,
+        "publication_rights": "unknown"
+      },
+      "last_verified": "2026-09-15",
+      "leadership": [
+        {
+          "name": "Dan Hendrycks",
+          "role": "Director"
+        },
+        {
+          "name": "Oliver Zhang",
+          "role": "Executive Director"
+        }
+      ],
+      "legal_form": "Nonprofit",
+      "legal_name": "Center for AI Safety",
+      "lifecycle_stages": {
+        "primary": "tax-life-field-building-funding",
+        "secondary": [
+          "tax-life-predeployment-evaluation",
+          "tax-life-policy-regulation"
+        ]
+      },
+      "mission": "Reduce societal-scale risks associated with artificial intelligence.",
+      "models_evaluated": [],
+      "name": "Center for AI Safety",
+      "next_review_due": "2027-03-15",
+      "parent_or_sponsor_id": null,
+      "primary_display_type": "organization",
+      "reviewer_notes": "Research-output counts on the source page were not imported because their counting method was not audited.",
+      "risk_domains": {
+        "primary": "tax-risk-loss-of-control",
+        "secondary": [
+          "tax-risk-deception-hidden-objectives",
+          "tax-risk-robustness-adversarial"
+        ]
+      },
+      "scope": "core",
+      "source_refs": {
+        "activities": [
+          "src-cais-about"
+        ],
+        "description": [
+          "src-cais-about"
+        ],
+        "entity_type": [
+          "src-cais-about"
+        ],
+        "independence": [
+          "src-cais-about"
+        ],
+        "lifecycle_stages": [
+          "src-cais-about"
+        ],
+        "risk_domains": [
+          "src-cais-about"
+        ],
+        "status": [
+          "src-cais-about"
+        ]
+      },
+      "status": "active",
+      "tax_identifiers": [],
+      "website": "https://safe.ai/"
+    },
+    {
+      "access_models": [
+        "unknown"
+      ],
+      "activities": {
+        "primary": "tax-activity-education-field-building-funding",
+        "secondary": []
+      },
+      "aliases": [],
+      "canonical_domains": [
+        "coefficientgiving.org"
+      ],
+      "claimed_theory_of_change": "Grantmaking and donor advice can address important and neglected problems.",
+      "confidence": "medium",
+      "contradictions": [],
+      "description": "Philanthropic funder and advisor included to make disclosed funding relationships legible.",
+      "entity_type": "foundation",
+      "first_seen": "2026-09-15",
+      "founded_date": "2014",
+      "geography": {
+        "city": null,
+        "country": "US",
+        "geographic_scope": [
+          "global"
+        ]
+      },
+      "id": "org-coefficient-giving",
+      "independence": {
+        "appointment_control": null,
+        "conflict_policy_public": "unknown",
+        "developer_cash_funding_policy": "unknown",
+        "developer_cash_funding_share": null,
+        "developer_in_kind_support": [
+          "unknown"
+        ],
+        "funding_disclosure_quality": "unknown",
+        "legal_independence": "unknown",
+        "limitations": "Context nodes receive only the fields necessary to interpret relationships.",
+        "notes": "Included as a context node; no independence assessment was performed.",
+        "operational_control": null,
+        "publication_rights": "unknown"
+      },
+      "last_verified": "2026-09-15",
+      "leadership": [],
+      "legal_form": null,
+      "legal_name": null,
+      "lifecycle_stages": {
+        "primary": "tax-life-field-building-funding",
+        "secondary": []
+      },
+      "mission": "Direct philanthropic resources toward high-impact opportunities.",
+      "models_evaluated": [],
+      "name": "Coefficient Giving",
+      "next_review_due": "2027-03-15",
+      "parent_or_sponsor_id": null,
+      "primary_display_type": "funder",
+      "reviewer_notes": "Context only.",
+      "risk_domains": {
+        "primary": null,
+        "secondary": []
+      },
+      "scope": "context",
+      "source_refs": {
+        "activities": [
+          "src-coefficient-about"
+        ],
+        "description": [
+          "src-coefficient-about"
+        ],
+        "entity_type": [
+          "src-coefficient-about"
+        ],
+        "independence": [
+          "src-coefficient-about"
+        ],
+        "lifecycle_stages": [
+          "src-coefficient-about"
+        ],
+        "risk_domains": [
+          "src-coefficient-about"
+        ],
+        "status": [
+          "src-coefficient-about"
+        ]
+      },
+      "status": "active",
+      "tax_identifiers": [],
+      "website": "https://coefficientgiving.org/"
+    },
+    {
+      "access_models": [
+        "unknown"
+      ],
+      "activities": {
+        "primary": null,
+        "secondary": []
+      },
+      "aliases": [
+        "DeepMind"
+      ],
+      "canonical_domains": [
+        "deepmind.google"
+      ],
+      "claimed_theory_of_change": "Frontier research and product development can advance science and useful AI capabilities.",
+      "confidence": "high",
+      "contradictions": [],
+      "description": "Frontier AI laboratory included as context for evaluation, access, and collaboration relationships.",
+      "entity_type": "commercial-company",
+      "first_seen": "2026-09-15",
+      "founded_date": null,
+      "geography": {
+        "city": "London",
+        "country": "UK",
+        "geographic_scope": [
+          "global"
+        ]
+      },
+      "id": "org-google-deepmind",
+      "independence": {
+        "appointment_control": null,
+        "conflict_policy_public": "unknown",
+        "developer_cash_funding_policy": "unknown",
+        "developer_cash_funding_share": null,
+        "developer_in_kind_support": [
+          "unknown"
+        ],
+        "funding_disclosure_quality": "unknown",
+        "legal_independence": "commercial-company",
+        "limitations": "No corporate-control audit was performed.",
+        "notes": "Context frontier developer; independence criteria are not applicable in the same way as for evaluators.",
+        "operational_control": null,
+        "publication_rights": "unknown"
+      },
+      "last_verified": "2026-09-15",
+      "leadership": [
+        {
+          "name": "Demis Hassabis",
+          "role": "CEO"
+        }
+      ],
+      "legal_form": "Google business unit",
+      "legal_name": null,
+      "lifecycle_stages": {
+        "primary": null,
+        "secondary": []
+      },
+      "mission": "Build AI responsibly to benefit humanity.",
+      "models_evaluated": [],
+      "name": "Google DeepMind",
+      "next_review_due": "2027-03-15",
+      "parent_or_sponsor_id": null,
+      "primary_display_type": "frontier-developer",
+      "reviewer_notes": "Context only.",
+      "risk_domains": {
+        "primary": null,
+        "secondary": []
+      },
+      "scope": "context",
+      "source_refs": {
+        "activities": [
+          "src-deepmind-about"
+        ],
+        "description": [
+          "src-deepmind-about"
+        ],
+        "entity_type": [
+          "src-deepmind-about"
+        ],
+        "independence": [
+          "src-deepmind-about"
+        ],
+        "lifecycle_stages": [
+          "src-deepmind-about"
+        ],
+        "risk_domains": [
+          "src-deepmind-about"
+        ],
+        "status": [
+          "src-deepmind-about"
+        ]
+      },
+      "status": "active",
+      "tax_identifiers": [],
+      "website": "https://deepmind.google/"
+    },
+    {
+      "access_models": [
+        "unknown"
+      ],
+      "activities": {
+        "primary": "tax-activity-policy-advocacy",
+        "secondary": [
+          "tax-activity-education-field-building-funding"
+        ]
+      },
+      "aliases": [
+        "GovAI"
+      ],
+      "canonical_domains": [
+        "governance.ai"
+      ],
+      "claimed_theory_of_change": "Rigorous governance research and talent development can improve institutional decisions about advanced AI.",
+      "confidence": "medium",
+      "contradictions": [],
+      "description": "Independent think tank conducting AI governance research and building the governance field.",
+      "entity_type": "nonprofit",
+      "first_seen": "2026-09-15",
+      "founded_date": "2016",
+      "geography": {
+        "city": null,
+        "country": null,
+        "geographic_scope": [
+          "UK",
+          "US",
+          "global"
+        ]
+      },
+      "id": "org-govai",
+      "independence": {
+        "appointment_control": null,
+        "conflict_policy_public": "unknown",
+        "developer_cash_funding_policy": "unknown",
+        "developer_cash_funding_share": null,
+        "developer_in_kind_support": [
+          "unknown"
+        ],
+        "funding_disclosure_quality": "minimal",
+        "legal_independence": "separate-legal-entity",
+        "limitations": "Current donor mix, board appointment rights, and publication controls were not reviewed.",
+        "notes": "GovAI reports operating independently since leaving Oxford in 2021.",
+        "operational_control": null,
+        "publication_rights": "unknown"
+      },
+      "last_verified": "2026-09-15",
+      "leadership": [
+        {
+          "name": "Ben Garfinkel",
+          "role": "Director"
+        }
+      ],
+      "legal_form": "501(c)(3)",
+      "legal_name": "Centre for the Governance of AI",
+      "lifecycle_stages": {
+        "primary": "tax-life-policy-regulation",
+        "secondary": [
+          "tax-life-field-building-funding",
+          "tax-life-organizational-governance"
+        ]
+      },
+      "mission": "Build a global research community dedicated to helping humanity navigate the transition to advanced AI.",
+      "models_evaluated": [],
+      "name": "Centre for the Governance of AI",
+      "next_review_due": "2027-03-15",
+      "parent_or_sponsor_id": null,
+      "primary_display_type": "organization",
+      "reviewer_notes": "Historic academic affiliation is not treated as current control.",
+      "risk_domains": {
+        "primary": "tax-risk-loss-of-control",
+        "secondary": [
+          "tax-risk-cyber-security",
+          "tax-risk-labor-power-society"
+        ]
+      },
+      "scope": "core",
+      "source_refs": {
+        "activities": [
+          "src-govai-about"
+        ],
+        "description": [
+          "src-govai-about"
+        ],
+        "entity_type": [
+          "src-govai-about"
+        ],
+        "independence": [
+          "src-govai-about"
+        ],
+        "lifecycle_stages": [
+          "src-govai-about"
+        ],
+        "risk_domains": [
+          "src-govai-about"
+        ],
+        "status": [
+          "src-govai-about"
+        ]
+      },
+      "status": "active",
+      "tax_identifiers": [
+        {
+          "identifier": "99-4000294",
+          "jurisdiction": "US"
+        }
+      ],
+      "website": "https://www.governance.ai/"
+    },
+    {
+      "access_models": [
+        "unknown"
+      ],
+      "activities": {
+        "primary": "tax-activity-alignment-control",
+        "secondary": [
+          "tax-activity-formal-methods-safety-cases"
+        ]
+      },
+      "aliases": [],
+      "canonical_domains": [
+        "lawzero.org"
+      ],
+      "claimed_theory_of_change": "A non-agentic Scientist AI architecture could provide a safer path to highly capable systems.",
+      "confidence": "medium",
+      "contradictions": [],
+      "description": "Nonprofit research organization developing safe-by-design AI through the Scientist AI approach.",
+      "entity_type": "nonprofit",
+      "first_seen": "2026-09-15",
+      "founded_date": "2025-06-03",
+      "geography": {
+        "city": "Montreal",
+        "country": "Canada",
+        "geographic_scope": [
+          "global"
+        ]
+      },
+      "id": "org-lawzero",
+      "independence": {
+        "appointment_control": null,
+        "conflict_policy_public": "unknown",
+        "developer_cash_funding_policy": "unknown",
+        "developer_cash_funding_share": null,
+        "developer_in_kind_support": [
+          "unknown"
+        ],
+        "funding_disclosure_quality": "partial",
+        "legal_independence": "separate-legal-entity",
+        "limitations": "Developer funding policy, governance control, and publication rights were not located.",
+        "notes": "The launch announcement names initial donors and Mila incubation.",
+        "operational_control": null,
+        "publication_rights": "unknown"
+      },
+      "last_verified": "2026-09-15",
+      "leadership": [
+        {
+          "name": "Yoshua Bengio",
+          "role": "Founder and Scientific Director"
+        }
+      ],
+      "legal_form": "Nonprofit",
+      "legal_name": null,
+      "lifecycle_stages": {
+        "primary": "tax-life-architecture-safe-design",
+        "secondary": [
+          "tax-life-training-alignment"
+        ]
+      },
+      "mission": "Advance safe-by-design AI systems that support human understanding without pursuing autonomous goals.",
+      "models_evaluated": [],
+      "name": "LawZero",
+      "next_review_due": "2027-03-15",
+      "parent_or_sponsor_id": null,
+      "primary_display_type": "organization",
+      "reviewer_notes": "Legal independence is inferred from the explicit nonprofit description after incubation.",
+      "risk_domains": {
+        "primary": "tax-risk-loss-of-control",
+        "secondary": [
+          "tax-risk-deception-hidden-objectives"
+        ]
+      },
+      "scope": "core",
+      "source_refs": {
+        "activities": [
+          "src-lawzero-launch"
+        ],
+        "description": [
+          "src-lawzero-launch"
+        ],
+        "entity_type": [
+          "src-lawzero-launch"
+        ],
+        "independence": [
+          "src-lawzero-launch"
+        ],
+        "lifecycle_stages": [
+          "src-lawzero-launch"
+        ],
+        "risk_domains": [
+          "src-lawzero-launch"
+        ],
+        "status": [
+          "src-lawzero-launch"
+        ]
+      },
+      "status": "active",
+      "tax_identifiers": [],
+      "website": "https://lawzero.org/en"
+    },
+    {
+      "access_models": [
+        "pre-release",
+        "public-api"
+      ],
+      "activities": {
+        "primary": "tax-activity-evaluations-benchmarks",
+        "secondary": [
+          "tax-activity-forecasting-measurement"
+        ]
+      },
+      "aliases": [
+        "Model Evaluation and Threat Research"
+      ],
+      "canonical_domains": [
+        "metr.org"
+      ],
+      "claimed_theory_of_change": "Independent measurements can inform deployment decisions, safeguards, and governance.",
+      "confidence": "high",
+      "contradictions": [],
+      "description": "Independent research nonprofit that evaluates whether frontier AI systems pose catastrophic risks.",
+      "entity_type": "nonprofit",
+      "first_seen": "2026-09-15",
+      "founded_date": null,
+      "geography": {
+        "city": "Berkeley",
+        "country": "US",
+        "geographic_scope": [
+          "global"
+        ]
+      },
+      "id": "org-metr",
+      "independence": {
+        "appointment_control": null,
+        "conflict_policy_public": "yes",
+        "developer_cash_funding_policy": "does-not-accept",
+        "developer_cash_funding_share": 0,
+        "developer_in_kind_support": [
+          "model-access",
+          "api-credits"
+        ],
+        "funding_disclosure_quality": "partial",
+        "legal_independence": "separate-legal-entity",
+        "limitations": "Governance documents and a complete donor ledger were not reviewed in this slice.",
+        "notes": "METR reports no AI-company cash funding and discloses free tokens and access from developers.",
+        "operational_control": null,
+        "publication_rights": "unknown"
+      },
+      "last_verified": "2026-09-15",
+      "leadership": [
+        {
+          "name": "Beth Barnes",
+          "role": "CEO"
+        },
+        {
+          "name": "Chris Painter",
+          "role": "President"
+        }
+      ],
+      "legal_form": "Research nonprofit",
+      "legal_name": "Model Evaluation and Threat Research",
+      "lifecycle_stages": {
+        "primary": "tax-life-predeployment-evaluation",
+        "secondary": [
+          "tax-life-deployment-monitoring"
+        ]
+      },
+      "mission": "Develop scientific methods for evaluating risks from frontier AI systems.",
+      "models_evaluated": [],
+      "name": "METR",
+      "next_review_due": "2027-03-15",
+      "parent_or_sponsor_id": null,
+      "primary_display_type": "organization",
+      "reviewer_notes": "Classification is based on current public descriptions, not an audit.",
+      "risk_domains": {
+        "primary": "tax-risk-loss-of-control",
+        "secondary": [
+          "tax-risk-autonomous-replication-rd",
+          "tax-risk-deception-hidden-objectives"
+        ]
+      },
+      "scope": "core",
+      "source_refs": {
+        "activities": [
+          "src-metr-about"
+        ],
+        "description": [
+          "src-metr-about"
+        ],
+        "entity_type": [
+          "src-metr-about"
+        ],
+        "independence": [
+          "src-metr-about"
+        ],
+        "lifecycle_stages": [
+          "src-metr-about"
+        ],
+        "risk_domains": [
+          "src-metr-about"
+        ],
+        "status": [
+          "src-metr-about"
+        ]
+      },
+      "status": "active",
+      "tax_identifiers": [],
+      "website": "https://metr.org/"
+    },
+    {
+      "access_models": [
+        "unknown"
+      ],
+      "activities": {
+        "primary": "tax-activity-policy-advocacy",
+        "secondary": [
+          "tax-activity-alignment-control"
+        ]
+      },
+      "aliases": [
+        "MIRI",
+        "Singularity Institute"
+      ],
+      "canonical_domains": [
+        "intelligence.org"
+      ],
+      "claimed_theory_of_change": "Research and advocacy can reduce extinction risk from uncontrolled advanced AI.",
+      "confidence": "medium",
+      "contradictions": [],
+      "description": "Long-running nonprofit focused on preventing catastrophic outcomes from superintelligent AI.",
+      "entity_type": "nonprofit",
+      "first_seen": "2026-09-15",
+      "founded_date": "2000",
+      "geography": {
+        "city": "Berkeley",
+        "country": "US",
+        "geographic_scope": [
+          "global"
+        ]
+      },
+      "id": "org-miri",
+      "independence": {
+        "appointment_control": null,
+        "conflict_policy_public": "unknown",
+        "developer_cash_funding_policy": "unknown",
+        "developer_cash_funding_share": null,
+        "developer_in_kind_support": [
+          "unknown"
+        ],
+        "funding_disclosure_quality": "minimal",
+        "legal_independence": "separate-legal-entity",
+        "limitations": "Current funder mix and governance control were not reviewed.",
+        "notes": "Legal status is public; other independence dimensions remain unverified.",
+        "operational_control": null,
+        "publication_rights": "unknown"
+      },
+      "last_verified": "2026-09-15",
+      "leadership": [],
+      "legal_form": "501(c)(3)",
+      "legal_name": "Machine Intelligence Research Institute",
+      "lifecycle_stages": {
+        "primary": "tax-life-policy-regulation",
+        "secondary": [
+          "tax-life-training-alignment"
+        ]
+      },
+      "mission": "Ensure that the creation of smarter-than-human intelligence has a positive impact.",
+      "models_evaluated": [],
+      "name": "Machine Intelligence Research Institute",
+      "next_review_due": "2027-03-15",
+      "parent_or_sponsor_id": null,
+      "primary_display_type": "organization",
+      "reviewer_notes": "Current advocacy priority is reflected in the primary lifecycle classification.",
+      "risk_domains": {
+        "primary": "tax-risk-loss-of-control",
+        "secondary": [
+          "tax-risk-deception-hidden-objectives"
+        ]
+      },
+      "scope": "core",
+      "source_refs": {
+        "activities": [
+          "src-miri-about"
+        ],
+        "description": [
+          "src-miri-about"
+        ],
+        "entity_type": [
+          "src-miri-about"
+        ],
+        "independence": [
+          "src-miri-about"
+        ],
+        "lifecycle_stages": [
+          "src-miri-about"
+        ],
+        "risk_domains": [
+          "src-miri-about"
+        ],
+        "status": [
+          "src-miri-about"
+        ]
+      },
+      "status": "active",
+      "tax_identifiers": [],
+      "website": "https://intelligence.org/"
+    },
+    {
+      "access_models": [
+        "unknown"
+      ],
+      "activities": {
+        "primary": null,
+        "secondary": []
+      },
+      "aliases": [],
+      "canonical_domains": [
+        "openai.com"
+      ],
+      "claimed_theory_of_change": "Build and deploy advanced AI while developing safeguards and distributing benefits.",
+      "confidence": "high",
+      "contradictions": [],
+      "description": "Frontier AI developer included as context for evaluation, access, and collaboration relationships.",
+      "entity_type": "commercial-company",
+      "first_seen": "2026-09-15",
+      "founded_date": null,
+      "geography": {
+        "city": "San Francisco",
+        "country": "US",
+        "geographic_scope": [
+          "global"
+        ]
+      },
+      "id": "org-openai",
+      "independence": {
+        "appointment_control": null,
+        "conflict_policy_public": "unknown",
+        "developer_cash_funding_policy": "unknown",
+        "developer_cash_funding_share": null,
+        "developer_in_kind_support": [
+          "unknown"
+        ],
+        "funding_disclosure_quality": "unknown",
+        "legal_independence": "commercial-company",
+        "limitations": "No corporate-control audit was performed.",
+        "notes": "Context frontier developer; independence criteria are not applicable in the same way as for evaluators.",
+        "operational_control": null,
+        "publication_rights": "unknown"
+      },
+      "last_verified": "2026-09-15",
+      "leadership": [],
+      "legal_form": "Public benefit corporation controlled by a nonprofit foundation",
+      "legal_name": "OpenAI Group PBC",
+      "lifecycle_stages": {
+        "primary": null,
+        "secondary": []
+      },
+      "mission": "Ensure that artificial general intelligence benefits all of humanity.",
+      "models_evaluated": [],
+      "name": "OpenAI",
+      "next_review_due": "2027-03-15",
+      "parent_or_sponsor_id": null,
+      "primary_display_type": "frontier-developer",
+      "reviewer_notes": "Context only.",
+      "risk_domains": {
+        "primary": null,
+        "secondary": []
+      },
+      "scope": "context",
+      "source_refs": {
+        "activities": [
+          "src-openai-about"
+        ],
+        "description": [
+          "src-openai-about"
+        ],
+        "entity_type": [
+          "src-openai-about"
+        ],
+        "independence": [
+          "src-openai-about"
+        ],
+        "lifecycle_stages": [
+          "src-openai-about"
+        ],
+        "risk_domains": [
+          "src-openai-about"
+        ],
+        "status": [
+          "src-openai-about"
+        ]
+      },
+      "status": "active",
+      "tax_identifiers": [],
+      "website": "https://openai.com/"
+    },
+    {
+      "access_models": [
+        "unknown"
+      ],
+      "activities": {
+        "primary": "tax-activity-alignment-control",
+        "secondary": [
+          "tax-activity-evaluations-benchmarks"
+        ]
+      },
+      "aliases": [],
+      "canonical_domains": [
+        "redwoodresearch.org"
+      ],
+      "claimed_theory_of_change": "Control methods and deception research can make dangerous model behavior detectable and manageable.",
+      "confidence": "medium",
+      "contradictions": [],
+      "description": "Nonprofit technical research organization focused on AI control and strategic deception.",
+      "entity_type": "nonprofit",
+      "first_seen": "2026-09-15",
+      "founded_date": null,
+      "geography": {
+        "city": null,
+        "country": "US",
+        "geographic_scope": [
+          "global"
+        ]
+      },
+      "id": "org-redwood",
+      "independence": {
+        "appointment_control": null,
+        "conflict_policy_public": "unknown",
+        "developer_cash_funding_policy": "unknown",
+        "developer_cash_funding_share": null,
+        "developer_in_kind_support": [
+          "model-access"
+        ],
+        "funding_disclosure_quality": "minimal",
+        "legal_independence": "separate-legal-entity",
+        "limitations": "Funding sources and collaboration terms were not established in this slice.",
+        "notes": "The site discloses collaboration with frontier developers.",
+        "operational_control": null,
+        "publication_rights": "unknown"
+      },
+      "last_verified": "2026-09-15",
+      "leadership": [],
+      "legal_form": "501(c)(3)",
+      "legal_name": "Redwood Research",
+      "lifecycle_stages": {
+        "primary": "tax-life-training-alignment",
+        "secondary": [
+          "tax-life-predeployment-evaluation"
+        ]
+      },
+      "mission": "Reduce risks from advanced AI through empirical technical research.",
+      "models_evaluated": [],
+      "name": "Redwood Research",
+      "next_review_due": "2027-03-15",
+      "parent_or_sponsor_id": null,
+      "primary_display_type": "organization",
+      "reviewer_notes": "Collaboration is shown as a relationship, not interpreted as financial dependence.",
+      "risk_domains": {
+        "primary": "tax-risk-deception-hidden-objectives",
+        "secondary": [
+          "tax-risk-loss-of-control"
+        ]
+      },
+      "scope": "core",
+      "source_refs": {
+        "activities": [
+          "src-redwood-home"
+        ],
+        "description": [
+          "src-redwood-home"
+        ],
+        "entity_type": [
+          "src-redwood-home"
+        ],
+        "independence": [
+          "src-redwood-home"
+        ],
+        "lifecycle_stages": [
+          "src-redwood-home"
+        ],
+        "risk_domains": [
+          "src-redwood-home"
+        ],
+        "status": [
+          "src-redwood-home"
+        ]
+      },
+      "status": "active",
+      "tax_identifiers": [],
+      "website": "https://www.redwoodresearch.org/"
+    },
+    {
+      "access_models": [
+        "unknown"
+      ],
+      "activities": {
+        "primary": "tax-activity-education-field-building-funding",
+        "secondary": []
+      },
+      "aliases": [],
+      "canonical_domains": [
+        "rethinkpriorities.org"
+      ],
+      "claimed_theory_of_change": null,
+      "confidence": "low",
+      "contradictions": [],
+      "description": "Fiscal sponsor included as context for Sampura Research's disclosed legal and operational arrangement.",
+      "entity_type": "unknown",
+      "first_seen": "2026-09-15",
+      "founded_date": null,
+      "geography": {
+        "city": null,
+        "country": null,
+        "geographic_scope": [
+          "global"
+        ]
+      },
+      "id": "org-rethink-priorities",
+      "independence": {
+        "appointment_control": null,
+        "conflict_policy_public": "unknown",
+        "developer_cash_funding_policy": "unknown",
+        "developer_cash_funding_share": null,
+        "developer_in_kind_support": [
+          "unknown"
+        ],
+        "funding_disclosure_quality": "unknown",
+        "legal_independence": "unknown",
+        "limitations": "No standalone assessment of Rethink Priorities was performed.",
+        "notes": "Included only because Sampura identifies it as fiscal sponsor.",
+        "operational_control": null,
+        "publication_rights": "unknown"
+      },
+      "last_verified": "2026-09-15",
+      "leadership": [],
+      "legal_form": null,
+      "legal_name": null,
+      "lifecycle_stages": {
+        "primary": "tax-life-field-building-funding",
+        "secondary": []
+      },
+      "mission": null,
+      "models_evaluated": [],
+      "name": "Rethink Priorities",
+      "next_review_due": "2027-03-15",
+      "parent_or_sponsor_id": null,
+      "primary_display_type": "fiscal-sponsor-incubator",
+      "reviewer_notes": "Context only; even entity type is deliberately left unknown.",
+      "risk_domains": {
+        "primary": null,
+        "secondary": []
+      },
+      "scope": "context",
+      "source_refs": {
+        "activities": [
+          "src-sampura-launch"
+        ],
+        "description": [
+          "src-sampura-launch"
+        ],
+        "entity_type": [
+          "src-sampura-launch"
+        ],
+        "independence": [
+          "src-sampura-launch"
+        ],
+        "lifecycle_stages": [
+          "src-sampura-launch"
+        ],
+        "risk_domains": [
+          "src-sampura-launch"
+        ],
+        "status": [
+          "src-sampura-launch"
+        ]
+      },
+      "status": "active",
+      "tax_identifiers": [],
+      "website": "https://rethinkpriorities.org/"
+    },
+    {
+      "access_models": [
+        "other"
+      ],
+      "activities": {
+        "primary": "tax-activity-standards-frameworks",
+        "secondary": [
+          "tax-activity-forecasting-measurement",
+          "tax-activity-policy-advocacy"
+        ]
+      },
+      "aliases": [],
+      "canonical_domains": [
+        "safer-ai.org"
+      ],
+      "claimed_theory_of_change": "Transparent risk ratings and common management standards can shift incentives and practice.",
+      "confidence": "medium",
+      "contradictions": [],
+      "description": "French nonprofit developing AI risk assessments, company ratings, and risk-management standards.",
+      "entity_type": "nonprofit",
+      "first_seen": "2026-09-15",
+      "founded_date": null,
+      "geography": {
+        "city": "Paris",
+        "country": "France",
+        "geographic_scope": [
+          "Europe",
+          "global"
+        ]
+      },
+      "id": "org-saferai",
+      "independence": {
+        "appointment_control": null,
+        "conflict_policy_public": "unknown",
+        "developer_cash_funding_policy": "unknown",
+        "developer_cash_funding_share": null,
+        "developer_in_kind_support": [
+          "unknown"
+        ],
+        "funding_disclosure_quality": "minimal",
+        "legal_independence": "separate-legal-entity",
+        "limitations": "The independence claim has not been corroborated with funding and governance records.",
+        "notes": "The organization describes itself as independent and publishes a legal registry identifier.",
+        "operational_control": null,
+        "publication_rights": "unknown"
+      },
+      "last_verified": "2026-09-15",
+      "leadership": [
+        {
+          "name": "Henry Papadatos",
+          "role": "Executive Director"
+        }
+      ],
+      "legal_form": "Association loi 1901",
+      "legal_name": "SaferAI",
+      "lifecycle_stages": {
+        "primary": "tax-life-organizational-governance",
+        "secondary": [
+          "tax-life-standards-audit-conformity",
+          "tax-life-policy-regulation"
+        ]
+      },
+      "mission": "Improve AI risk management through measurement, accountability, and standards.",
+      "models_evaluated": [],
+      "name": "SaferAI",
+      "next_review_due": "2027-03-15",
+      "parent_or_sponsor_id": null,
+      "primary_display_type": "organization",
+      "reviewer_notes": "Self-description is recorded separately from verified independence dimensions.",
+      "risk_domains": {
+        "primary": "tax-risk-loss-of-control",
+        "secondary": [
+          "tax-risk-cyber-security",
+          "tax-risk-bio-chem-misuse"
+        ]
+      },
+      "scope": "core",
+      "source_refs": {
+        "activities": [
+          "src-saferai-about"
+        ],
+        "description": [
+          "src-saferai-about"
+        ],
+        "entity_type": [
+          "src-saferai-about"
+        ],
+        "independence": [
+          "src-saferai-about"
+        ],
+        "lifecycle_stages": [
+          "src-saferai-about"
+        ],
+        "risk_domains": [
+          "src-saferai-about"
+        ],
+        "status": [
+          "src-saferai-about"
+        ]
+      },
+      "status": "active",
+      "tax_identifiers": [
+        {
+          "identifier": "91918519900016",
+          "jurisdiction": "France"
+        }
+      ],
+      "website": "https://www.safer-ai.org/"
+    },
+    {
+      "access_models": [
+        "unknown"
+      ],
+      "activities": {
+        "primary": "tax-activity-scalable-oversight",
+        "secondary": [
+          "tax-activity-evaluations-benchmarks",
+          "tax-activity-alignment-control"
+        ]
+      },
+      "aliases": [
+        "Sampura"
+      ],
+      "canonical_domains": [
+        "sampura.org"
+      ],
+      "claimed_theory_of_change": "Better judges, training methods, evaluations, and monitoring can preserve meaningful human oversight.",
+      "confidence": "high",
+      "contradictions": [],
+      "description": "Fiscally sponsored research organization focused on scalable oversight and human-AI complementarity.",
+      "entity_type": "fiscally-sponsored-project",
+      "first_seen": "2026-09-15",
+      "founded_date": "2026-08-25",
+      "geography": {
+        "city": "London",
+        "country": "UK",
+        "geographic_scope": [
+          "global"
+        ]
+      },
+      "id": "org-sampura",
+      "independence": {
+        "appointment_control": null,
+        "conflict_policy_public": "unknown",
+        "developer_cash_funding_policy": "unknown",
+        "developer_cash_funding_share": null,
+        "developer_in_kind_support": [
+          "unknown"
+        ],
+        "funding_disclosure_quality": "partial",
+        "legal_independence": "fiscally-sponsored-project",
+        "limitations": "Sponsor agreement, governance rights, and complete funding mix were not reviewed.",
+        "notes": "Publicly names its fiscal sponsor and initial philanthropic grant.",
+        "operational_control": null,
+        "publication_rights": "unknown"
+      },
+      "last_verified": "2026-09-15",
+      "leadership": [
+        {
+          "name": "Rishub Jain",
+          "role": "Co-founder"
+        },
+        {
+          "name": "Josh Jacob",
+          "role": "Co-founder"
+        }
+      ],
+      "legal_form": "Fiscally sponsored project",
+      "legal_name": null,
+      "lifecycle_stages": {
+        "primary": "tax-life-training-alignment",
+        "secondary": [
+          "tax-life-predeployment-evaluation",
+          "tax-life-deployment-monitoring"
+        ]
+      },
+      "mission": "Develop technical methods that let people reliably oversee and work with increasingly capable AI systems.",
+      "models_evaluated": [],
+      "name": "Sampura Research",
+      "next_review_due": "2027-03-15",
+      "parent_or_sponsor_id": "org-rethink-priorities",
+      "primary_display_type": "organization",
+      "reviewer_notes": "Funding tranches are represented as separate relationship records.",
+      "risk_domains": {
+        "primary": "tax-risk-human-factors-oversight",
+        "secondary": [
+          "tax-risk-loss-of-control",
+          "tax-risk-deception-hidden-objectives"
+        ]
+      },
+      "scope": "core",
+      "source_refs": {
+        "activities": [
+          "src-sampura-launch"
+        ],
+        "description": [
+          "src-sampura-launch"
+        ],
+        "entity_type": [
+          "src-sampura-launch"
+        ],
+        "independence": [
+          "src-sampura-launch"
+        ],
+        "lifecycle_stages": [
+          "src-sampura-launch"
+        ],
+        "risk_domains": [
+          "src-sampura-launch"
+        ],
+        "status": [
+          "src-sampura-launch"
+        ]
+      },
+      "status": "active",
+      "tax_identifiers": [],
+      "website": "https://sampura.org/"
+    }
+  ],
+  "relationships": [
+    {
+      "amount": null,
+      "announcement_date": null,
+      "confidence": "high",
+      "covered_period": null,
+      "id": "rel-ainow-life",
+      "notes": "Primary lifecycle classification.",
+      "possible_duplicate_group": null,
+      "source_id": "org-ai-now",
+      "source_ids": [
+        "src-ainow-about"
+      ],
+      "status": "current",
+      "target_id": "tax-life-policy-regulation",
+      "type": "INTERVENES_AT"
+    },
+    {
+      "amount": null,
+      "announcement_date": null,
+      "confidence": "high",
+      "covered_period": null,
+      "id": "rel-ainow-risk",
+      "notes": "Primary risk classification.",
+      "possible_duplicate_group": null,
+      "source_id": "org-ai-now",
+      "source_ids": [
+        "src-ainow-about"
+      ],
+      "status": "current",
+      "target_id": "tax-risk-labor-power-society",
+      "type": "WORKS_ON"
+    },
+    {
+      "amount": null,
+      "announcement_date": null,
+      "confidence": "high",
+      "covered_period": null,
+      "id": "rel-apollo-life",
+      "notes": "Primary lifecycle classification.",
+      "possible_duplicate_group": null,
+      "source_id": "org-apollo",
+      "source_ids": [
+        "src-apollo-science"
+      ],
+      "status": "current",
+      "target_id": "tax-life-predeployment-evaluation",
+      "type": "INTERVENES_AT"
+    },
+    {
+      "amount": null,
+      "announcement_date": null,
+      "confidence": "high",
+      "covered_period": null,
+      "id": "rel-apollo-risk",
+      "notes": "Primary risk classification.",
+      "possible_duplicate_group": null,
+      "source_id": "org-apollo",
+      "source_ids": [
+        "src-apollo-science"
+      ],
+      "status": "current",
+      "target_id": "tax-risk-deception-hidden-objectives",
+      "type": "WORKS_ON"
+    },
+    {
+      "amount": null,
+      "announcement_date": null,
+      "confidence": "high",
+      "covered_period": null,
+      "id": "rel-cais-life",
+      "notes": "Primary lifecycle classification.",
+      "possible_duplicate_group": null,
+      "source_id": "org-cais",
+      "source_ids": [
+        "src-cais-about"
+      ],
+      "status": "current",
+      "target_id": "tax-life-field-building-funding",
+      "type": "INTERVENES_AT"
+    },
+    {
+      "amount": null,
+      "announcement_date": null,
+      "confidence": "high",
+      "covered_period": null,
+      "id": "rel-cais-risk",
+      "notes": "Primary risk classification.",
+      "possible_duplicate_group": null,
+      "source_id": "org-cais",
+      "source_ids": [
+        "src-cais-about"
+      ],
+      "status": "current",
+      "target_id": "tax-risk-loss-of-control",
+      "type": "WORKS_ON"
+    },
+    {
+      "amount": null,
+      "announcement_date": null,
+      "confidence": "high",
+      "covered_period": null,
+      "id": "rel-govai-life",
+      "notes": "Primary lifecycle classification.",
+      "possible_duplicate_group": null,
+      "source_id": "org-govai",
+      "source_ids": [
+        "src-govai-about"
+      ],
+      "status": "current",
+      "target_id": "tax-life-policy-regulation",
+      "type": "INTERVENES_AT"
+    },
+    {
+      "amount": null,
+      "announcement_date": null,
+      "confidence": "medium",
+      "covered_period": null,
+      "id": "rel-govai-risk",
+      "notes": "Primary risk classification.",
+      "possible_duplicate_group": null,
+      "source_id": "org-govai",
+      "source_ids": [
+        "src-govai-about"
+      ],
+      "status": "current",
+      "target_id": "tax-risk-loss-of-control",
+      "type": "WORKS_ON"
+    },
+    {
+      "amount": null,
+      "announcement_date": null,
+      "confidence": "high",
+      "covered_period": null,
+      "id": "rel-lawzero-life",
+      "notes": "Primary lifecycle classification.",
+      "possible_duplicate_group": null,
+      "source_id": "org-lawzero",
+      "source_ids": [
+        "src-lawzero-launch"
+      ],
+      "status": "current",
+      "target_id": "tax-life-architecture-safe-design",
+      "type": "INTERVENES_AT"
+    },
+    {
+      "amount": null,
+      "announcement_date": null,
+      "confidence": "high",
+      "covered_period": null,
+      "id": "rel-lawzero-risk",
+      "notes": "Primary risk classification.",
+      "possible_duplicate_group": null,
+      "source_id": "org-lawzero",
+      "source_ids": [
+        "src-lawzero-launch"
+      ],
+      "status": "current",
+      "target_id": "tax-risk-loss-of-control",
+      "type": "WORKS_ON"
+    },
+    {
+      "amount": null,
+      "announcement_date": null,
+      "confidence": "medium",
+      "covered_period": null,
+      "id": "rel-metr-evaluated-anthropic",
+      "notes": "METR describes a partnership to pilot frontier risk assessments; exact models are not asserted here.",
+      "possible_duplicate_group": null,
+      "source_id": "org-metr",
+      "source_ids": [
+        "src-metr-about"
+      ],
+      "status": "historical",
+      "target_id": "org-anthropic",
+      "type": "EVALUATED"
+    },
+    {
+      "amount": null,
+      "announcement_date": null,
+      "confidence": "medium",
+      "covered_period": null,
+      "id": "rel-metr-evaluated-deepmind",
+      "notes": "METR describes a partnership to pilot frontier risk assessments; exact models are not asserted here.",
+      "possible_duplicate_group": null,
+      "source_id": "org-metr",
+      "source_ids": [
+        "src-metr-about"
+      ],
+      "status": "historical",
+      "target_id": "org-google-deepmind",
+      "type": "EVALUATED"
+    },
+    {
+      "amount": null,
+      "announcement_date": null,
+      "confidence": "medium",
+      "covered_period": null,
+      "id": "rel-metr-evaluated-openai",
+      "notes": "METR describes a partnership to pilot frontier risk assessments; exact models are not asserted here.",
+      "possible_duplicate_group": null,
+      "source_id": "org-metr",
+      "source_ids": [
+        "src-metr-about"
+      ],
+      "status": "historical",
+      "target_id": "org-openai",
+      "type": "EVALUATED"
+    },
+    {
+      "amount": null,
+      "announcement_date": null,
+      "confidence": "high",
+      "covered_period": null,
+      "id": "rel-metr-life",
+      "notes": "Primary lifecycle classification.",
+      "possible_duplicate_group": null,
+      "source_id": "org-metr",
+      "source_ids": [
+        "src-metr-about"
+      ],
+      "status": "current",
+      "target_id": "tax-life-predeployment-evaluation",
+      "type": "INTERVENES_AT"
+    },
+    {
+      "amount": null,
+      "announcement_date": null,
+      "confidence": "high",
+      "covered_period": null,
+      "id": "rel-metr-risk",
+      "notes": "Primary risk classification.",
+      "possible_duplicate_group": null,
+      "source_id": "org-metr",
+      "source_ids": [
+        "src-metr-about"
+      ],
+      "status": "current",
+      "target_id": "tax-risk-loss-of-control",
+      "type": "WORKS_ON"
+    },
+    {
+      "amount": null,
+      "announcement_date": null,
+      "confidence": "medium",
+      "covered_period": null,
+      "id": "rel-miri-life",
+      "notes": "Primary lifecycle classification.",
+      "possible_duplicate_group": null,
+      "source_id": "org-miri",
+      "source_ids": [
+        "src-miri-about"
+      ],
+      "status": "current",
+      "target_id": "tax-life-policy-regulation",
+      "type": "INTERVENES_AT"
+    },
+    {
+      "amount": null,
+      "announcement_date": null,
+      "confidence": "medium",
+      "covered_period": null,
+      "id": "rel-miri-risk",
+      "notes": "Primary risk classification.",
+      "possible_duplicate_group": null,
+      "source_id": "org-miri",
+      "source_ids": [
+        "src-miri-about"
+      ],
+      "status": "current",
+      "target_id": "tax-risk-loss-of-control",
+      "type": "WORKS_ON"
+    },
+    {
+      "amount": null,
+      "announcement_date": null,
+      "confidence": "high",
+      "covered_period": null,
+      "id": "rel-redwood-collaborated-anthropic",
+      "notes": "Redwood identifies Anthropic as a collaborator; no funding implication is made.",
+      "possible_duplicate_group": null,
+      "source_id": "org-redwood",
+      "source_ids": [
+        "src-redwood-home"
+      ],
+      "status": "historical",
+      "target_id": "org-anthropic",
+      "type": "COLLABORATED_WITH"
+    },
+    {
+      "amount": null,
+      "announcement_date": null,
+      "confidence": "high",
+      "covered_period": null,
+      "id": "rel-redwood-life",
+      "notes": "Primary lifecycle classification.",
+      "possible_duplicate_group": null,
+      "source_id": "org-redwood",
+      "source_ids": [
+        "src-redwood-home"
+      ],
+      "status": "current",
+      "target_id": "tax-life-training-alignment",
+      "type": "INTERVENES_AT"
+    },
+    {
+      "amount": null,
+      "announcement_date": null,
+      "confidence": "high",
+      "covered_period": null,
+      "id": "rel-redwood-risk",
+      "notes": "Primary risk classification.",
+      "possible_duplicate_group": null,
+      "source_id": "org-redwood",
+      "source_ids": [
+        "src-redwood-home"
+      ],
+      "status": "current",
+      "target_id": "tax-risk-deception-hidden-objectives",
+      "type": "WORKS_ON"
+    },
+    {
+      "amount": null,
+      "announcement_date": null,
+      "confidence": "high",
+      "covered_period": null,
+      "id": "rel-saferai-life",
+      "notes": "Primary lifecycle classification.",
+      "possible_duplicate_group": null,
+      "source_id": "org-saferai",
+      "source_ids": [
+        "src-saferai-about"
+      ],
+      "status": "current",
+      "target_id": "tax-life-organizational-governance",
+      "type": "INTERVENES_AT"
+    },
+    {
+      "amount": null,
+      "announcement_date": null,
+      "confidence": "medium",
+      "covered_period": null,
+      "id": "rel-saferai-risk",
+      "notes": "Primary risk classification.",
+      "possible_duplicate_group": null,
+      "source_id": "org-saferai",
+      "source_ids": [
+        "src-saferai-about"
+      ],
+      "status": "current",
+      "target_id": "tax-risk-loss-of-control",
+      "type": "WORKS_ON"
+    },
+    {
+      "amount": {
+        "conversion_date": "2026-08-25",
+        "currency": "USD",
+        "exchange_rate_source": "Native USD",
+        "normalized_usd": 4000000,
+        "restriction": "undisclosed",
+        "status": "pledged",
+        "support_type": "cash",
+        "value": 4000000
+      },
+      "announcement_date": "2026-08-25",
+      "confidence": "high",
+      "covered_period": {
+        "end": null,
+        "start": null
+      },
+      "id": "rel-sampura-funded-coefficient-pledge",
+      "notes": "Additional amount described as pledged; kept separate from the first-year tranche.",
+      "possible_duplicate_group": null,
+      "source_id": "org-sampura",
+      "source_ids": [
+        "src-sampura-launch"
+      ],
+      "status": "announced",
+      "target_id": "org-coefficient-giving",
+      "type": "FUNDED_BY"
+    },
+    {
+      "amount": {
+        "conversion_date": "2026-08-25",
+        "currency": "USD",
+        "exchange_rate_source": "Native USD",
+        "normalized_usd": 7000000,
+        "restriction": "undisclosed",
+        "status": "committed",
+        "support_type": "cash",
+        "value": 7000000
+      },
+      "announcement_date": "2026-08-25",
+      "confidence": "high",
+      "covered_period": {
+        "end": null,
+        "start": "2026"
+      },
+      "id": "rel-sampura-funded-coefficient-year-one",
+      "notes": "First-year portion of the disclosed initial grant.",
+      "possible_duplicate_group": null,
+      "source_id": "org-sampura",
+      "source_ids": [
+        "src-sampura-launch"
+      ],
+      "status": "announced",
+      "target_id": "org-coefficient-giving",
+      "type": "FUNDED_BY"
+    },
+    {
+      "amount": null,
+      "announcement_date": null,
+      "confidence": "high",
+      "covered_period": null,
+      "id": "rel-sampura-life",
+      "notes": "Primary lifecycle classification.",
+      "possible_duplicate_group": null,
+      "source_id": "org-sampura",
+      "source_ids": [
+        "src-sampura-launch"
+      ],
+      "status": "current",
+      "target_id": "tax-life-training-alignment",
+      "type": "INTERVENES_AT"
+    },
+    {
+      "amount": null,
+      "announcement_date": null,
+      "confidence": "high",
+      "covered_period": null,
+      "id": "rel-sampura-risk",
+      "notes": "Primary risk classification.",
+      "possible_duplicate_group": null,
+      "source_id": "org-sampura",
+      "source_ids": [
+        "src-sampura-launch"
+      ],
+      "status": "current",
+      "target_id": "tax-risk-human-factors-oversight",
+      "type": "WORKS_ON"
+    },
+    {
+      "amount": null,
+      "announcement_date": "2026-08-25",
+      "confidence": "high",
+      "covered_period": null,
+      "id": "rel-sampura-sponsored-rethink",
+      "notes": "Fiscal sponsorship disclosed by Sampura.",
+      "possible_duplicate_group": null,
+      "source_id": "org-sampura",
+      "source_ids": [
+        "src-sampura-launch"
+      ],
+      "status": "current",
+      "target_id": "org-rethink-priorities",
+      "type": "FISCALLY_SPONSORED_BY"
+    }
+  ],
+  "schema_version": "1.0.0",
+  "sources": [
+    {
+      "archival_url": null,
+      "id": "src-ainow-about",
+      "notes": "Organization-authored source; funding policy is self-reported.",
+      "publication_date": null,
+      "publisher": "AI Now Institute",
+      "reliability_tier": "primary",
+      "retrieval_date": "2026-09-15",
+      "source_type": "official-page",
+      "support": [
+        {
+          "claim": "AI Now is an independent research institute studying AI's social consequences and concentrated power.",
+          "evidence": "The page describes its research and policy work, 501(c)(3) status, and co-directors.",
+          "location": "About"
+        },
+        {
+          "claim": "AI Now does not accept corporate or technology-industry funding.",
+          "evidence": "Its independence statement says it has followed that policy since becoming independent in mid-2022 and that funders do not dictate research.",
+          "location": "Independence statement"
+        }
+      ],
+      "title": "About AI Now Institute",
+      "url": "https://ainowinstitute.org/about"
+    },
+    {
+      "archival_url": null,
+      "id": "src-anthropic-company",
+      "notes": "Context-node source only.",
+      "publication_date": null,
+      "publisher": "Anthropic",
+      "reliability_tier": "primary",
+      "retrieval_date": "2026-09-15",
+      "source_type": "official-page",
+      "support": [
+        {
+          "claim": "Anthropic is a public benefit corporation that develops frontier AI systems.",
+          "evidence": "The company page describes its corporate form, safety research, and Claude model family.",
+          "location": "Company"
+        }
+      ],
+      "title": "Company",
+      "url": "https://www.anthropic.com/company"
+    },
+    {
+      "archival_url": null,
+      "id": "src-apollo-about",
+      "notes": "Current organization-authored description.",
+      "publication_date": null,
+      "publisher": "Apollo Research",
+      "reliability_tier": "primary",
+      "retrieval_date": "2026-09-15",
+      "source_type": "official-page",
+      "support": [
+        {
+          "claim": "Apollo Research is a public benefit corporation working on scheming and frontier-system security.",
+          "evidence": "The page describes its 2026 public benefit corporation structure, mission, offices, and public operating norms.",
+          "location": "About"
+        }
+      ],
+      "title": "About Apollo Research",
+      "url": "https://www.apolloresearch.ai/about"
+    },
+    {
+      "archival_url": null,
+      "id": "src-apollo-science",
+      "notes": "Organization-authored research overview.",
+      "publication_date": null,
+      "publisher": "Apollo Research",
+      "reliability_tier": "primary",
+      "retrieval_date": "2026-09-15",
+      "source_type": "official-page",
+      "support": [
+        {
+          "claim": "Apollo works on fundamental scheming research and pre-deployment evaluations.",
+          "evidence": "The science page presents these as its two main scientific workstreams.",
+          "location": "Research areas"
+        }
+      ],
+      "title": "Science",
+      "url": "https://www.apolloresearch.ai/science"
+    },
+    {
+      "archival_url": null,
+      "id": "src-cais-about",
+      "notes": "Organization-authored source.",
+      "publication_date": null,
+      "publisher": "Center for AI Safety",
+      "reliability_tier": "primary",
+      "retrieval_date": "2026-09-15",
+      "source_type": "official-page",
+      "support": [
+        {
+          "claim": "CAIS is a nonprofit working on societal-scale AI risks through research, field building, and advocacy.",
+          "evidence": "The page describes these activities and identifies dangerous behavior, reliability, and security as research areas.",
+          "location": "Mission and research"
+        }
+      ],
+      "title": "About the Center for AI Safety",
+      "url": "https://safe.ai/about"
+    },
+    {
+      "archival_url": null,
+      "id": "src-coefficient-about",
+      "notes": "Organization-authored source.",
+      "publication_date": null,
+      "publisher": "Coefficient Giving",
+      "reliability_tier": "primary",
+      "retrieval_date": "2026-09-15",
+      "source_type": "official-page",
+      "support": [
+        {
+          "claim": "Coefficient Giving is a philanthropic funder and advisor.",
+          "evidence": "Its about page describes grantmaking and its primary partnership with Good Ventures.",
+          "location": "About us"
+        }
+      ],
+      "title": "About Coefficient Giving",
+      "url": "https://coefficientgiving.org/about-us/"
+    },
+    {
+      "archival_url": null,
+      "id": "src-deepmind-about",
+      "notes": "Context-node source only.",
+      "publication_date": null,
+      "publisher": "Google DeepMind",
+      "reliability_tier": "primary",
+      "retrieval_date": "2026-09-15",
+      "source_type": "official-page",
+      "support": [
+        {
+          "claim": "Google DeepMind develops frontier AI systems including Gemini.",
+          "evidence": "The page describes its mission, leadership, research, and model development.",
+          "location": "About"
+        }
+      ],
+      "title": "About Google DeepMind",
+      "url": "https://deepmind.google/about/"
+    },
+    {
+      "archival_url": null,
+      "id": "src-govai-about",
+      "notes": "Organization-authored source.",
+      "publication_date": null,
+      "publisher": "Centre for the Governance of AI",
+      "reliability_tier": "primary",
+      "retrieval_date": "2026-09-15",
+      "source_type": "official-page",
+      "support": [
+        {
+          "claim": "GovAI is an independent 501(c)(3) think tank focused on AI governance research and field building.",
+          "evidence": "The page describes its history, legal status, offices, research areas, fellowships, and director.",
+          "location": "About us"
+        }
+      ],
+      "title": "About GovAI",
+      "url": "https://www.governance.ai/about-us"
+    },
+    {
+      "archival_url": null,
+      "id": "src-lawzero-launch",
+      "notes": "Organization-authored launch announcement.",
+      "publication_date": "2025-06-03",
+      "publisher": "LawZero",
+      "reliability_tier": "primary",
+      "retrieval_date": "2026-09-15",
+      "source_type": "official-page",
+      "support": [
+        {
+          "claim": "LawZero is a nonprofit pursuing safe-by-design AI research.",
+          "evidence": "The launch announcement identifies LawZero as a nonprofit developing the Scientist AI approach and names its initial donors.",
+          "location": "Announcement body"
+        },
+        {
+          "claim": "LawZero was incubated at Mila.",
+          "evidence": "The announcement states that LawZero was incubated at Mila and describes Mila as an operating partner.",
+          "location": "Announcement body"
+        }
+      ],
+      "title": "Yoshua Bengio launches LawZero",
+      "url": "https://lawzero.org/en/news/yoshua-bengio-launches-lawzero-new-nonprofit-advancing-safe-design-ai"
+    },
+    {
+      "archival_url": null,
+      "id": "src-metr-about",
+      "notes": "Organization-authored source; independence claims remain self-reported.",
+      "publication_date": null,
+      "publisher": "METR",
+      "reliability_tier": "primary",
+      "retrieval_date": "2026-09-15",
+      "source_type": "official-page",
+      "support": [
+        {
+          "claim": "METR is an independent nonprofit that evaluates frontier AI systems.",
+          "evidence": "The page describes METR as a research nonprofit focused on evaluating whether frontier models pose catastrophic risks.",
+          "location": "About and Our work"
+        },
+        {
+          "claim": "METR does not accept donations from frontier AI company employees but receives in-kind access.",
+          "evidence": "Its funding disclosure says it has not accepted AI-company funding and records free tokens and model access from multiple developers.",
+          "location": "Funding and conflicts of interest"
+        }
+      ],
+      "title": "About METR",
+      "url": "https://metr.org/about"
+    },
+    {
+      "archival_url": null,
+      "id": "src-miri-about",
+      "notes": "Organization-authored source.",
+      "publication_date": null,
+      "publisher": "Machine Intelligence Research Institute",
+      "reliability_tier": "primary",
+      "retrieval_date": "2026-09-15",
+      "source_type": "official-page",
+      "support": [
+        {
+          "claim": "MIRI is a 501(c)(3) focused on preventing catastrophic outcomes from advanced AI.",
+          "evidence": "The page states its legal status, history, and current mission and advocacy priorities.",
+          "location": "About"
+        }
+      ],
+      "title": "About MIRI",
+      "url": "https://intelligence.org/about/"
+    },
+    {
+      "archival_url": null,
+      "id": "src-openai-about",
+      "notes": "Context-node source only.",
+      "publication_date": null,
+      "publisher": "OpenAI",
+      "reliability_tier": "primary",
+      "retrieval_date": "2026-09-15",
+      "source_type": "official-page",
+      "support": [
+        {
+          "claim": "OpenAI is a frontier AI developer with a nonprofit foundation and public benefit corporation group.",
+          "evidence": "The page describes its mission, research and deployment activities, and organizational structure.",
+          "location": "About"
+        }
+      ],
+      "title": "About OpenAI",
+      "url": "https://openai.com/about/"
+    },
+    {
+      "archival_url": null,
+      "id": "src-redwood-home",
+      "notes": "Organization-authored source.",
+      "publication_date": null,
+      "publisher": "Redwood Research",
+      "reliability_tier": "primary",
+      "retrieval_date": "2026-09-15",
+      "source_type": "official-page",
+      "support": [
+        {
+          "claim": "Redwood Research is a nonprofit focused on AI control and strategic deception.",
+          "evidence": "The site describes its 501(c)(3) status and technical work on control and deception.",
+          "location": "Homepage"
+        },
+        {
+          "claim": "Redwood has collaborated with Anthropic.",
+          "evidence": "The site identifies Anthropic among its collaborators and advisees.",
+          "location": "Collaborations"
+        }
+      ],
+      "title": "Redwood Research",
+      "url": "https://www.redwoodresearch.org/"
+    },
+    {
+      "archival_url": null,
+      "id": "src-saferai-about",
+      "notes": "Organization-authored source.",
+      "publication_date": null,
+      "publisher": "SaferAI",
+      "reliability_tier": "primary",
+      "retrieval_date": "2026-09-15",
+      "source_type": "official-page",
+      "support": [
+        {
+          "claim": "SaferAI is a French nonprofit working on risk assessment, ratings, and standards.",
+          "evidence": "The page describes its association status, mission, programs, leadership, and registry identifier.",
+          "location": "About"
+        }
+      ],
+      "title": "About SaferAI",
+      "url": "https://www.safer-ai.org/about"
+    },
+    {
+      "archival_url": null,
+      "id": "src-sampura-launch",
+      "notes": "Organization-authored announcement; funding tranches are modeled separately.",
+      "publication_date": "2026-08-25",
+      "publisher": "Sampura Research",
+      "reliability_tier": "primary",
+      "retrieval_date": "2026-09-15",
+      "source_type": "official-page",
+      "support": [
+        {
+          "claim": "Sampura researches scalable oversight and human-AI complementarity.",
+          "evidence": "The announcement describes work on judges, training, evaluations, and deployment monitoring.",
+          "location": "Research agenda"
+        },
+        {
+          "claim": "Coefficient Giving provided an initial $11 million grant split between $7 million in year one and $4 million pledged.",
+          "evidence": "The announcement gives both tranches and identifies Coefficient Giving.",
+          "location": "Funding disclosure"
+        },
+        {
+          "claim": "Sampura is fiscally sponsored by Rethink Priorities.",
+          "evidence": "The announcement explicitly identifies Rethink Priorities as fiscal sponsor.",
+          "location": "Organization disclosure"
+        }
+      ],
+      "title": "Announcing Sampura Research",
+      "url": "https://sampura.org/news/announcing-sampura-research/"
+    }
+  ],
+  "taxonomy": {
+    "activities": [
+      {
+        "description": "Systematic measurement of model properties and benchmark development.",
+        "id": "tax-activity-evaluations-benchmarks",
+        "label": "Evaluations and benchmarks"
+      },
+      {
+        "description": "Adversarial probing that searches for safety-relevant failure modes.",
+        "id": "tax-activity-red-teaming",
+        "label": "Red teaming"
+      },
+      {
+        "description": "Independent or third-party audit, assurance, and conformity work.",
+        "id": "tax-activity-auditing-assurance",
+        "label": "Auditing and assurance"
+      },
+      {
+        "description": "Methods for understanding model internals and representations.",
+        "id": "tax-activity-interpretability",
+        "label": "Interpretability"
+      },
+      {
+        "description": "Methods that extend human or trusted oversight to more capable systems.",
+        "id": "tax-activity-scalable-oversight",
+        "label": "Scalable oversight"
+      },
+      {
+        "description": "Technical methods intended to align or control advanced AI systems.",
+        "id": "tax-activity-alignment-control",
+        "label": "Alignment and control research"
+      },
+      {
+        "description": "Formal assurance, proofs, structured safety arguments, and safety cases.",
+        "id": "tax-activity-formal-methods-safety-cases",
+        "label": "Formal methods and safety cases"
+      },
+      {
+        "description": "Incident collection, reporting, analysis, and investigation.",
+        "id": "tax-activity-incidents-investigations",
+        "label": "Incident databases and investigations"
+      },
+      {
+        "description": "Standards, risk frameworks, and professional guidance.",
+        "id": "tax-activity-standards-frameworks",
+        "label": "Standards and frameworks"
+      },
+      {
+        "description": "Analysis, advice, or advocacy aimed at public policy and regulation.",
+        "id": "tax-activity-policy-advocacy",
+        "label": "Policy research and advocacy"
+      },
+      {
+        "description": "Empirical forecasting and measurement of AI progress, risks, or impacts.",
+        "id": "tax-activity-forecasting-measurement",
+        "label": "Forecasting and measurement"
+      },
+      {
+        "description": "Training, convening, community infrastructure, and grantmaking.",
+        "id": "tax-activity-education-field-building-funding",
+        "label": "Education, field building, and funding"
+      }
+    ],
+    "lifecycle_stages": [
+      {
+        "description": "Safety interventions in data curation and pre-training.",
+        "id": "tax-life-data-pretraining",
+        "label": "Data curation and pre-training"
+      },
+      {
+        "description": "Architectural, non-agentic, or other safe-by-design research.",
+        "id": "tax-life-architecture-safe-design",
+        "label": "Architecture / safe-by-design"
+      },
+      {
+        "description": "Training objectives, reward design, alignment, control, and training-time oversight.",
+        "id": "tax-life-training-alignment",
+        "label": "Training objectives and alignment"
+      },
+      {
+        "description": "Fine-tuning, guardrails, and mitigations applied after base training.",
+        "id": "tax-life-posttraining-safeguards",
+        "label": "Post-training and safeguards"
+      },
+      {
+        "description": "Testing that informs a decision before public or internal deployment.",
+        "id": "tax-life-predeployment-evaluation",
+        "label": "Pre-deployment evaluation"
+      },
+      {
+        "description": "Assurance and monitoring during real-world deployment.",
+        "id": "tax-life-deployment-monitoring",
+        "label": "Deployment assurance and monitoring"
+      },
+      {
+        "description": "Detection, reporting, analysis, and investigation of AI incidents.",
+        "id": "tax-life-incident-investigation",
+        "label": "Incident detection and investigation"
+      },
+      {
+        "description": "Governance systems, safety cases, internal policies, and organizational controls.",
+        "id": "tax-life-organizational-governance",
+        "label": "Organizational governance and safety cases"
+      },
+      {
+        "description": "Standards, certification, audit, and conformity assessment.",
+        "id": "tax-life-standards-audit-conformity",
+        "label": "Standards, auditing, and conformity assessment"
+      },
+      {
+        "description": "Public policy, law, regulation, and regulatory implementation.",
+        "id": "tax-life-policy-regulation",
+        "label": "Policy and regulation"
+      },
+      {
+        "description": "Training, convening, research infrastructure, and grantmaking.",
+        "id": "tax-life-field-building-funding",
+        "label": "Field building, training, or grantmaking"
+      }
+    ],
+    "risk_domains": [
+      {
+        "description": "Loss of meaningful human control, catastrophic misalignment, or takeover risk.",
+        "id": "tax-risk-loss-of-control",
+        "label": "Loss of control / catastrophic misalignment"
+      },
+      {
+        "description": "Strategic deception, alignment faking, scheming, or concealed goals.",
+        "id": "tax-risk-deception-hidden-objectives",
+        "label": "Deception, scheming, and hidden objectives"
+      },
+      {
+        "description": "Autonomous replication, adaptation, or acceleration of AI research and development.",
+        "id": "tax-risk-autonomous-replication-rd",
+        "label": "Autonomous replication and AI R&D acceleration"
+      },
+      {
+        "description": "Offensive cyber misuse and the security of AI systems and weights.",
+        "id": "tax-risk-cyber-security",
+        "label": "Cyber misuse and security"
+      },
+      {
+        "description": "AI-enabled biological or chemical weapon uplift and related misuse.",
+        "id": "tax-risk-bio-chem-misuse",
+        "label": "Biological or chemical misuse"
+      },
+      {
+        "description": "Distribution shift, adversarial failure, and safety-relevant model reliability.",
+        "id": "tax-risk-robustness-adversarial",
+        "label": "Model robustness and adversarial failure"
+      },
+      {
+        "description": "Privacy, surveillance, and data-protection harms involving AI.",
+        "id": "tax-risk-privacy-data",
+        "label": "Privacy and data protection"
+      },
+      {
+        "description": "Disparate treatment, discrimination, exclusion, and unequal impacts.",
+        "id": "tax-risk-bias-discrimination",
+        "label": "Bias, discrimination, and unequal impact"
+      },
+      {
+        "description": "AI-enabled misinformation, persuasion, manipulation, and damage to shared knowledge.",
+        "id": "tax-risk-misinformation-manipulation",
+        "label": "Misinformation, manipulation, and epistemic integrity"
+      },
+      {
+        "description": "Human oversight, reliance, automation bias, and human–AI coordination.",
+        "id": "tax-risk-human-factors-oversight",
+        "label": "Human factors, oversight, and automation bias"
+      },
+      {
+        "description": "Labor effects, industry concentration, democracy, and other structural societal impacts.",
+        "id": "tax-risk-labor-power-society",
+        "label": "Labor, concentration of power, and societal impacts"
+      },
+      {
+        "description": "Safety in health, infrastructure, transport, defense, and other high-stakes domains.",
+        "id": "tax-risk-critical-domain-safety",
+        "label": "Critical-domain safety"
+      },
+      {
+        "description": "A material AI risk that does not fit another domain and requires an explanatory note.",
+        "id": "tax-risk-other",
+        "label": "Other explained risk"
+      }
+    ]
+  }
+}

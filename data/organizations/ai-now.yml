@@ -1,0 +1,52 @@
+id: org-ai-now
+name: AI Now Institute
+legal_name: AI Now Institute
+aliases: [AI Now]
+website: https://ainowinstitute.org/
+canonical_domains: [ainowinstitute.org]
+description: Independent research institute examining AI's social consequences, accountability, and concentrated power.
+founded_date: '2017'
+status: active
+scope: core
+primary_display_type: organization
+geography: { country: US, city: New York, geographic_scope: [US, global] }
+entity_type: nonprofit
+legal_form: 501(c)(3)
+tax_identifiers: []
+parent_or_sponsor_id: null
+leadership:
+  - { name: Amba Kak, role: Co-Executive Director }
+  - { name: Sarah Myers West, role: Co-Executive Director }
+mission: Produce diagnosis and policy research on the social consequences of artificial intelligence.
+claimed_theory_of_change: Independent research and policy interventions can hold concentrated AI power accountable.
+risk_domains: { primary: tax-risk-labor-power-society, secondary: [tax-risk-bias-discrimination, tax-risk-privacy-data] }
+lifecycle_stages: { primary: tax-life-policy-regulation, secondary: [tax-life-organizational-governance] }
+activities: { primary: tax-activity-policy-advocacy, secondary: [tax-activity-forecasting-measurement] }
+models_evaluated: []
+access_models: [other]
+independence:
+  legal_independence: separate-legal-entity
+  developer_cash_funding_policy: does-not-accept
+  developer_cash_funding_share: 0
+  developer_in_kind_support: [none-disclosed]
+  appointment_control: null
+  operational_control: AI Now states that funders do not dictate its research topics or conclusions.
+  publication_rights: independent
+  conflict_policy_public: unknown
+  funding_disclosure_quality: partial
+  notes: AI Now says it has accepted no corporate or technology-industry funding since becoming independent in mid-2022.
+  limitations: The public statement was not cross-checked against complete audited accounts in this slice.
+source_refs:
+  description: [src-ainow-about]
+  status: [src-ainow-about]
+  entity_type: [src-ainow-about]
+  risk_domains: [src-ainow-about]
+  lifecycle_stages: [src-ainow-about]
+  activities: [src-ainow-about]
+  independence: [src-ainow-about]
+first_seen: 2026-09-15
+last_verified: 2026-09-15
+next_review_due: 2027-03-15
+confidence: high
+reviewer_notes: Independence attributes reflect the institute's explicit public policy.
+contradictions: []

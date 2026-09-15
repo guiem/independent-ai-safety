@@ -1,0 +1,52 @@
+id: org-google-deepmind
+name: Google DeepMind
+legal_name: null
+aliases: [DeepMind]
+website: https://deepmind.google/
+canonical_domains: [deepmind.google]
+description: Frontier AI laboratory included as context for evaluation, access, and collaboration relationships.
+founded_date: null
+status: active
+scope: context
+primary_display_type: frontier-developer
+geography: { country: UK, city: London, geographic_scope: [global] }
+entity_type: commercial-company
+legal_form: Google business unit
+tax_identifiers: []
+parent_or_sponsor_id: null
+leadership:
+  - { name: Demis Hassabis, role: CEO }
+mission: Build AI responsibly to benefit humanity.
+claimed_theory_of_change: Frontier research and product development can advance science and useful AI capabilities.
+risk_domains: { primary: null, secondary: [] }
+lifecycle_stages: { primary: null, secondary: [] }
+activities: { primary: null, secondary: [] }
+models_evaluated: []
+access_models: [unknown]
+independence:
+  legal_independence: commercial-company
+  developer_cash_funding_policy: unknown
+  developer_cash_funding_share: null
+  developer_in_kind_support: [unknown]
+  appointment_control: null
+  operational_control: null
+  publication_rights: unknown
+  conflict_policy_public: unknown
+  funding_disclosure_quality: unknown
+  notes: Context frontier developer; independence criteria are not applicable in the same way as for evaluators.
+  limitations: No corporate-control audit was performed.
+source_refs:
+  description: [src-deepmind-about]
+  status: [src-deepmind-about]
+  entity_type: [src-deepmind-about]
+  risk_domains: [src-deepmind-about]
+  lifecycle_stages: [src-deepmind-about]
+  activities: [src-deepmind-about]
+  independence: [src-deepmind-about]
+first_seen: 2026-09-15
+last_verified: 2026-09-15
+next_review_due: 2027-03-15
+confidence: high
+reviewer_notes: Context only.
+contradictions: []
+
