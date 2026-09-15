@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Independent AI Safety Network — Cytoscape spike</title>
+    <link rel="stylesheet" href="styles.css" />
+    <script src="https://cdn.jsdelivr.net/npm/cytoscape@3.33.4/dist/cytoscape.min.js"></script>
+  </head>
+  <body>
+    <header>
+      <div>
+        <p class="eyebrow">Disposable platform spike · 40 illustrative nodes</p>
+        <h1>Independent AI Safety Network</h1>
+        <p>This validates graph interactions, not canonical research claims.</p>
+      </div>
+      <a href="../../docs/platform-decision.md">Read the decision record</a>
+    </header>
+
+    <main>
+      <aside class="controls" aria-label="Graph controls">
+        <label>
+          Search
+          <input id="search" type="search" placeholder="Organization, topic…" />
+        </label>
+        <label>
+          Node type
+          <select id="nodeType">
+            <option value="all">All types</option>
+            <option value="organization">Core organizations</option>
+            <option value="frontier">Frontier developers</option>
+            <option value="funder">Funders</option>
+            <option value="government">Government institutes</option>
+            <option value="topic">Safety topics</option>
+            <option value="lifecycle">Lifecycle stages</option>
+          </select>
+        </label>
+        <label>
+          Relationship
+          <select id="edgeType">
+            <option value="all">All relationships</option>
+            <option value="FUNDED_BY">Funded by</option>
+            <option value="WORKS_ON">Works on</option>
+            <option value="INTERVENES_AT">Intervenes at</option>
+            <option value="EVALUATED">Evaluated</option>
+            <option value="COLLABORATED_WITH">Collaborated with</option>
+            <option value="FISCALLY_SPONSORED_BY">Fiscally sponsored by</option>
+          </select>
+        </label>
+        <label>
+          Node size
+          <select id="sizeMetric">
+            <option value="equal">Equal</option>
+            <option value="funding">Disclosed funding</option>
+            <option value="headcount">Headcount</option>
+          </select>
+        </label>
+        <label>
+          Node color
+          <select id="colorDimension">
+            <option value="type">Entity type</option>
+            <option value="activity">Primary activity</option>
+          </select>
+        </label>
+        <button id="reset" type="button">Reset view</button>
+        <div class="legend" id="legend" aria-live="polite"></div>
+        <p class="note">Unknown metrics use a neutral size and dotted border; they are never rendered as zero.</p>
+      </aside>
+
+      <section class="graph-wrap" aria-label="Interactive relationship graph">
+        <div id="cy" role="img" aria-label="Interactive network graph. Use the search and filter controls; selected details appear at right."></div>
+        <p id="count" class="count" aria-live="polite"></p>
+      </section>
+
+      <aside id="details" class="details" aria-live="polite">
+        <p class="eyebrow">Selection</p>
+        <h2>Choose a node or edge</h2>
+        <p>Details, uncertainty, and evidence affordances appear here.</p>
+      </aside>
+    </main>
+
+    <script src="app.js"></script>
+  </body>
+</html>
+
