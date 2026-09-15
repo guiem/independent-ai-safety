@@ -50,19 +50,28 @@ const cy = cytoscape({
     { selector: "edge[type = 'EVALUATED']", style: { width: 2.4, "line-color": "#397d9c", "target-arrow-color": "#397d9c" } },
     { selector: "edge[type = 'COLLABORATED_WITH']", style: { "line-style": "dashed", "line-color": "#7459a6", "target-arrow-color": "#7459a6" } },
     { selector: ":selected", style: { "overlay-color": "#efaa43", "overlay-opacity": 0.28, "overlay-padding": 9 } },
-    { selector: ".dim", style: { opacity: 0.06, "text-opacity": 0.06 } }
+    { selector: ".dim", style: { opacity: 0.06, "text-opacity": 0.06, events: "no" } }
   ]
 });
 
 document.querySelector("#loading").hidden = true;
-const controlIds = ["search", "scope", "relationship", "colorBy", "sizeBy"];
+const controlIds = ["search", "scope", "country", "relationship", "colorBy", "sizeBy"];
 const controls = Object.fromEntries(controlIds.map(id => [id, document.querySelector(`#${id}`)]));
+const countries = [...new Set(dataset.organizations.map(org => org.geography.country).filter(Boolean))]
+  .sort((a, b) => displayCountry(a).localeCompare(displayCountry(b)));
+for (const country of countries) {
+  const option = document.createElement("option");
+  option.value = country;
+  option.textContent = `${countryFlag(country)} ${displayCountry(country)}`;
+  controls.country.append(option);
+}
 const initial = new URLSearchParams(location.search);
 for (const [key, control] of Object.entries(controls)) if (initial.has(key)) control.value = initial.get(key);
 
 function update() {
   const query = controls.search.value.trim().toLowerCase();
   const scope = controls.scope.value;
+  const country = controls.country.value;
   const relationship = controls.relationship.value;
   const palette = colors[controls.colorBy.value];
 
@@ -73,7 +82,8 @@ function update() {
       const org = organizations.get(data.id);
       const haystack = [data.name, data.description, org?.risk_domains?.primary, org?.activities?.primary].filter(Boolean).join(" ").toLowerCase();
       const scopeMatch = scope === "all" || data.scope === scope;
-      if (!scopeMatch || (query && !haystack.includes(query))) node.addClass("dim");
+      const countryMatch = country === "all" || org?.geography?.country === country;
+      if (!scopeMatch || !countryMatch || (query && !haystack.includes(query))) node.addClass("dim");
       const independence = org?.independence?.legal_independence || "unknown";
       const key = controls.colorBy.value === "type" ? data.primary_display_type : independence;
       const taxonomyColor = colors.type[data.primary_display_type];
@@ -113,7 +123,7 @@ function renderLegend(palette) {
 }
 
 function persistState() {
-  const defaults = { search: "", scope: "all", relationship: "all", colorBy: "type", sizeBy: "equal" };
+  const defaults = { search: "", scope: "all", country: "all", relationship: "all", colorBy: "type", sizeBy: "equal" };
   const params = new URLSearchParams();
   for (const [key, control] of Object.entries(controls)) if (control.value !== defaults[key]) params.set(key, control.value);
   history.replaceState(null, "", params.size ? `?${params}` : location.pathname);
@@ -127,9 +137,10 @@ function showNode(node) {
   const funding = connected.filter(edge => edge.data("type") === "FUNDED_BY");
   const sourceIds = new Set([...Object.values(org.source_refs).flat(), ...connected.flatMap(edge => edge.data("source_ids") || [])]);
   const independence = org.independence;
+  const flag = countryFlag(org.geography.country);
   setDetails(`
     <p class="eyebrow">${escapeHtml(humanize(org.primary_display_type))} · ${escapeHtml(org.confidence)} confidence</p>
-    <h2>${escapeHtml(org.name)}</h2>
+    <h2 class="org-title"><span>${escapeHtml(org.name)}</span>${flag ? `<span class="country-flag" title="${escapeAttribute(displayCountry(org.geography.country))}" aria-label="${escapeAttribute(displayCountry(org.geography.country))}">${flag}</span>` : ""}</h2>
     <p>${escapeHtml(org.description)}</p>
     <div class="chips">${[org.risk_domains.primary, org.lifecycle_stages.primary, org.activities.primary].filter(Boolean).map(taxonomyChip).join("")}</div>
     <h3>Independence evidence</h3>
@@ -186,6 +197,19 @@ function sourceLink(id) {
 
 function fact(label, value) { return `<dt>${escapeHtml(label)}</dt><dd>${escapeHtml(value ?? "Unknown")}</dd>`; }
 function humanize(value) { return String(value ?? "unknown").replace(/^tax-(risk|life|activity)-/, "").replaceAll("_", " ").replaceAll("-", " ").replace(/\b\w/g, letter => letter.toUpperCase()); }
+function countryCode(country) {
+  return { US: "US", UK: "GB", Canada: "CA", France: "FR" }[country] || (/^[A-Z]{2}$/.test(country || "") ? country : null);
+}
+function countryFlag(country) {
+  const code = countryCode(country);
+  return code ? [...code].map(letter => String.fromCodePoint(127397 + letter.charCodeAt(0))).join("") : "";
+}
+function displayCountry(country) {
+  const code = countryCode(country);
+  if (!code) return country || "Unknown country";
+  try { return new Intl.DisplayNames(["en"], { type: "region" }).of(code); }
+  catch { return country; }
+}
 function setDetails(html) { document.querySelector("#details").innerHTML = html; }
 function escapeHtml(value) { const element = document.createElement("span"); element.textContent = String(value); return element.innerHTML; }
 function escapeAttribute(value) { return escapeHtml(value).replaceAll('"', "&quot;"); }
@@ -195,7 +219,7 @@ cy.on("tap", "node", event => showNode(event.target));
 cy.on("tap", "edge", event => showEdge(event.target));
 for (const control of Object.values(controls)) control.addEventListener("input", update);
 document.querySelector("#reset").addEventListener("click", () => {
-  controls.search.value = ""; controls.scope.value = "all"; controls.relationship.value = "all"; controls.colorBy.value = "type"; controls.sizeBy.value = "equal";
+  controls.search.value = ""; controls.scope.value = "all"; controls.country.value = "all"; controls.relationship.value = "all"; controls.colorBy.value = "type"; controls.sizeBy.value = "equal";
   update(); cy.fit(undefined, 50);
 });
 update();

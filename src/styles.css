@@ -18,6 +18,8 @@ main { display: grid; grid-template-columns: 250px minmax(420px, 1fr) 330px; hei
 .details { border-left: 1px solid #ccc6ba; }
 .control-heading { display: flex; justify-content: space-between; align-items: center; margin-bottom: .9rem; }
 h2 { margin: 0 0 .7rem; font: 600 1.25rem/1.15 "Newsreader", Georgia, serif; }
+.org-title { display: flex; align-items: flex-start; justify-content: space-between; gap: .65rem; }
+.country-flag { flex: none; font-family: system-ui, sans-serif; font-size: 1.35rem; line-height: 1; filter: saturate(.9); }
 h3 { margin: 1.35rem 0 .5rem; font-size: .75rem; letter-spacing: .07em; text-transform: uppercase; }
 p { line-height: 1.5; }
 label { display: grid; gap: .3rem; margin-bottom: .72rem; font-size: .75rem; font-weight: 700; }
@@ -68,4 +70,3 @@ input:focus-visible, select:focus-visible, button:focus-visible, a:focus-visible
   .graph-footer span:last-child { display: none; }
 }
 @media (prefers-reduced-motion: reduce) { *, *::before, *::after { scroll-behavior: auto !important; transition: none !important; } }
-
