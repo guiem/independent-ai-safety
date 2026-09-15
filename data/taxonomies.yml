@@ -1,0 +1,114 @@
+risk_domains:
+  - id: tax-risk-loss-of-control
+    label: Loss of control / catastrophic misalignment
+    description: Loss of meaningful human control, catastrophic misalignment, or takeover risk.
+  - id: tax-risk-deception-hidden-objectives
+    label: Deception, scheming, and hidden objectives
+    description: Strategic deception, alignment faking, scheming, or concealed goals.
+  - id: tax-risk-autonomous-replication-rd
+    label: Autonomous replication and AI R&D acceleration
+    description: Autonomous replication, adaptation, or acceleration of AI research and development.
+  - id: tax-risk-cyber-security
+    label: Cyber misuse and security
+    description: Offensive cyber misuse and the security of AI systems and weights.
+  - id: tax-risk-bio-chem-misuse
+    label: Biological or chemical misuse
+    description: AI-enabled biological or chemical weapon uplift and related misuse.
+  - id: tax-risk-robustness-adversarial
+    label: Model robustness and adversarial failure
+    description: Distribution shift, adversarial failure, and safety-relevant model reliability.
+  - id: tax-risk-privacy-data
+    label: Privacy and data protection
+    description: Privacy, surveillance, and data-protection harms involving AI.
+  - id: tax-risk-bias-discrimination
+    label: Bias, discrimination, and unequal impact
+    description: Disparate treatment, discrimination, exclusion, and unequal impacts.
+  - id: tax-risk-misinformation-manipulation
+    label: Misinformation, manipulation, and epistemic integrity
+    description: AI-enabled misinformation, persuasion, manipulation, and damage to shared knowledge.
+  - id: tax-risk-human-factors-oversight
+    label: Human factors, oversight, and automation bias
+    description: Human oversight, reliance, automation bias, and human–AI coordination.
+  - id: tax-risk-labor-power-society
+    label: Labor, concentration of power, and societal impacts
+    description: Labor effects, industry concentration, democracy, and other structural societal impacts.
+  - id: tax-risk-critical-domain-safety
+    label: Critical-domain safety
+    description: Safety in health, infrastructure, transport, defense, and other high-stakes domains.
+  - id: tax-risk-other
+    label: Other explained risk
+    description: A material AI risk that does not fit another domain and requires an explanatory note.
+
+lifecycle_stages:
+  - id: tax-life-data-pretraining
+    label: Data curation and pre-training
+    description: Safety interventions in data curation and pre-training.
+  - id: tax-life-architecture-safe-design
+    label: Architecture / safe-by-design
+    description: Architectural, non-agentic, or other safe-by-design research.
+  - id: tax-life-training-alignment
+    label: Training objectives and alignment
+    description: Training objectives, reward design, alignment, control, and training-time oversight.
+  - id: tax-life-posttraining-safeguards
+    label: Post-training and safeguards
+    description: Fine-tuning, guardrails, and mitigations applied after base training.
+  - id: tax-life-predeployment-evaluation
+    label: Pre-deployment evaluation
+    description: Testing that informs a decision before public or internal deployment.
+  - id: tax-life-deployment-monitoring
+    label: Deployment assurance and monitoring
+    description: Assurance and monitoring during real-world deployment.
+  - id: tax-life-incident-investigation
+    label: Incident detection and investigation
+    description: Detection, reporting, analysis, and investigation of AI incidents.
+  - id: tax-life-organizational-governance
+    label: Organizational governance and safety cases
+    description: Governance systems, safety cases, internal policies, and organizational controls.
+  - id: tax-life-standards-audit-conformity
+    label: Standards, auditing, and conformity assessment
+    description: Standards, certification, audit, and conformity assessment.
+  - id: tax-life-policy-regulation
+    label: Policy and regulation
+    description: Public policy, law, regulation, and regulatory implementation.
+  - id: tax-life-field-building-funding
+    label: Field building, training, or grantmaking
+    description: Training, convening, research infrastructure, and grantmaking.
+
+activities:
+  - id: tax-activity-evaluations-benchmarks
+    label: Evaluations and benchmarks
+    description: Systematic measurement of model properties and benchmark development.
+  - id: tax-activity-red-teaming
+    label: Red teaming
+    description: Adversarial probing that searches for safety-relevant failure modes.
+  - id: tax-activity-auditing-assurance
+    label: Auditing and assurance
+    description: Independent or third-party audit, assurance, and conformity work.
+  - id: tax-activity-interpretability
+    label: Interpretability
+    description: Methods for understanding model internals and representations.
+  - id: tax-activity-scalable-oversight
+    label: Scalable oversight
+    description: Methods that extend human or trusted oversight to more capable systems.
+  - id: tax-activity-alignment-control
+    label: Alignment and control research
+    description: Technical methods intended to align or control advanced AI systems.
+  - id: tax-activity-formal-methods-safety-cases
+    label: Formal methods and safety cases
+    description: Formal assurance, proofs, structured safety arguments, and safety cases.
+  - id: tax-activity-incidents-investigations
+    label: Incident databases and investigations
+    description: Incident collection, reporting, analysis, and investigation.
+  - id: tax-activity-standards-frameworks
+    label: Standards and frameworks
+    description: Standards, risk frameworks, and professional guidance.
+  - id: tax-activity-policy-advocacy
+    label: Policy research and advocacy
+    description: Analysis, advice, or advocacy aimed at public policy and regulation.
+  - id: tax-activity-forecasting-measurement
+    label: Forecasting and measurement
+    description: Empirical forecasting and measurement of AI progress, risks, or impacts.
+  - id: tax-activity-education-field-building-funding
+    label: Education, field building, and funding
+    description: Training, convening, community infrastructure, and grantmaking.
+

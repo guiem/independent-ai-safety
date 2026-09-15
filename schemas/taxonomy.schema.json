@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://independent-ai-safety.net/schemas/taxonomy.schema.json",
+  "title": "Taxonomy",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["risk_domains", "lifecycle_stages", "activities"],
+  "properties": {
+    "risk_domains": { "$ref": "#/$defs/items" },
+    "lifecycle_stages": { "$ref": "#/$defs/items" },
+    "activities": { "$ref": "#/$defs/items" }
+  },
+  "$defs": { "items": { "type": "array", "minItems": 1, "items": { "type": "object", "additionalProperties": false, "required": ["id", "label", "description"], "properties": { "id": { "type": "string", "pattern": "^tax-[a-z0-9]+(?:-[a-z0-9]+)*$" }, "label": { "type": "string" }, "description": { "type": "string" } } } } }
+}

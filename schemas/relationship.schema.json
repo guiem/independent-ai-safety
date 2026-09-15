@@ -1,0 +1,23 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://independent-ai-safety.net/schemas/relationship.schema.json",
+  "title": "Relationship",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["id", "source_id", "target_id", "type", "status", "announcement_date", "covered_period", "amount", "confidence", "source_ids", "notes", "possible_duplicate_group"],
+  "properties": {
+    "id": { "type": "string", "pattern": "^rel-[a-z0-9]+(?:-[a-z0-9]+)*$" },
+    "source_id": { "type": "string", "pattern": "^(org|tax)-" },
+    "target_id": { "type": "string", "pattern": "^(org|tax)-" },
+    "type": { "enum": ["FUNDED_BY", "FUNDS", "FISCALLY_SPONSORED_BY", "INCUBATED_BY", "SPUN_OUT_OF", "COLLABORATED_WITH", "EVALUATED", "COMMISSIONED_BY", "MEMBER_OF", "AFFILIATED_WITH", "WORKS_ON", "INTERVENES_AT"] },
+    "status": { "enum": ["current", "historical", "announced", "unknown"] },
+    "announcement_date": { "type": ["string", "null"], "pattern": "^[0-9]{4}(?:-[0-9]{2}(?:-[0-9]{2})?)?$" },
+    "covered_period": { "type": ["object", "null"], "additionalProperties": false, "required": ["start", "end"], "properties": { "start": { "type": ["string", "null"], "pattern": "^[0-9]{4}(?:-[0-9]{2}(?:-[0-9]{2})?)?$" }, "end": { "type": ["string", "null"], "pattern": "^[0-9]{4}(?:-[0-9]{2}(?:-[0-9]{2})?)?$" } } },
+    "amount": { "type": ["object", "null"], "additionalProperties": false, "required": ["value", "currency", "status", "support_type", "restriction", "normalized_usd", "exchange_rate_source", "conversion_date"], "properties": { "value": { "type": ["number", "null"], "minimum": 0 }, "currency": { "type": ["string", "null"], "pattern": "^[A-Z]{3}$" }, "status": { "enum": ["pledged", "committed", "awarded", "received", "undisclosed"] }, "support_type": { "enum": ["cash", "in-kind", "mixed", "unknown"] }, "restriction": { "enum": ["restricted", "unrestricted", "mixed", "undisclosed", "not-applicable"] }, "normalized_usd": { "type": ["number", "null"], "minimum": 0 }, "exchange_rate_source": { "type": ["string", "null"] }, "conversion_date": { "type": ["string", "null"], "format": "date" } } },
+    "confidence": { "enum": ["high", "medium", "low", "unknown"] },
+    "source_ids": { "type": "array", "minItems": 1, "uniqueItems": true, "items": { "type": "string", "pattern": "^src-" } },
+    "notes": { "type": ["string", "null"] },
+    "possible_duplicate_group": { "type": ["string", "null"] }
+  }
+}
+
