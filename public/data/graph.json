@@ -811,7 +811,7 @@
         "founded_date": null,
         "geography": {
           "city": null,
-          "country": null,
+          "country": "US",
           "geographic_scope": [
             "UK",
             "US",
@@ -860,7 +860,7 @@
         "next_review_due": "2027-03-15",
         "parent_or_sponsor_id": null,
         "primary_display_type": "organization",
-        "reviewer_notes": "Independence is decomposed; PBC status is not treated as proof of client independence.",
+        "reviewer_notes": "Country follows the current Delaware registration; UK and US operations remain in geographic_scope. PBC status is not treated as proof of client independence.",
         "risk_domains": {
           "primary": "tax-risk-deception-hidden-objectives",
           "secondary": [
@@ -893,7 +893,12 @@
           ]
         },
         "status": "active",
-        "tax_identifiers": [],
+        "tax_identifiers": [
+          {
+            "identifier": "93-4310599",
+            "jurisdiction": "US"
+          }
+        ],
         "website": "https://www.apolloresearch.ai/"
       }
     },

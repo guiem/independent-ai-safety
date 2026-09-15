@@ -9,10 +9,11 @@ founded_date: null
 status: active
 scope: core
 primary_display_type: organization
-geography: { country: null, city: null, geographic_scope: [UK, US, global] }
+geography: { country: US, city: null, geographic_scope: [UK, US, global] }
 entity_type: commercial-company
 legal_form: Public benefit corporation
-tax_identifiers: []
+tax_identifiers:
+  - { jurisdiction: US, identifier: 93-4310599 }
 parent_or_sponsor_id: null
 leadership: []
 mission: Secure frontier AI systems across development, deployment, and governance.
@@ -46,6 +47,5 @@ first_seen: 2026-09-15
 last_verified: 2026-09-15
 next_review_due: 2027-03-15
 confidence: high
-reviewer_notes: Independence is decomposed; PBC status is not treated as proof of client independence.
+reviewer_notes: Country follows the current Delaware registration; UK and US operations remain in geographic_scope. PBC status is not treated as proof of client independence.
 contradictions: []
-

@@ -68,6 +68,9 @@
     - claim: Apollo Research is a public benefit corporation working on scheming and frontier-system security.
       evidence: The page describes its 2026 public benefit corporation structure, mission, offices, and public operating norms.
       location: About
+    - claim: Apollo Research is registered in the United States.
+      evidence: The page lists EIN 93-4310599 and identifies the registration jurisdiction as Delaware, USA.
+      location: Registration
   notes: Current organization-authored description.
 
 - id: src-apollo-science
@@ -240,4 +243,3 @@
       evidence: The page describes its mission, leadership, research, and model development.
       location: About
   notes: Context-node source only.
-

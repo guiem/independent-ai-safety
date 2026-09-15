@@ -223,7 +223,7 @@
       "founded_date": null,
       "geography": {
         "city": null,
-        "country": null,
+        "country": "US",
         "geographic_scope": [
           "UK",
           "US",
@@ -263,7 +263,7 @@
       "next_review_due": "2027-03-15",
       "parent_or_sponsor_id": null,
       "primary_display_type": "organization",
-      "reviewer_notes": "Independence is decomposed; PBC status is not treated as proof of client independence.",
+      "reviewer_notes": "Country follows the current Delaware registration; UK and US operations remain in geographic_scope. PBC status is not treated as proof of client independence.",
       "risk_domains": {
         "primary": "tax-risk-deception-hidden-objectives",
         "secondary": [
@@ -296,7 +296,12 @@
         ]
       },
       "status": "active",
-      "tax_identifiers": [],
+      "tax_identifiers": [
+        {
+          "identifier": "93-4310599",
+          "jurisdiction": "US"
+        }
+      ],
       "website": "https://www.apolloresearch.ai/"
     },
     {
@@ -2020,6 +2025,11 @@
           "claim": "Apollo Research is a public benefit corporation working on scheming and frontier-system security.",
           "evidence": "The page describes its 2026 public benefit corporation structure, mission, offices, and public operating norms.",
           "location": "About"
+        },
+        {
+          "claim": "Apollo Research is registered in the United States.",
+          "evidence": "The page lists EIN 93-4310599 and identifies the registration jurisdiction as Delaware, USA.",
+          "location": "Registration"
         }
       ],
       "title": "About Apollo Research",
