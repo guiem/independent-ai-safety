@@ -59,7 +59,12 @@ test("candidate confidence distinguishes primary confirmation and corroboration"
 
 test("generated graph exposes scored candidate leads separately", async () => {
   const graph = JSON.parse(await readFile(new URL("../public/data/graph.json", import.meta.url), "utf8"));
+  const dataset = JSON.parse(await readFile(new URL("../public/data/dataset.json", import.meta.url), "utf8"));
+  const generatedVersion = await readFile(new URL("../src/data-version.js", import.meta.url), "utf8");
   const candidateNodes = graph.nodes.filter(node => node.data.scope === "candidate");
+  assert.equal(graph.data_version, dataset.data_version);
+  assert.match(graph.data_version, /^[a-f0-9]{16}$/);
+  assert.match(generatedVersion, new RegExp(`DATA_VERSION = "${graph.data_version}"`));
   assert.ok(candidateNodes.length > 0);
   assert.ok(candidateNodes.every(node => Number.isInteger(node.data.confidence_level) && node.data.confidence_level >= 1 && node.data.confidence_level <= 5));
   assert.ok(candidateNodes.every(node => node.data.evidence_level === "discovery-only"));

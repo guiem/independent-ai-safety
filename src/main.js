@@ -1,22 +1,27 @@
 import cytoscape from "cytoscape";
 import "./styles.css";
+import { DATA_VERSION } from "./data-version.js";
 
 main().catch(error => {
   console.error(error);
   const loading = document.querySelector("#loading");
-  loading.textContent = "The reviewed dataset could not be loaded. Run npm run build:data and reload.";
+  loading.innerHTML = `The data files could not be loaded consistently. <button id="reload-data" class="inline-reload" type="button">Reload</button>`;
+  document.querySelector("#reload-data")?.addEventListener("click", () => location.reload());
 });
 
 async function main() {
 const graphUrl = new URL("./data/graph.json", window.location.href);
 const datasetUrl = new URL("./data/dataset.json", window.location.href);
+graphUrl.searchParams.set("v", DATA_VERSION);
+datasetUrl.searchParams.set("v", DATA_VERSION);
 const [graph, dataset] = await Promise.all([
-  fetch(graphUrl).then(requireOk).then(response => response.json()),
-  fetch(datasetUrl).then(requireOk).then(response => response.json())
+  fetch(graphUrl, { cache:"no-store" }).then(requireOk).then(response => response.json()),
+  fetch(datasetUrl, { cache:"no-store" }).then(requireOk).then(response => response.json())
 ]);
+if (graph.data_version !== DATA_VERSION || dataset.data_version !== DATA_VERSION) throw new Error(`Data version mismatch: expected ${DATA_VERSION}`);
 
 const organizations = new Map(dataset.organizations.map(item => [item.id, item]));
-const candidates = new Map(dataset.candidates.map(item => [item.id, item]));
+const candidates = new Map((dataset.candidates || []).map(item => [item.id, item]));
 const sources = new Map(dataset.sources.map(item => [item.id, item]));
 const nodes = graph.nodes.map(node => ({ data: { ...node.data, label: node.data.name } }));
 const elements = [...nodes, ...graph.edges];

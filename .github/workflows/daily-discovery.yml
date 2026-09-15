@@ -54,7 +54,9 @@ jobs:
           fi
           git config user.name "independent-ai-safety-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/candidates/registry.yml data/discovery/state.json reports/discovery/latest.md public/data/candidates.json public/data/candidates.csv
+          git add data/candidates/registry.yml data/discovery/state.json reports/discovery/latest.md \
+            public/data/candidates.json public/data/candidates.csv public/data/dataset.json \
+            public/data/graph.json public/data/graph.graphml src/data-version.js
           git commit -m "chore: update daily discovery review"
           git push --force-with-lease origin "$DISCOVERY_BRANCH"
           echo "changed=true" >> "$GITHUB_OUTPUT"
