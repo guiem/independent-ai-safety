@@ -3473,6 +3473,24 @@
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
   confidence_level: 2
   confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
+- id: cand-maisi-org
+  name: Mathematical AI Safety Institute (MAISI)
+  website: https://maisi.org/
+  canonical_domain: maisi.org
+  status: new
+  discovery_sources:
+    - discovery-aisafety-map
+  listing_urls:
+    - https://aisafety.com/map
+  source_contexts:
+    - Conceptual research
+  first_seen: 2026-09-16
+  last_seen: 2026-09-16
+  evidence_level: discovery-only
+  inclusion_hint: borderline
+  confidence_level: 2
+  confidence_basis: Found in one broad ecosystem directory; scope and identity need review.
+  notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
 - id: cand-manifold-markets
   name: Manifold Markets
   website: https://manifold.markets/

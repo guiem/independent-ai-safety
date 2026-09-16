@@ -1,6 +1,6 @@
 {
   "data_as_of": "2026-09-15",
-  "data_version": "9e268ce295838e6e",
+  "data_version": "76afa246635e4e20",
   "edges": [
     {
       "data": {
@@ -7581,6 +7581,34 @@
         ],
         "status": "new",
         "website": "https://macroscopic.org/"
+      }
+    },
+    {
+      "data": {
+        "canonical_domain": "maisi.org",
+        "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+        "confidence_level": 2,
+        "description": "Unreviewed organization lead from the discovery pipeline.",
+        "discovery_sources": [
+          "discovery-aisafety-map"
+        ],
+        "evidence_level": "discovery-only",
+        "first_seen": "2026-09-16",
+        "id": "cand-maisi-org",
+        "inclusion_hint": "borderline",
+        "last_seen": "2026-09-16",
+        "listing_urls": [
+          "https://aisafety.com/map"
+        ],
+        "name": "Mathematical AI Safety Institute (MAISI)",
+        "notes": "Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.",
+        "primary_display_type": "candidate",
+        "scope": "candidate",
+        "source_contexts": [
+          "Conceptual research"
+        ],
+        "status": "new",
+        "website": "https://maisi.org/"
       }
     },
     {

@@ -20,9 +20,9 @@
     },
     "discovery-aisafety-map": {
       "url": "https://aisafety.com/map",
-      "hash": "310292d327f4c2850da6ac81b56263a33666eb4d3149efb297cf12fcee2c357c",
-      "checked_at": "2026-09-15",
-      "etag": "W/\"6umdj48p3nd8de\"",
+      "hash": "ed2395eb04fe2dbd0a3ac6188003e0eef142d678dbcdd6a83177687db0d10207",
+      "checked_at": "2026-09-16",
+      "etag": "W/\"6x2blrcvhdd8ks\"",
       "last_modified": null,
       "entity_keys": [
         "acsresearch.org",
@@ -166,6 +166,7 @@
         "longview.org",
         "luthienresearch.org",
         "macroscopic.org",
+        "maisi.org",
         "manifold.markets",
         "manifund.org",
         "matsprogram.org",
@@ -225,7 +226,6 @@
         "survivalandflourishing.fund",
         "talosnetwork.org",
         "taraprogram.org",
-        "tarbellcenter.org",
         "theaipi.org",
         "theaipn.org",
         "thecompendium.ai",
@@ -401,9 +401,9 @@
     },
     "discovery-watch-metr-about": {
       "url": "https://metr.org/about",
-      "hash": "fa7c5d7aaac011b8f1b67b8e8045c5e5cad5a13d659c7a633dc668f1cfba8fdf",
-      "checked_at": "2026-09-15",
-      "etag": "\"145ff1bd53ea33525e07b815ea04e8e6-ssl-df\"",
+      "hash": "01c3b7b79a40894a8af15f2f77ef10d6894c60477adaf6202c9f32f5b8b5098c",
+      "checked_at": "2026-09-16",
+      "etag": "\"555a4b45eb9852f66e1b4df7c3113a6c-ssl-df\"",
       "last_modified": null,
       "entity_keys": []
     },
@@ -505,9 +505,9 @@
     },
     "discovery-watch-deepmind-about": {
       "url": "https://deepmind.google/about/",
-      "hash": "cd92eadce031c42d2637c6ae6187a0c52bc0d28ccd240dad4b9a91edf6fb3d93",
-      "checked_at": "2026-09-15",
-      "etag": null,
+      "hash": "b8509193ac8c2019e7c442c1404879899bd0af2e5b96527e50504ed52d6f094a",
+      "checked_at": "2026-09-16",
+      "etag": "\"u5w8wA\"",
       "last_modified": null,
       "entity_keys": []
     },

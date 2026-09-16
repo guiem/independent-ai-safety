@@ -212,6 +212,7 @@
     <node id="cand-longview-org"><data key="label">Longview Philanthropy</data><data key="type">candidate</data><data key="scope">candidate</data></node>
     <node id="cand-luthienresearch-org"><data key="label">Luthien</data><data key="type">candidate</data><data key="scope">candidate</data></node>
     <node id="cand-macroscopic-org"><data key="label">Macroscopic Ventures</data><data key="type">candidate</data><data key="scope">candidate</data></node>
+    <node id="cand-maisi-org"><data key="label">Mathematical AI Safety Institute (MAISI)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
     <node id="cand-manifold-markets"><data key="label">Manifold Markets</data><data key="type">candidate</data><data key="scope">candidate</data></node>
     <node id="cand-manifund-org"><data key="label">AI Safety Tactical Opportunities Fund (AISTOF)</data><data key="type">candidate</data><data key="scope">candidate</data></node>
     <node id="cand-matsprogram-org"><data key="label">Machine Alignment, Transparency, and Security (MATS)</data><data key="type">candidate</data><data key="scope">candidate</data></node>

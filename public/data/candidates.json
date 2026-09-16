@@ -4386,6 +4386,29 @@
       "website": "https://macroscopic.org/"
     },
     {
+      "canonical_domain": "maisi.org",
+      "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
+      "confidence_level": 2,
+      "discovery_sources": [
+        "discovery-aisafety-map"
+      ],
+      "evidence_level": "discovery-only",
+      "first_seen": "2026-09-16",
+      "id": "cand-maisi-org",
+      "inclusion_hint": "borderline",
+      "last_seen": "2026-09-16",
+      "listing_urls": [
+        "https://aisafety.com/map"
+      ],
+      "name": "Mathematical AI Safety Institute (MAISI)",
+      "notes": "Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.",
+      "source_contexts": [
+        "Conceptual research"
+      ],
+      "status": "new",
+      "website": "https://maisi.org/"
+    },
+    {
       "canonical_domain": "manifold.markets",
       "confidence_basis": "Found in one broad ecosystem directory; scope and identity need review.",
       "confidence_level": 2,
