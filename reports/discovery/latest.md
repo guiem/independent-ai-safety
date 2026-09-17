@@ -1,27 +1,27 @@
 # Daily discovery review
 
-Run date: 2026-09-16
+Run date: 2026-09-17
 
 This report contains discovery leads only. Nothing here is canonical until a reviewer checks primary sources and creates or updates normalized records.
 
 ## Summary
 
 - Candidate registry: 282
-- New organization-site leads: 1
-- Existing candidates found by an additional source: 0
+- New organization-site leads: 0
+- Existing candidates found by an additional source: 1
 - New launch/funding/evaluation article leads: 0
-- Changed discovery or canonical evidence pages: 3
-- Leads no longer present in a directory: 1
+- Changed discovery or canonical evidence pages: 2
+- Leads no longer present in a directory: 0
 - Fetch failures: 3
 - Robots exclusions: 1
 
 ## New organization-site leads
 
-- [Mathematical AI Safety Institute (MAISI)](https://maisi.org/) — maisi.org; via discovery-aisafety-map
+- None.
 
 ## Candidates corroborated by another directory
 
-- None.
+- [Cambridge Boston Alignment Initiative (CBAI)](https://www.cbai.ai/) — cbai.ai; via discovery-aisafety-map
 
 ## New event leads
 
@@ -30,12 +30,11 @@ This report contains discovery leads only. Nothing here is canonical until a rev
 ## Changed source pages
 
 - AISafety.com field map
-- Tracked source: METR — About METR
-- Tracked source: Google DeepMind — About Google DeepMind
+- Tracked source: AI Now Institute — About AI Now Institute
 
 ## Leads no longer listed
 
-- tarbellcenter.org — previously in AISafety.com field map
+- None.
 
 ## Fetch failures
 

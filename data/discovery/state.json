@@ -20,9 +20,9 @@
     },
     "discovery-aisafety-map": {
       "url": "https://aisafety.com/map",
-      "hash": "ed2395eb04fe2dbd0a3ac6188003e0eef142d678dbcdd6a83177687db0d10207",
-      "checked_at": "2026-09-16",
-      "etag": "W/\"6x2blrcvhdd8ks\"",
+      "hash": "800733755e34a8abca29c8206fb51959f9277f9116231916fb838bc3efd008a0",
+      "checked_at": "2026-09-17",
+      "etag": "W/\"12416275e13da766ecd93a99096ed2da\"",
       "last_modified": null,
       "entity_keys": [
         "acsresearch.org",
@@ -473,10 +473,10 @@
     },
     "discovery-watch-ainow-about": {
       "url": "https://ainowinstitute.org/about",
-      "hash": "3706de1ae83dc1b33d33ba47f994c0e2521c7288c3750c0c398c33de77296c02",
-      "checked_at": "2026-09-15",
+      "hash": "ca6e21b69a5bba3dee84398e4cfe91b0b8ddc4c84fcda5f8825a0048ddd46507",
+      "checked_at": "2026-09-17",
       "etag": null,
-      "last_modified": "Tue, 15 Sep 2026 06:26:34 GMT",
+      "last_modified": "Thu, 17 Sep 2026 07:59:41 GMT",
       "entity_keys": []
     },
     "discovery-watch-coefficient-about": {

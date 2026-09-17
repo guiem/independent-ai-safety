@@ -1,6 +1,6 @@
 {
   "data_as_of": "2026-09-15",
-  "data_version": "76afa246635e4e20",
+  "data_version": "5b0c4601ca3c99d5",
   "edges": [
     {
       "data": {
@@ -4165,7 +4165,7 @@
         "first_seen": "2026-09-15",
         "id": "cand-cbai-ai",
         "inclusion_hint": "borderline",
-        "last_seen": "2026-09-15",
+        "last_seen": "2026-09-17",
         "listing_urls": [
           "https://aisafety.com/map"
         ],
@@ -4174,7 +4174,8 @@
         "primary_display_type": "candidate",
         "scope": "candidate",
         "source_contexts": [
-          "Training and education"
+          "Training and education",
+          "Training and education, Research support"
         ],
         "status": "new",
         "website": "https://www.cbai.ai/"

@@ -1580,14 +1580,15 @@
       "first_seen": "2026-09-15",
       "id": "cand-cbai-ai",
       "inclusion_hint": "borderline",
-      "last_seen": "2026-09-15",
+      "last_seen": "2026-09-17",
       "listing_urls": [
         "https://aisafety.com/map"
       ],
       "name": "Cambridge Boston Alignment Initiative (CBAI)",
       "notes": "Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.",
       "source_contexts": [
-        "Training and education"
+        "Training and education",
+        "Training and education, Research support"
       ],
       "status": "new",
       "website": "https://www.cbai.ai/"

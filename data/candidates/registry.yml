@@ -1253,8 +1253,9 @@
     - https://aisafety.com/map
   source_contexts:
     - Training and education
+    - Training and education, Research support
   first_seen: 2026-09-15
-  last_seen: 2026-09-15
+  last_seen: 2026-09-17
   evidence_level: discovery-only
   inclusion_hint: borderline
   notes: Automatically discovered external-site lead; verify scope, legal identity, status, and primary sources before promotion.
