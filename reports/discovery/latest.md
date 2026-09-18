@@ -1,6 +1,6 @@
 # Daily discovery review
 
-Run date: 2026-09-17
+Run date: 2026-09-18
 
 This report contains discovery leads only. Nothing here is canonical until a reviewer checks primary sources and creates or updates normalized records.
 
@@ -8,9 +8,9 @@ This report contains discovery leads only. Nothing here is canonical until a rev
 
 - Candidate registry: 282
 - New organization-site leads: 0
-- Existing candidates found by an additional source: 1
+- Existing candidates found by an additional source: 0
 - New launch/funding/evaluation article leads: 0
-- Changed discovery or canonical evidence pages: 2
+- Changed discovery or canonical evidence pages: 3
 - Leads no longer present in a directory: 0
 - Fetch failures: 3
 - Robots exclusions: 1
@@ -21,7 +21,7 @@ This report contains discovery leads only. Nothing here is canonical until a rev
 
 ## Candidates corroborated by another directory
 
-- [Cambridge Boston Alignment Initiative (CBAI)](https://www.cbai.ai/) — cbai.ai; via discovery-aisafety-map
+- None.
 
 ## New event leads
 
@@ -29,7 +29,8 @@ This report contains discovery leads only. Nothing here is canonical until a rev
 
 ## Changed source pages
 
-- AISafety.com field map
+- AI Evaluator Forum members
+- Tracked source: METR — About METR
 - Tracked source: AI Now Institute — About AI Now Institute
 
 ## Leads no longer listed

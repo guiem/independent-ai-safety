@@ -3,10 +3,19 @@
   "sources": {
     "discovery-aef-members": {
       "url": "https://aievaluatorforum.org/about/members",
-      "hash": "20fa8980713339d3ee7d8b48e5ffcdcc27f6eca54509a0e4834fd8f72e36dbea",
-      "checked_at": "2026-09-15",
-      "etag": "W/\"938e1e6a67e7369b0a6138f81b091b73\"",
-      "last_modified": null
+      "hash": "c5745521167028608c39639524d60628afbb40650f9ec4d49f787bac1756faf8",
+      "checked_at": "2026-09-18",
+      "etag": "W/\"341ef99550b8fc96bc77e60a02918d2a\"",
+      "last_modified": null,
+      "entity_keys": [
+        "averi.org",
+        "cip.org",
+        "hal.cs.princeton.edu",
+        "meridianlabs.ai",
+        "rand.org",
+        "securebio.org",
+        "transluce.org"
+      ]
     },
     "discovery-mindxo-atlas": {
       "url": "https://www.mind-xo.com/ai-safety-organizations-atlas/",
@@ -401,9 +410,9 @@
     },
     "discovery-watch-metr-about": {
       "url": "https://metr.org/about",
-      "hash": "01c3b7b79a40894a8af15f2f77ef10d6894c60477adaf6202c9f32f5b8b5098c",
-      "checked_at": "2026-09-16",
-      "etag": "\"555a4b45eb9852f66e1b4df7c3113a6c-ssl-df\"",
+      "hash": "f089be48d722075cac778da5ef2d447858efd0db5dd1f08b30251f485ee8d9b9",
+      "checked_at": "2026-09-18",
+      "etag": "\"dd76ec274798d714b6acbbbc675a4715-ssl-df\"",
       "last_modified": null,
       "entity_keys": []
     },
@@ -473,10 +482,10 @@
     },
     "discovery-watch-ainow-about": {
       "url": "https://ainowinstitute.org/about",
-      "hash": "ca6e21b69a5bba3dee84398e4cfe91b0b8ddc4c84fcda5f8825a0048ddd46507",
-      "checked_at": "2026-09-17",
+      "hash": "28f049550bb44ade8322f48a315f2a66c373e60ea4b6abbdbbe9c0719c23f2a1",
+      "checked_at": "2026-09-18",
       "etag": null,
-      "last_modified": "Thu, 17 Sep 2026 07:59:41 GMT",
+      "last_modified": null,
       "entity_keys": []
     },
     "discovery-watch-coefficient-about": {
